@@ -132,7 +132,7 @@ http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
 #EXTINF:-1  tvg-name="TRT Belgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Eğlence",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-name="National Geographic WILD.tr" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/Default/Images/Main/NGC_logo.png" group-title="Belgesel",National Geographic Wild
-http://tgr25.pro:8080/live/recep09/09recep/186393.ts
+http://103.161.34.98:8080/033yolveren-e/WnGHgg2yEtR2/6378
 #EXTINF:-1  tvg-name="Yaban TV" tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="Belgesel",Yaban TV
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:-1  tvg-name="Discovery.tr" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1" group-title="Belgesel",DISCOVERY CHANNEL
