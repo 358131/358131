@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
 #EXTINF:-1  tvg-name="SINEMA" tvg-id="Sinema Tv.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-tv-768x104.png" group-title="SINEMA",SINEMAa
-#http://tgr25.pro:8080/live/recep09/09recep/279.ts
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432487
+http://tgr25.pro:8080/live/recep09/09recep/279.ts
 #EXTINF:-1  tvg-name="SINEMA 2" tvg-id="Sinema Tv 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-2-tv-768x117.png" group-title="SINEMA",SINEMA 2
 http://tgr25.pro:8080/live/recep09/09recep/280.ts
 #EXTINF:-1  tvg-name="SINEMA AKSİYON" tvg-id="Sinema Tv Aksiyon.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-768x70.png" group-title="SINEMA",SINEMA AKSİYON
