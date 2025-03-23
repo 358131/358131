@@ -118,9 +118,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1  tvg-name="Sports TV" tvg-id="Sports Tv.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
 http://stream.tvcdn.net/spor/sports-tv.m3u8
 #EXTINF:-1  tvg-name="beIN Sports Haber" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="Spor",beIN Sports Haber
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742739906/ei/YsXfZ72CKYOE6dsP8ZOp0AU/ip/92.205.151.109/id/VCl1wO81VdM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcOZ4FFXTMzx9GTu3sJYlNNHX-xTVjMLY2d09tqXPUcLddkrU_lVuSAtAyVk2yTqCz0cr1zrnS95/spc/_S3wKmxViIqoHgneNMURRJi5xXRLDl_4-uZ0VHIRaS-y67aFC9mWu8DSQtUmsylj95qMrRE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgVtx54xF-HEic2QxcQeCW3sHpQEa_41B2TuZRt10GPG4CIBCZk5At9Xyptzkod0BK6UgPOHhiFLCIOtE9jaau-dVY/file/index.m3u8
+https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="Tivibu Spor" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="Spor",Tivibu Spor
-http://stream.tvcdn.net/spor/tivibu-spor.m3u8
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1746
 #EXTINF:-1  tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="Eğlence",DMAX
 http://stream.tvcdn.net/eglence/dmax.m3u8
 #EXTINF:-1  tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" group-title="Eğlence",TLC
