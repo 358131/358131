@@ -147,22 +147,35 @@ http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
 http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 #EXTINF:-1  tvg-name="Yol TV" tvg-logo="http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png" group-title="Haber",Yol TV
 https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8
+
+
 #EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="beIN SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10",beIN Sports 1
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
+
+#EXTINF:-1,BEIN SPORTS 1 FHD
+http://xu.port360.xyz:8080/play/HnfCrfcbNSIsx96vtMRn4QclK3UuchF4AL1HYUUBCrs1gSbDJOLV6syAPnM6KRZY/ts
+
+#EXTINF:-1,TR: BEIN SPORTS 1 HD
+http://ssl1.polar1.site:8080/Eduartmuqaj/d0:d0:03:47:2b:8b/36757
+
 #EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="beIN SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10",beIN Sports 1 [ Yedek 2 ]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=http://roadsports.rf.gd/
 http://client.newsborntvs.info/live/KreshnikDahri/bRjguwZe2/51323.m3u8
-#EXTINF:-1,BEIN SPORTS 1 FHD
-http://xu.port360.xyz:8080/play/HnfCrfcbNSIsx96vtMRn4QclK3UuchF4AL1HYUUBCrs1gSbDJOLV6syAPnM6KRZY/ts
+
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BeIN Sports 1 [ FHD ]" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="TR • BEIN SPORTS",BeIN Sports 1 [ FHD ]
 http://apc.workrdc2.xyz:80/mehmetkemaliclik84k3/gfZaS6hDu58T/52977
+
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BeIN Sports 1 [ FHD ]" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="TR • BEIN SPORTS",BeIN Sports 1 [ 2 ]
 http://apc.workrdc2.xyz:80/sahinselat2/k6rd0vxMYg/52977
+
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 HD [ VIP ]" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="TR • BEIN SPORTS",beIN Sports 1 HD [ VIP ]
 http://apc.workrdc2.xyz:80/mehmetkemaliclik84k3/gfZaS6hDu58T/315720
+
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BeIN Sports 1 [HD]" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="TR • BEIN SPORTS",BeIN Sports 1 [HD]
 http://apc.workrdc2.xyz:80/mehmetkemaliclik84k3/gfZaS6hDu58T/311552
+
+
 #EXTINF:-1  tvg-name="TJK TV" tvg-id="Spor_TJKTV" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK TV
 http://stream.tvcdn.net/spor/tjk-tv.m3u8
 #EXTINF:-1  tvg-name="FB TV" tvg-id="Spor_FBTV" tvg-logo="https://seeklogo.com/images/F/fenerbahce-tv-logo-A4F539D377-seeklogo.com.png" group-title="Spor",FB TV
