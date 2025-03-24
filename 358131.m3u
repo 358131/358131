@@ -152,14 +152,14 @@ https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",beIN Sports 1
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",Full HD: beIN Sports 1
-http://b61u39.one/a98u41y45s27/d37x15092023/16
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",BEIN SPORTS 1 FHD
 http://xu.port360.xyz:8080/play/HnfCrfcbNSIsx96vtMRn4QclK3UuchF4AL1HYUUBCrs1gSbDJOLV6syAPnM6KRZY/ts
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",TR: BEIN SPORTS 1 HD
 http://ssl1.polar1.site:8080/Eduartmuqaj/d0:d0:03:47:2b:8b/36757
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",Full HD: beIN Sports 1
+http://b61u39.one/a98u41y45s27/d37x15092023/16
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",beIN Sports 1 [ Yedek 2 ]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
