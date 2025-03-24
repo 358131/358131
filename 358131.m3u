@@ -149,30 +149,33 @@ http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8
 
 
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="beIN SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10",beIN Sports 1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",beIN Sports 1
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
 
-#EXTINF:-1,BEIN SPORTS 1 FHD
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",Full HD: beIN Sports 1
+http://b61u39.one/a98u41y45s27/d37x15092023/16
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",BEIN SPORTS 1 FHD
 http://xu.port360.xyz:8080/play/HnfCrfcbNSIsx96vtMRn4QclK3UuchF4AL1HYUUBCrs1gSbDJOLV6syAPnM6KRZY/ts
 
-#EXTINF:-1,TR: BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",TR: BEIN SPORTS 1 HD
 http://ssl1.polar1.site:8080/Eduartmuqaj/d0:d0:03:47:2b:8b/36757
 
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="beIN SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10",beIN Sports 1 [ Yedek 2 ]
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",beIN Sports 1 [ Yedek 2 ]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=http://roadsports.rf.gd/
 http://client.newsborntvs.info/live/KreshnikDahri/bRjguwZe2/51323.m3u8
 
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BeIN Sports 1 [ FHD ]" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="TR • BEIN SPORTS",BeIN Sports 1 [ FHD ]
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",BeIN Sports 1 [ FHD ]
 http://apc.workrdc2.xyz:80/mehmetkemaliclik84k3/gfZaS6hDu58T/52977
 
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BeIN Sports 1 [ FHD ]" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="TR • BEIN SPORTS",BeIN Sports 1 [ 2 ]
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",BeIN Sports 1 [ 2 ]
 http://apc.workrdc2.xyz:80/sahinselat2/k6rd0vxMYg/52977
 
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 HD [ VIP ]" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="TR • BEIN SPORTS",beIN Sports 1 HD [ VIP ]
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",beIN Sports 1 HD [ VIP ]
 http://apc.workrdc2.xyz:80/mehmetkemaliclik84k3/gfZaS6hDu58T/315720
 
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BeIN Sports 1 [HD]" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="TR • BEIN SPORTS",BeIN Sports 1 [HD]
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",BeIN Sports 1 [HD]
 http://apc.workrdc2.xyz:80/mehmetkemaliclik84k3/gfZaS6hDu58T/311552
 
 
