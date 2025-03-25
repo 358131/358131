@@ -129,7 +129,7 @@ http://stream.tvcdn.net/eglence/tv-4.m3u8
 http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
 #EXTINF:-1  tvg-name="Kültür Sanat TV" tvg-logo="http://assets.tvcdn.net/871add1b-5165-4aa1-9799-c93185f8841d.png" group-title="Eğlence",Kültür Sanat TV
 http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
-#EXTINF:-1  tvg-name="TRT Belgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Eğlence",TRT BELGESEL
+#EXTINF:-1  tvg-name="TRT Belgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-name="National Geographic WILD.tr" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/Default/Images/Main/NGC_logo.png" group-title="Belgesel",National Geographic Wild
 http://103.161.34.98:8080/033yolveren-e/WnGHgg2yEtR2/6378
