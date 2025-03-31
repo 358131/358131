@@ -1,544 +1,1801 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/turksatkablo.com.tr.epg.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
 #EXTM3U
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ ULUSAL ✦●✦" tvg-logo="https://i.ibb.co/Hf84XqXy/16.png" group-title="TR ⭐ ULUSAL",✦●✦ ULUSAL ✦●✦
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/488700
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt4k.tr" tvg-name="TRT 4K UHD 2160p" tvg-logo="https://i.ibb.co/DfRBKZTx/2.png" group-title="TR ⭐ ULUSAL",TRT 4K UHD 2160p
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1841
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt4k.tr" tvg-name="TRT 4K FHD" tvg-logo="https://i.ibb.co/yJx24my/3.png" group-title="TR ⭐ ULUSAL",TRT 4K FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1842
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="TRT 1 FHD" tvg-logo="https://i.ibb.co/vx4LBFx6/4.png" group-title="TR ⭐ ULUSAL",TRT 1 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1843
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="TRT 1 HD" tvg-logo="https://i.ibb.co/9mk1xkNy/42.png" group-title="TR ⭐ ULUSAL",TRT 1 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1844
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt2.tr" tvg-name="TRT 2 FHD" tvg-logo="https://i.ibb.co/vCd4RhZm/6.png" group-title="TR ⭐ ULUSAL",TRT 2 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1845
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt2.tr" tvg-name="TRT 2 HD" tvg-logo="https://i.ibb.co/5xgJBptV/43.png" group-title="TR ⭐ ULUSAL",TRT 2 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1846
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV FHD" tvg-logo="https://i.ibb.co/k6mGKVBR/10.png" group-title="TR ⭐ ULUSAL",ATV FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1849
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV HD" tvg-logo="https://i.ibb.co/Z60WsqWR/45.png" group-title="TR ⭐ ULUSAL",ATV HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1850
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="STAR TV FHD" tvg-logo="https://i.ibb.co/9kN0ntZM/12.png" group-title="TR ⭐ ULUSAL",STAR TV FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1853
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="STAR TV HD" tvg-logo="https://i.ibb.co/fYxJrDz3/46.png" group-title="TR ⭐ ULUSAL",STAR TV HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1854
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="SHOW TV FHD" tvg-logo="https://i.ibb.co/6zpmvkX/14.png" group-title="TR ⭐ ULUSAL",SHOW TV FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1847
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="SHOW TV HD" tvg-logo="https://i.ibb.co/4RSYq4X6/47.png" group-title="TR ⭐ ULUSAL",SHOW TV HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1848
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="KANAL D FHD" tvg-logo="https://i.ibb.co/yc7Ft1gp/16.png" group-title="TR ⭐ ULUSAL",KANAL D FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1851
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="KANAL D HD" tvg-logo="https://i.ibb.co/bMC2cKxG/48.png" group-title="TR ⭐ ULUSAL",KANAL D HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1852
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="NOW TV FHD" tvg-logo="https://i.ibb.co/SXPjtnWs/18.png" group-title="TR ⭐ ULUSAL",NOW TV FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1855
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="NOW TV HD" tvg-logo="https://i.ibb.co/pS2d84z/49.png" group-title="TR ⭐ ULUSAL",NOW TV HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1856
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="TV 8 FHD" tvg-logo="https://i.ibb.co/whS9pQNh/8.png" group-title="TR ⭐ ULUSAL",TV 8 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1857
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="TV 8 HD" tvg-logo="https://i.ibb.co/M5Mrpr67/44.png" group-title="TR ⭐ ULUSAL",TV 8 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1858
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TV 8.5 FHD" tvg-logo="https://i.ibb.co/KzzsT9Hq/22.png" group-title="TR ⭐ ULUSAL",TV 8.5 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1859
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TV 8.5 HD" tvg-logo="https://i.ibb.co/j9kSZVzG/50.png" group-title="TR ⭐ ULUSAL",TV 8.5 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1860
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV FHD" tvg-logo="https://i.ibb.co/Y7Qc1Xk8/20.png" group-title="TR ⭐ ULUSAL",BEYAZ TV FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1861
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV HD" tvg-logo="https://i.ibb.co/yc9RSNg8/51.png" group-title="TR ⭐ ULUSAL",BEYAZ TV HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1862
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 FHD" tvg-logo="https://i.ibb.co/TMWYdBw2/24.png" group-title="TR ⭐ ULUSAL",KANAL 7 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1863
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 HD" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="TR ⭐ ULUSAL",KANAL 7 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1864
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 AVRUPA FHD" tvg-logo="https://i.ibb.co/FbhPz9LZ/33.png" group-title="TR ⭐ ULUSAL",KANAL 7 AVRUPA FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1865
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="TEVE 2 FHD" tvg-logo="https://i.ibb.co/zz9gDcT/26.png" group-title="TR ⭐ ULUSAL",TEVE 2 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1866
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="TEVE 2 HD" tvg-logo="https://i.ibb.co/cKQ4wjcR/35.png" group-title="TR ⭐ ULUSAL",TEVE 2 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1867
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="A2 FHD" tvg-logo="https://i.ibb.co/fV234cGC/30.png" group-title="TR ⭐ ULUSAL",A2 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1868
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="A2 HD" tvg-logo="https://i.ibb.co/S4T5s8T9/52.png" group-title="TR ⭐ ULUSAL",A2 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1869
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="360 TV FHD" tvg-logo="https://i.ibb.co/N6PTvcQS/28.png" group-title="TR ⭐ ULUSAL",360 TV FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1870
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="360 TV HD" tvg-logo="https://i.ibb.co/XZ3fRv79/53.png" group-title="TR ⭐ ULUSAL",360 TV HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1871
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TV 4 FHD" tvg-logo="https://i.ibb.co/7xXB7KdL/54.png" group-title="TR ⭐ ULUSAL",TV 4 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2168
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TV 4 HD" tvg-logo="https://i.ibb.co/7xXB7KdL/54.png" group-title="TR ⭐ ULUSAL",TV 4 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2167
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtavaz.tr" tvg-name="TRT AVAZ FHD" tvg-logo="https://i.ibb.co/0p5TDhTB/36.png" group-title="TR ⭐ ULUSAL",TRT AVAZ FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1879
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtavaz.tr" tvg-name="TRT AVAZ HD" tvg-logo="https://i.ibb.co/CpzLSJqG/57.png" group-title="TR ⭐ ULUSAL",TRT AVAZ HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1880
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showmax.tr" tvg-name="SHOW MAX FHD" tvg-logo="https://i.ibb.co/jPxgqzMX/38.png" group-title="TR ⭐ ULUSAL",SHOW MAX FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1873
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SHOW TURK FHD" tvg-logo="https://i.ibb.co/qKMsb6c/40.png" group-title="TR ⭐ ULUSAL",SHOW TURK FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1874
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV AVRUPA" tvg-logo="https://i.ibb.co/v4nyGHcg/58.png" group-title="TR ⭐ ULUSAL",ATV AVRUPA
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1875
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII TV" tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Tabii.png" group-title="TR ⭐ ULUSAL",TABII TV
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/578322
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CINE 6" tvg-logo="https://i.ibb.co/93HH290b/cine6.png" group-title="TR ⭐ ULUSAL",CINE 6
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/583513
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurotar.tr" tvg-name="EURO STAR" tvg-logo="https://i.ibb.co/2pLyzLR/59.png" group-title="TR ⭐ ULUSAL",EURO STAR
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1876
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurod.tr" tvg-name="EURO D" tvg-logo="https://i.ibb.co/4Z98zDcb/60.png" group-title="TR ⭐ ULUSAL",EURO D
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1877
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TV 8 INT" tvg-logo="https://i.ibb.co/yBZrdPFf/61.png" group-title="TR ⭐ ULUSAL",TV 8 INT
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1883
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtturk.tr" tvg-name="TRT TURK HD" tvg-logo="https://i.ibb.co/kgkBxqcJ/63.png" group-title="TR ⭐ ULUSAL",TRT TURK HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1878
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtalarabiya.tr" tvg-name="TRT ARABI" tvg-logo="https://i.ibb.co/kVDQcsx9/64.png" group-title="TR ⭐ ULUSAL",TRT ARABI
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1881
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVI TURK HD" tvg-logo="https://i.ibb.co/Lhp646fs/tiviturk.png" group-title="TR ⭐ ULUSAL",TIVI TURK HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/67665
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIBRIS TV" tvg-logo="https://i.ibb.co/Qvh0WGQ7/65.png" group-title="TR ⭐ ULUSAL",KIBRIS TV
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1886
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIBRIS ADA TV" tvg-logo="https://i.ibb.co/sd2cgqB1/66.png" group-title="TR ⭐ ULUSAL",KIBRIS ADA TV
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1887
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIBRIS KANAL T" tvg-logo="https://i.ibb.co/7dVLNf1X/67.png" group-title="TR ⭐ ULUSAL",KIBRIS KANAL T
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1888
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIBRIS GENC TV" tvg-logo="https://i.ibb.co/tp53cZS4/68.png" group-title="TR ⭐ ULUSAL",KIBRIS GENC TV
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1889
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="KIBRIS TV 2020 HD" tvg-logo="https://i.ibb.co/SFQ6cd4/69.png" group-title="TR ⭐ ULUSAL",KIBRIS TV 2020 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1892
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtebatvortaokul.tr" tvg-name="TRT EBA" tvg-logo="https://i.ibb.co/bgyPMNQg/70.png" group-title="TR ⭐ ULUSAL",TRT EBA
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1894
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GONUL DAGI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",GONUL DAGI ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551657
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KONUSANLAR  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osDIFW8dp2CwYnFKTzdKDm66Mr4.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KONUSANLAR  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/553094
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YALI CAPKINI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnNhlrOdgVsgNEcyKkCqv4EI1t.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",YALI CAPKINI  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551590
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BIR ZAMANLAR ISTANBUL ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCJPe95WK1uKfhD3sqz31kqR1SD.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",BIR ZAMANLAR ISTANBUL ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/576273
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ZEMBILLI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPNFf3TFT7dfhWBkNunnS05yvFq.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",ZEMBILLI  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/569516
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIZILCIK SERBETI ✅✅  SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KIZILCIK SERBETI ✅✅  SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551589
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARKA SOKAKLAR ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",ARKA SOKAKLAR ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551586
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BASKA BIR GUN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKzJz4ezNiGZdUoWhw4tikbAqeE.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",BASKA BIR GUN  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/574857
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HUDUTSUZ SEVDA ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOzx60VbvN46YdGDeobWXddr5ze.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",HUDUTSUZ SEVDA ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/553085
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SIYAH KALP  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2q6sOaO5SkHy2ZcQymnX71cAds.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",SIYAH KALP  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/552134
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="INCI TANELERI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w154/y1webVLqRDoFFmTikLtsl6MbCpW.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",INCI TANELERI  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/554905
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ESREF RUYA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",ESREF RUYA  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/583906
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LEYLA   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbsnc1D0gyROGp01yXidiBZ7jbp.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",LEYLA   ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551909
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SAHIPSIZLER  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",SAHIPSIZLER  ✅✅ SON BOLUM
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahipsizler.SON.mkv
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KURULUS OSMAN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3ddjp72iz2aQGpQ31xJ8uYiaug.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KURULUS OSMAN  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/553834
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BAHAR ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u28XMjRU7i0xdqlplNE080uD4Gj.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",BAHAR ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/552675
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KRAL KAYBEDERSE  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0kk5PUB850OlrVA1w7hgc41E9T.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KRAL KAYBEDERSE  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/576511
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MEHMET FETIHLER SULTANI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",MEHMET FETIHLER SULTANI ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/552676
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BIR GECE MASALI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZYl3cN12qtg82QvhzZnrwekNhc.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",BIR GECE MASALI  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551881
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UZAK SEHIR    ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",UZAK SEHIR    ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/562305
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Kudüs Fatihi: Selahaddin Eyyubi ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHDcVdpBjCfu1nYrFrJ7KtHfiy3.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",Kudüs Fatihi: Selahaddin Eyyubi ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/558151
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIZIL GONCALAR  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOTvBgpXRk6u8LEWKwxHtexA2nu.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KIZIL GONCALAR  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/553352
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DEHA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7o46IIJvD0BwnDL3NKQ9YqbjK7H.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",DEHA  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/552517
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KARDELENLER  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spGJO20LaQ9i6scLlwrqmAW35Yx.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KARDELENLER  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/575043
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TESKILAT  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",TESKILAT  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/552518
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SAKIRPASA AILESI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTSRcoatdU9oFhHABhxXISPZSHY.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",SAKIRPASA AILESI  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/567409
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Çok Güzel Hareketler 2     ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AsAnZWVQ6clW8IM4cL9XgnoFY6.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",Çok Güzel Hareketler 2     ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/560489
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ANNEM ANKARA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SX96J1BnzqSodftoRB39J3DlX7.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",ANNEM ANKARA  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/563709
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Sevda Mecburi İstikamet⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP CINEMA  ☪",VIP CINEMA  ☪ Sevda Mecburi İstikamet⚡️
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/584257
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ C Takımı⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP CINEMA  ☪",VIP CINEMA  ☪ C Takımı⚡️
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/584246
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PİYASA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylwuADfzbi72S1EpwIerE24wRsE.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",PİYASA  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/577986
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Güldür Güldür Show    ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",Güldür Güldür Show    ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/558152
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CAN BORCU  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hy803SVfX3Wbig6xwnADJl50lU.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",CAN BORCU  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/567915
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Little Siberia 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP CINEMA  ☪",VIP CINEMA  ☪ Little Siberia 2025⚡️
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/584154
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Revelations 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP CINEMA  ☪",VIP CINEMA  ☪ Revelations 2025⚡️
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/584150
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SANDIK KOKUSU  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n66OQtFORQjRkJwMN9CAZdL99KZ.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",SANDIK KOKUSU  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551910
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SEN AGLAMA ISTANBUL  ✅✅ SON BOLUM" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kao4Mq8r4SoofQ8ILWdXk5BXAGf.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",SEN AGLAMA ISTANBUL  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/566893
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YABANI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQ5k6i7Bv3ssV4uotxZpTdKCgC9.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",YABANI ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551658
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YALAN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23kyHMDJDMyzPIrdqKje055Ol4O.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",YALAN  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551723
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Holding  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sgCdb7AaPEzHC8eObfJnfGYxaS.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",Holding  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/566613
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KARA AGAC DESTANI ✅✅  SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omYFrePPOvuhrlQ0182ErzvNBf3.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KARA AGAC DESTANI ✅✅  SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551587
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ASK EVLILIK BOSANMA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnUshslPg7te60aeQ1l2hCBdEr5.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",ASK EVLILIK BOSANMA  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/563576
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KALPAZAN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2EVteRVAngbYXrYJX5Z1SEd7L0.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KALPAZAN  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/558150
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GIZLI BAHCE  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPPEOytE4pWXWyWyH2PBdys8EvH.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",GIZLI BAHCE  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/555536
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIRLI SEPETI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVK1sscKqH9mg5UxIlPqM8XoNcN.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KIRLI SEPETI ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551722
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KARADUT ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QHGl3LLc4iQUueQJOqOeTsmZ5S.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KARADUT ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/552549
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GUZEL  ASKLAR DIYARI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igRJyt842ceKg1pM0J7C9XiDDNb.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",GUZEL  ASKLAR DIYARI  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/552548
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TAS KAGIT MAKAS ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTgLVl7FNRo4snoNvcgWMP697IF.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",TAS KAGIT MAKAS ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551908
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KOR NOKTA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nijRlezbvalIswmP13kgDmlvnYq.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KOR NOKTA  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/552462
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KOTU KAN ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wb0ooQliK7yZ3BhkJOpoMLPXApP.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KOTU KAN ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551588
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ QHD ✦●✦" tvg-logo="https://i.ibb.co/Lz6nw80C/trqhd.png" group-title="TR ⭐ QHD",✦●✦ QHD ✦●✦
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268153
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="TRT 1 QHD" tvg-logo="https://i.ibb.co/k6WPKbdV/2.png" group-title="TR ⭐ QHD",TRT 1 QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268106
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV QHD" tvg-logo="https://i.ibb.co/k2F1zffG/3.png" group-title="TR ⭐ QHD",ATV QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268107
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="STAR TV QHD" tvg-logo="https://i.ibb.co/8L5ctWQY/4.png" group-title="TR ⭐ QHD",STAR TV QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268110
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="SHOW TV QHD" tvg-logo="https://i.ibb.co/5XRx8qwm/5.png" group-title="TR ⭐ QHD",SHOW TV QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268108
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="KANAL D QHD" tvg-logo="https://i.ibb.co/1GZHLXVJ/6.png" group-title="TR ⭐ QHD",KANAL D QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268109
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="NOW TV QHD" tvg-logo="https://i.ibb.co/5g5JY2Ht/7.png" group-title="TR ⭐ QHD",NOW TV QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268111
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="TV 8 QHD" tvg-logo="https://i.ibb.co/Hcg5ZBx/8.png" group-title="TR ⭐ QHD",TV 8 QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268112
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TV 8.5 QHD" tvg-logo="https://i.ibb.co/PbQ7g2y/9.png" group-title="TR ⭐ QHD",TV 8.5 QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268113
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV QHD" tvg-logo="https://i.ibb.co/rKtQzFnv/10.png" group-title="TR ⭐ QHD",BEYAZ TV QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268114
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 QHD" tvg-logo="https://i.ibb.co/mF42qBGR/11.png" group-title="TR ⭐ QHD",KANAL 7 QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268115
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="TEVE 2 QHD" tvg-logo="https://i.ibb.co/TxX7wv1W/12.png" group-title="TR ⭐ QHD",TEVE 2 QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268117
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="TV 360 QHD" tvg-logo="https://i.ibb.co/TBYJDRD0/13.png" group-title="TR ⭐ QHD",TV 360 QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268116
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="A2 QHD" tvg-logo="https://i.ibb.co/CpqDgQ2B/14.png" group-title="TR ⭐ QHD",A2 QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268118
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trthaber.tr" tvg-name="TRT HABER QHD" tvg-logo="https://i.ibb.co/J8YMw0F/15.png" group-title="TR ⭐ QHD",TRT HABER QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268122
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnnturk.tr" tvg-name="CNN TÜRK QHD" tvg-logo="https://i.ibb.co/sdfnRrfj/16.png" group-title="TR ⭐ QHD",CNN TÜRK QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268120
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntv.tr" tvg-name="NTV QHD" tvg-logo="https://i.ibb.co/RGLScmmJ/17.png" group-title="TR ⭐ QHD",NTV QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268123
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ahaber.tr" tvg-name="A HABER QHD" tvg-logo="https://i.ibb.co/x8mFyRTY/18.png" group-title="TR ⭐ QHD",A HABER QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268119
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="halk.tr" tvg-name="HALK TV QHD" tvg-logo="https://i.ibb.co/czBmpB4/19.png" group-title="TR ⭐ QHD",HALK TV QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268127
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberturk.tr" tvg-name="HABERTÜRK QHD" tvg-logo="https://i.ibb.co/21ZLczBJ/21.png" group-title="TR ⭐ QHD",HABERTÜRK QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268121
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberglobal.tr" tvg-name="HABER GLOBAL QHD" tvg-logo="https://i.ibb.co/9MrJ0w1/22.png" group-title="TR ⭐ QHD",HABER GLOBAL QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268130
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv100.tr" tvg-name="TV100 QHD" tvg-logo="https://i.ibb.co/8g0qJsPC/23.png" group-title="TR ⭐ QHD",TV100 QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268128
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="24.tr" tvg-name="KANAL 24 QHD" tvg-logo="https://i.ibb.co/yx90cRC/24.png" group-title="TR ⭐ QHD",KANAL 24 QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268129
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ulketv.tr" tvg-name="ÜLKE TV QHD" tvg-logo="https://i.ibb.co/HDgWwg4y/25.png" group-title="TR ⭐ QHD",ÜLKE TV QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268126
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT QHD" tvg-logo="https://i.ibb.co/CK7PcbPL/26.png" group-title="TR ⭐ QHD",BLOOMBERG HT QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268125
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tgrthaber.tr" tvg-name="TGRT HABER QHD" tvg-logo="https://i.ibb.co/v4qTmBww/27.png" group-title="TR ⭐ QHD",TGRT HABER QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268124
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ HEVC | RAW ✦●✦" tvg-logo="https://i.ibb.co/NgFjgXdS/trhevcraw.png" group-title="TR ⭐ HEVC",✦●✦ HEVC | RAW ✦●✦
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1945
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="↺TRT 1 HEVC" tvg-logo="https://i.ibb.co/dsw3Jd7D/2.png" group-title="TR ⭐ HEVC",↺TRT 1 HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1947
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="↺ATV HEVC" tvg-logo="https://i.ibb.co/qLYvKxWv/4.png" group-title="TR ⭐ HEVC",↺ATV HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1951
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="↺STAR TV HEVC" tvg-logo="https://i.ibb.co/B5rfb25g/6.png" group-title="TR ⭐ HEVC",↺STAR TV HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1955
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="↺SHOW TV HEVC" tvg-logo="https://i.ibb.co/fVHyyLBp/8.png" group-title="TR ⭐ HEVC",↺SHOW TV HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1949
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="↺KANAL D HEVC" tvg-logo="https://i.ibb.co/FkFs7HtK/10.png" group-title="TR ⭐ HEVC",↺KANAL D HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1953
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="↺TV 8 HEVC" tvg-logo="https://i.ibb.co/V0hdZq6S/12.png" group-title="TR ⭐ HEVC",↺TV 8 HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1959
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="↺NOW TV HEVC" tvg-logo="https://i.ibb.co/y3Q5KQQ/14.png" group-title="TR ⭐ HEVC",↺NOW TV HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1957
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="↺BEYAZ TV HEVC" tvg-logo="https://i.ibb.co/HTcyDyWq/16.png" group-title="TR ⭐ HEVC",↺BEYAZ TV HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1961
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="↺KANAL 7 HEVC" tvg-logo="https://i.ibb.co/GvCzBKFQ/18.png" group-title="TR ⭐ HEVC",↺KANAL 7 HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1965
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="↺TEVE 2 HEVC" tvg-logo="https://i.ibb.co/tMXq1vsz/20.png" group-title="TR ⭐ HEVC",↺TEVE 2 HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1967
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TV 8.5 HEVC" tvg-logo="https://i.ibb.co/ymJSLnfM/22.png" group-title="TR ⭐ HEVC",TV 8.5 HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1963
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="↺A2 HEVC" tvg-logo="https://i.ibb.co/gbgzWB07/24.png" group-title="TR ⭐ HEVC",↺A2 HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1969
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtturk.tr" tvg-name="TRT TURK HEVC" tvg-logo="https://i.ibb.co/0VftGx2X/44.png" group-title="TR ⭐ HEVC",TRT TURK HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1973
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trthaber.tr" tvg-name="TRT HABER HEVC" tvg-logo="https://i.ibb.co/qLZ25djM/26.png" group-title="TR ⭐ HEVC",TRT HABER HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1975
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="halk.tr" tvg-name="HALK TV HEVC" tvg-logo="https://i.ibb.co/svJ6gm8v/28.png" group-title="TR ⭐ HEVC",HALK TV HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1977
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntv.tr" tvg-name="NTV HEVC" tvg-logo="https://i.ibb.co/8nKyDt6f/30.png" group-title="TR ⭐ HEVC",NTV HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1987
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ahaber.tr" tvg-name="A HABER HEVC" tvg-logo="https://i.ibb.co/hxtnPz0D/32.png" group-title="TR ⭐ HEVC",A HABER HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1981
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnnturk.tr" tvg-name="CNN TURK HEVC" tvg-logo="https://i.ibb.co/WWMVkTHP/34.png" group-title="TR ⭐ HEVC",CNN TURK HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1985
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="↺360 TV HEVC" tvg-logo="https://i.ibb.co/RksWrP6M/36.png" group-title="TR ⭐ HEVC",↺360 TV HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1971
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberturk.tr" tvg-name="HABERTURK HEVC" tvg-logo="https://i.ibb.co/r22MmTVH/38.png" group-title="TR ⭐ HEVC",HABERTURK HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1979
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT HEVC" tvg-logo="https://i.ibb.co/gLn0zCNB/42.png" group-title="TR ⭐ HEVC",BLOOMBERG HT HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1983
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv100.tr" tvg-name="TV 100 HEVC" tvg-logo="https://i.ibb.co/8gXDx9P8/46.png" group-title="TR ⭐ HEVC",TV 100 HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1989
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tgrtbelgesel.tr" tvg-name="↺TRT BELGESEL HEVC" tvg-logo="https://i.imgur.com/eVbE2hn.png.jpg" group-title="TR ⭐ HEVC",↺TRT BELGESEL HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1993
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="TRT 1 RAW" tvg-logo="https://i.ibb.co/Cp0dbf8G/3.png" group-title="TR ⭐ HEVC",TRT 1 RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1946
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV RAW" tvg-logo="https://i.ibb.co/xq5fyKM9/5.png" group-title="TR ⭐ HEVC",ATV RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1950
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="STAR TV  RAW" tvg-logo="https://i.ibb.co/FLb1PjQd/7.png" group-title="TR ⭐ HEVC",STAR TV  RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1954
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="SHOW TV RAW" tvg-logo="https://i.ibb.co/0VrWCDw1/9.png" group-title="TR ⭐ HEVC",SHOW TV RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1948
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="KANAL D RAW" tvg-logo="https://i.ibb.co/tp3Tt0dP/11.png" group-title="TR ⭐ HEVC",KANAL D RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1952
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="NOW TV RAW" tvg-logo="https://i.ibb.co/Y7pp9kL5/15.png" group-title="TR ⭐ HEVC",NOW TV RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1956
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="TV 8 RAW" tvg-logo="https://i.ibb.co/WpD6fkQJ/13.png" group-title="TR ⭐ HEVC",TV 8 RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1958
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV RAW" tvg-logo="https://i.ibb.co/YFBrV8s1/17.png" group-title="TR ⭐ HEVC",BEYAZ TV RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1960
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TV 8.5 RAW" tvg-logo="https://i.ibb.co/xSs74fTh/23.png" group-title="TR ⭐ HEVC",TV 8.5 RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1962
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 RAW" tvg-logo="https://i.ibb.co/qYtPPR5F/19.png" group-title="TR ⭐ HEVC",KANAL 7 RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1964
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="TEVE 2 RAW" tvg-logo="https://i.ibb.co/fVRVGSXQ/21.png" group-title="TR ⭐ HEVC",TEVE 2 RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1966
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="A2 RAW" tvg-logo="https://i.ibb.co/tPYy5jWK/25.png" group-title="TR ⭐ HEVC",A2 RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1968
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ahaber.tr" tvg-name="A HABER RAW" tvg-logo="https://i.ibb.co/6RHmz8fV/33.png" group-title="TR ⭐ HEVC",A HABER RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1980
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="360 TV RAW" tvg-logo="https://i.ibb.co/cKP7q1gH/37.png" group-title="TR ⭐ HEVC",360 TV RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1970
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtturk.tr" tvg-name="TRT TURK RAW" tvg-logo="https://i.ibb.co/kZh72sc/45.png" group-title="TR ⭐ HEVC",TRT TURK RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1972
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trthaber.tr" tvg-name="TRT HABER RAW" tvg-logo="https://i.ibb.co/PsLKBjF3/27.png" group-title="TR ⭐ HEVC",TRT HABER RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1974
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="halk.tr" tvg-name="HALK TV RAW" tvg-logo="https://i.ibb.co/8nL9hbgj/29.png" group-title="TR ⭐ HEVC",HALK TV RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1976
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv100.tr" tvg-name="TV 100 RAW" tvg-logo="https://i.ibb.co/VWWyZT71/47.png" group-title="TR ⭐ HEVC",TV 100 RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1988
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FLASH HABER TV RAW" tvg-logo="https://i.ibb.co/DfBjNps7/48.png" group-title="TR ⭐ HEVC",FLASH HABER TV RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/437542
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HABER GLOBAL RAW" tvg-logo="https://i.ibb.co/KcD1LFGt/41.png" group-title="TR ⭐ HEVC",HABER GLOBAL RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/437543
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberturk.tr" tvg-name="HABERTURK RAW" tvg-logo="https://i.ibb.co/HT6dGfxm/39.png" group-title="TR ⭐ HEVC",HABERTURK RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1978
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnnturk.tr" tvg-name="CNN TURK RAW" tvg-logo="https://i.ibb.co/21Mgf1NN/35.png" group-title="TR ⭐ HEVC",CNN TURK RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1984
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT RAW" tvg-logo="https://i.ibb.co/TB7C1GPP/43.png" group-title="TR ⭐ HEVC",BLOOMBERG HT RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1982
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntv.tr" tvg-name="NTV RAW" tvg-logo="https://i.ibb.co/Y4WFfwSq/31.png" group-title="TR ⭐ HEVC",NTV RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1986
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ULUSAL KANAL RAW" tvg-logo="https://i.ibb.co/ccy7JMj2/49.png" group-title="TR ⭐ HEVC",ULUSAL KANAL RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/437556
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ULKE TV RAW" tvg-logo="https://i.ibb.co/MJW3CR7/50.png" group-title="TR ⭐ HEVC",ULKE TV RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/437559
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KANAL 24 RAW" tvg-logo="https://i.ibb.co/qFyW206R/51.png" group-title="TR ⭐ HEVC",KANAL 24 RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/437534
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ SPOR ✦●✦" tvg-logo="https://i.ibb.co/Zp7ffsp0/TRSPORKANALKAPAK.png" group-title="TR ⭐ SPOR",✦●✦ SPOR ✦●✦
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2013
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtspor.tr" tvg-name="↺TRT SPOR HEVC" tvg-logo="https://i.ibb.co/MD6LMwrB/39.png" group-title="TR ⭐ SPOR",↺TRT SPOR HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2014
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtspor.tr" tvg-name="TRT SPOR QHD" tvg-logo="https://i.imgur.com/nja9yR8.png" group-title="TR ⭐ SPOR",TRT SPOR QHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268139
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtspor.tr" tvg-name="TRT SPOR FHD" tvg-logo="https://i.ibb.co/jvc6K99X/TRTSPORFHD.png" group-title="TR ⭐ SPOR",TRT SPOR FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2015
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aspor.tr" tvg-name="A SPOR" tvg-logo="https://i.ibb.co/992bgfpF/1.png" group-title="TR ⭐ SPOR",A SPOR
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268138
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aspor.tr" tvg-name="A SPOR HEVC" tvg-logo="https://i.imgur.com/ntd31A0.png" group-title="TR ⭐ SPOR",A SPOR HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2021
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aspor.tr" tvg-name="A SPOR FHD" tvg-logo="https://i.ibb.co/G3Mm17y7/2.png" group-title="TR ⭐ SPOR",A SPOR FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2022
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TRT SPOR YILDIZ HEVC" tvg-logo="https://i.imgur.com/6LNdAOq.png" group-title="TR ⭐ SPOR",TRT SPOR YILDIZ HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2018
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TRT SPOR YILDIZ FHD" tvg-logo="https://i.ibb.co/39dRz94h/41.png" group-title="TR ⭐ SPOR",TRT SPOR YILDIZ FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2019
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HT SPOR HD" tvg-logo="https://i.ibb.co/HcG36FL/11.png" group-title="TR ⭐ SPOR",HT SPOR HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551322
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HT SPOR FHD" tvg-logo="https://i.ibb.co/CR4jvPq/10.png" group-title="TR ⭐ SPOR",HT SPOR FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551321
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="S SPORT 1 HEVC" tvg-logo="https://i.imgur.com/iUqH505.png" group-title="TR ⭐ SPOR",S SPORT 1 HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/481300
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="S SPORT 1 FHD" tvg-logo="https://i.ibb.co/Q38Hqw3V/14.png" group-title="TR ⭐ SPOR",S SPORT 1 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2025
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="S SPORT 2 HEVC" tvg-logo="https://i.imgur.com/KJbehCE.png" group-title="TR ⭐ SPOR",S SPORT 2 HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/481301
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="S SPORT 2 FHD" tvg-logo="https://i.ibb.co/LdG43yVj/16.png" group-title="TR ⭐ SPOR",S SPORT 2 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2028
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="smartspor.tr" tvg-name="↺SPOR SMART HEVC" tvg-logo="https://i.imgur.com/2Zp8OTw.png" group-title="TR ⭐ SPOR",↺SPOR SMART HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/197633
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporsmart.tr" tvg-name="SPOR SMART FHD" tvg-logo="https://i.ibb.co/r2RrchDD/22.png" group-title="TR ⭐ SPOR",SPOR SMART FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2031
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="↺SPOR SMART 2 HEVC" tvg-logo="https://i.imgur.com/fjVr0OH.png" group-title="TR ⭐ SPOR",↺SPOR SMART 2 HEVC
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/481299
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPOR SMART 2 FHD" tvg-logo="https://i.ibb.co/YVPN4HS/24.png" group-title="TR ⭐ SPOR",SPOR SMART 2 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2033
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR FHD" tvg-logo="https://i.ibb.co/TBWdgJrx/34.png" group-title="TR ⭐ SPOR",TIVIBUSPOR FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2040
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 1 FHD" tvg-logo="https://i.ibb.co/mVkj4m56/29.png" group-title="TR ⭐ SPOR",TIVIBUSPOR 1 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2042
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 2 FHD" tvg-logo="https://i.ibb.co/tT4DpbTW/31.png" group-title="TR ⭐ SPOR",TIVIBUSPOR 2 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2044
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.tr" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://i.ibb.co/CsVq1mk7/3.png" group-title="TR ⭐ SPOR",EUROSPORT 1 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2036
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.tr" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://i.ibb.co/4nJHZJNK/5.png" group-title="TR ⭐ SPOR",EUROSPORT 2 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2037
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportstv.tr" tvg-name="SPORTS TV FHD" tvg-logo="https://i.ibb.co/twnN1rQy/26.png" group-title="TR ⭐ SPOR",SPORTS TV FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/196080
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fbtv.tr" tvg-name="FB TV" tvg-logo="https://i.ibb.co/k27gfDDX/7.png" group-title="TR ⭐ SPOR",FB TV
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2038
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fbtv.tr" tvg-name="FB TV HD" tvg-logo="https://i.ibb.co/svY45TjG/8.png" group-title="TR ⭐ SPOR",FB TV HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/541402
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbatv.tr" tvg-name="NBA TV FHD" tvg-logo="https://i.ibb.co/TDmtjzXf/12.png" group-title="TR ⭐ SPOR",NBA TV FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2048
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbatv.tr" tvg-name="NBA TV HD" tvg-logo="https://i.ibb.co/nqxrQWzt/13.png" group-title="TR ⭐ SPOR",NBA TV HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2049
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TRT 3 SPOR (TBMM) FHD" tvg-logo="https://i.ibb.co/b51WzkRd/37.png" group-title="TR ⭐ SPOR",TRT 3 SPOR (TBMM) FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2020
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FIGHTBOX FHD" tvg-logo="https://i.ibb.co/Kj71xr1s/9.png" group-title="TR ⭐ SPOR",FIGHTBOX FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2047
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TAY TV FHD" tvg-logo="https://i.ibb.co/LXcS4rC0/TAYTVFHD.png" group-title="TR ⭐ SPOR",TAY TV FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2051
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TJK TV HD" tvg-logo="https://i.imgur.com/B64pxDp.png" group-title="TR ⭐ SPOR",TJK TV HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2050
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 1" tvg-logo="https://i.ibb.co/jvb1SbKK/18.png" group-title="TR ⭐ SPOR",S SPORT PLUS 1
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/393375
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 2" tvg-logo="https://i.ibb.co/zLCn3jK/19.png" group-title="TR ⭐ SPOR",S SPORT PLUS 2
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/471724
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 3" tvg-logo="https://i.ibb.co/tP4G2g7k/20.png" group-title="TR ⭐ SPOR",S SPORT PLUS 3
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/432053
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 4" tvg-logo="https://i.ibb.co/qLJTYxcq/21.png" group-title="TR ⭐ SPOR",S SPORT PLUS 4
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/432052
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtspor.tr" tvg-name="TRT SPOR HD" tvg-logo="https://i.ibb.co/F9xkdMV/38.png" group-title="TR ⭐ SPOR",TRT SPOR HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2016
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aspor.tr" tvg-name="A SPOR HD" tvg-logo="https://i.ibb.co/992bgfpF/1.png" group-title="TR ⭐ SPOR",A SPOR HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2023
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="S SPORT 1 HD" tvg-logo="https://i.ibb.co/yc3fbfKY/15.png" group-title="TR ⭐ SPOR",S SPORT 1 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2026
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="S SPORT 2 HD" tvg-logo="https://i.ibb.co/1fryc1RH/17.png" group-title="TR ⭐ SPOR",S SPORT 2 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2029
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporsmart.tr" tvg-name="SPOR SMART HD" tvg-logo="https://i.ibb.co/hFYwjhM7/23.png" group-title="TR ⭐ SPOR",SPOR SMART HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2032
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPOR SMART 2 HD" tvg-logo="https://i.ibb.co/QjN2Zzwd/25.png" group-title="TR ⭐ SPOR",SPOR SMART 2 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2034
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR HD" tvg-logo="https://i.ibb.co/BH4Zdzpj/35.png" group-title="TR ⭐ SPOR",TIVIBUSPOR HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2041
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/C53Ts5Zw/30.png" group-title="TR ⭐ SPOR",TIVIBUSPOR 1 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2043
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/9mKZZC7y/32.png" group-title="TR ⭐ SPOR",TIVIBUSPOR 2 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2045
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/gZsXYDLf/33.png" group-title="TR ⭐ SPOR",TIVIBUSPOR 3 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/33296
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.tr" tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.ibb.co/wNL6NXTz/4.png" group-title="TR ⭐ SPOR",EUROSPORT 1 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/196082
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.tr" tvg-name="EUROSPORT 2 HD" tvg-logo="https://i.ibb.co/dJm6NWTw/6.png" group-title="TR ⭐ SPOR",EUROSPORT 2 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/196081
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportstv.tr" tvg-name="SPORTS TV HD" tvg-logo="https://i.ibb.co/nMVDznDx/27.png" group-title="TR ⭐ SPOR",SPORTS TV HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2035
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR FHD" tvg-logo="https://i.ibb.co/Z6Yv2fgs/21.png" group-title="TR ⭐ TABII SPORT",TABII SPOR FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/553406
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR HD" tvg-logo="https://i.ibb.co/C50nRn76/22.png" group-title="TR ⭐ TABII SPORT",TABII SPOR HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/553407
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 1 FHD" tvg-logo="https://i.ibb.co/SXwFnJNm/2.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 1 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548716
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 1 HD" tvg-logo="https://i.ibb.co/ccYsSrDs/1.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 1 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548715
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 2 FHD" tvg-logo="https://i.ibb.co/kp5F5fV/4.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 2 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548714
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 2 HD" tvg-logo="https://i.ibb.co/CpdH0xx7/3.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 2 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548713
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 3 FHD" tvg-logo="https://i.ibb.co/5WdHQZgR/5.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 3 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548712
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 3 HD" tvg-logo="https://i.ibb.co/2Yfm0csx/6.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 3 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548711
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 4 FHD" tvg-logo="https://i.ibb.co/TD6cv9Dx/8.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 4 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548710
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 4 HD" tvg-logo="https://i.ibb.co/BH5BgxMP/7.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 4 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548709
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 5 FHD" tvg-logo="https://i.ibb.co/pBC7mMrb/10.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 5 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548708
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 5 HD" tvg-logo="https://i.ibb.co/fZYZmHp/9.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 5 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548707
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 6 FHD" tvg-logo="https://i.ibb.co/ch2wypR7/12.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 6 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548706
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 6 HD" tvg-logo="https://i.ibb.co/RpqQbtbX/11.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 6 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548705
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ EXXEN SPORT ✦●✦" tvg-logo="https://i.ibb.co/Rk2FxLdW/10.png" group-title="TR ⭐ EXXEN SPORT",✦●✦ EXXEN SPORT ✦●✦
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/26441
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN TV  FHD" tvg-logo="https://i.imgur.com/4bBVD9V.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN TV  FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/475884
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN TV  HD" tvg-logo="https://i.imgur.com/MgDJ3iB.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN TV  HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/475885
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 1 RAW" tvg-logo="https://i.imgur.com/itpyNsB.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 1 RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/250132
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 1 FHD" tvg-logo="https://i.imgur.com/itpyNsB.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 1 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/230
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 1 HD" tvg-logo="https://i.imgur.com/itpyNsB.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 1 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/231
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 1 SD" tvg-logo="https://i.imgur.com/itpyNsB.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 1 SD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/262467
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 2 RAW" tvg-logo="https://i.imgur.com/yBPGjOu.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 2 RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/250133
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 2 FHD" tvg-logo="https://i.imgur.com/yBPGjOu.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 2 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/262468
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 3 RAW" tvg-logo="https://i.imgur.com/xVBJBWU.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 3 RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/250134
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 3 FHD" tvg-logo="https://i.imgur.com/xVBJBWU.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 3 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/124069
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 4 RAW" tvg-logo="https://i.imgur.com/QiVp2Nz.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 4 RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/250135
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 4 FHD" tvg-logo="https://i.imgur.com/QiVp2Nz.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 4 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117193
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 5 RAW" tvg-logo="https://i.imgur.com/J7sWctX.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 5 RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/250136
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 5 FHD" tvg-logo="https://i.imgur.com/J7sWctX.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 5 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117194
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 6 RAW" tvg-logo="https://i.imgur.com/6w6Yupp.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 6 RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/250137
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 6 FHD" tvg-logo="https://i.imgur.com/6w6Yupp.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 6 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117202
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR  7 RAW" tvg-logo="https://i.imgur.com/3sq54x3.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR  7 RAW
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/250138
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 7 FHD" tvg-logo="https://i.imgur.com/3sq54x3.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 7 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117195
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 8 FHD" tvg-logo="https://i.imgur.com/zVh6gnY.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 8 FHD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117196
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 2 HD" tvg-logo="https://i.imgur.com/yBPGjOu.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 2 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/234
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 3 HD" tvg-logo="https://i.imgur.com/xVBJBWU.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 3 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/236
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 4 HD" tvg-logo="https://i.imgur.com/QiVp2Nz.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 4 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117197
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 5 HD" tvg-logo="https://i.imgur.com/J7sWctX.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 5 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117198
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 6 HD" tvg-logo="https://i.imgur.com/6w6Yupp.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 6 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117201
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 7 HD" tvg-logo="https://i.imgur.com/3sq54x3.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 7 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117199
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 8 HD" tvg-logo="https://i.imgur.com/zVh6gnY.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 8 HD
-http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117200
+#EXTINF:-1,*****INFO*****
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/28
+#EXTINF:-1,*****INFO TURKIYE*****
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/30192
+#EXTINF:-1,*****TURK SPOR*****
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/29
+#EXTINF:-1,TR: MAC OZETLERI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/43799
+#EXTINF:-1,TR: beIN SPORTS HABER HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/12
+#EXTINF:-1,TR: beIN SPORTS 4K (Minimum 150mbps)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54986
+#EXTINF:-1,TR: beIN SPORTS 1 SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/28547
+#EXTINF:-1,TR: beIN SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1
+#EXTINF:-1,TR: beIN SPORTS 1 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/2
+#EXTINF:-1,TR: beIN SPORTS 1 HD+ (FEED)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1062
+#EXTINF:-1,TR: beIN SPORTS 2 SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/21
+#EXTINF:-1,TR: beIN SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/19
+#EXTINF:-1,TR: beIN SPORTS 2 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20
+#EXTINF:-1,TR: beIN SPORTS 2 HD+ (FEED)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/37588
+#EXTINF:-1,TR: beIN SPORTS 3 SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/24
+#EXTINF:-1,TR: beIN SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/22
+#EXTINF:-1,TR: beIN SPORTS 3 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/23
+#EXTINF:-1,TR: beIN SPORTS 3 HD+ (FEED)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/53421
+#EXTINF:-1,TR: beIN SPORTS 4 SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/27
+#EXTINF:-1,TR: beIN SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/25
+#EXTINF:-1,TR: beIN SPORTS 4 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/26
+#EXTINF:-1,TR: beIN SPORTS 4 HD+ (FEED)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/53422
+#EXTINF:-1,TR: beIN SPORTS 5 SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41929
+#EXTINF:-1,TR: beIN SPORTS 5 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41930
+#EXTINF:-1,TR: beIN SPORTS 5 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41931
+#EXTINF:-1,TR: beIN SPORTS 5 HD+ (FEED)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/53423
+#EXTINF:-1,TR: beIN SPORTS MAX 1 SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54965
+#EXTINF:-1,TR: beIN SPORTS MAX 1 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/10
+#EXTINF:-1,TR: beIN SPORTS MAX 1 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/53419
+#EXTINF:-1,TR: beIN SPORTS MAX 2 SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54966
+#EXTINF:-1,TR: beIN SPORTS MAX 2 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/11
+#EXTINF:-1,TR: beIN SPORTS MAX 2 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/53420
+#EXTINF:-1,TR: TIVIBUSPOR SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54967
+#EXTINF:-1,TR: TIVIBUSPOR HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/37362
+#EXTINF:-1,TR: TIVIBUSPOR 1 SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54968
+#EXTINF:-1,TR: TIVIBUSPOR 1 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/13
+#EXTINF:-1,TR: TIVIBUSPOR 2 SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54969
+#EXTINF:-1,TR: TIVIBUSPOR 2 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/14
+#EXTINF:-1,TR: TIVIBUSPOR 3 SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54970
+#EXTINF:-1,TR: TIVIBUSPOR 3 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/15
+#EXTINF:-1,TR: TIVIBUSPOR 4 SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54971
+#EXTINF:-1,TR: TIVIBUSPOR 4 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/32395
+#EXTINF:-1,TR: TABII TV HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/56604
+#EXTINF:-1,TR: TABII SPOR HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/56605
+#EXTINF:-1,TR: TABII SPOR HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/53503
+#EXTINF:-1,TR: TABII SPOR 1 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/56606
+#EXTINF:-1,TR: TABII SPOR 1 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/52559
+#EXTINF:-1,TR: TABII SPOR 2 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/56607
+#EXTINF:-1,TR: TABII SPOR 2 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/52560
+#EXTINF:-1,TR: TABII SPOR 3 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/56608
+#EXTINF:-1,TR: TABII SPOR 3 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/52561
+#EXTINF:-1,TR: TABII SPOR 4 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/56609
+#EXTINF:-1,TR: TABII SPOR 4 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/52562
+#EXTINF:-1,TR: TABII SPOR 5 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/56610
+#EXTINF:-1,TR: TABII SPOR 5 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/52563
+#EXTINF:-1,TR: TABII SPOR 6 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/56611
+#EXTINF:-1,TR: TABII SPOR 6 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/52564
+#EXTINF:-1,TR: TABII SPOR 7 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/56612
+#EXTINF:-1,TR: TABII SPOR 7 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/56613
+#EXTINF:-1,TR: TABII SPOR 8 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/56614
+#EXTINF:-1,TR: TABII SPOR 8 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/56615
+#EXTINF:-1,TR: SPOR SMART SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54972
+#EXTINF:-1,TR: SPOR SMART HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/28391
+#EXTINF:-1,TR: SPOR SMART HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/16
+#EXTINF:-1,TR: SPOR SMART 2 SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54973
+#EXTINF:-1,TR: SPOR SMART 2 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/28524
+#EXTINF:-1,TR: S SPORT SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54974
+#EXTINF:-1,TR: S SPORT HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/17
+#EXTINF:-1,TR: S SPORT HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/36
+#EXTINF:-1,TR: S SPORT 2 SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54975
+#EXTINF:-1,TR: S SPORT 2 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/18
+#EXTINF:-1,TR: S SPORT 2 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/53418
+#EXTINF:-1,TR: S SPORT PLUS HD 1 (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/33517
+#EXTINF:-1,TR: S SPORT PLUS HD 2 (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/34289
+#EXTINF:-1,TR: S SPORT PLUS HD 3 (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35110
+#EXTINF:-1,TR: S SPORT PLUS HD 4 (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35111
+#EXTINF:-1,TR: S SPORT PLUS HD 5 (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35112
+#EXTINF:-1,TR: S SPORT PLUS HD 6 (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35113
+#EXTINF:-1,TR: S SPORT PLUS HD 7 (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/56478
+#EXTINF:-1,TR: S SPORT PLUS HD 8 (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/56479
+#EXTINF:-1,TR: EXXEN TV HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/46719
+#EXTINF:-1,TR: EXXEN TV HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/46720
+#EXTINF:-1,TR: EXXEN SPORT 1 SD (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35829
+#EXTINF:-1,TR: EXXEN SPORT 1 HD (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35346
+#EXTINF:-1,TR: EXXEN SPORT 1 HD+ (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/34656
+#EXTINF:-1,TR: EXXEN SPORT 2 HD (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35347
+#EXTINF:-1,TR: EXXEN SPORT 2 HD+ (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/34657
+#EXTINF:-1,TR: EXXEN SPORT 3 HD (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35348
+#EXTINF:-1,TR: EXXEN SPORT 3 HD+ (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35114
+#EXTINF:-1,TR: EXXEN SPORT 4 HD (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35397
+#EXTINF:-1,TR: EXXEN SPORT 4 HD+ (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35396
+#EXTINF:-1,TR: EXXEN SPORT 5 HD (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35399
+#EXTINF:-1,TR: EXXEN SPORT 5 HD+ (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35398
+#EXTINF:-1,TR: EXXEN SPORT 6 HD (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35401
+#EXTINF:-1,TR: EXXEN SPORT 6 HD+ (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35400
+#EXTINF:-1,TR: EXXEN SPORT 7 HD (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35412
+#EXTINF:-1,TR: EXXEN SPORT 8 HD (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35413
+#EXTINF:-1,TR: EXXEN SPORT 9 HD (MAC ZAMANI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35830
+#EXTINF:-1,TR: beIN CONNECT 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/29006
+#EXTINF:-1,TR: beIN CONNECT 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/29007
+#EXTINF:-1,TR: beIN CONNECT 3
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/29008
+#EXTINF:-1,TR: beIN CONNECT 4
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/29009
+#EXTINF:-1,TR: beIN CONNECT 5
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/29010
+#EXTINF:-1,TR: beIN CONNECT 6
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35391
+#EXTINF:-1,TR: A SPOR SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54976
+#EXTINF:-1,TR: A SPOR HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/30
+#EXTINF:-1,TR: A SPOR HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/31
+#EXTINF:-1,TR: TRT SPOR HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/33
+#EXTINF:-1,TR: TRT SPOR SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54977
+#EXTINF:-1,TR: TRT SPOR HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/32
+#EXTINF:-1,TR: TRT SPOR YILDIZ SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54978
+#EXTINF:-1,TR: TRT SPOR YILDIZ HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/17137
+#EXTINF:-1,TR: GS TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35
+#EXTINF:-1,TR: FB TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/34
+#EXTINF:-1,TR: FB TV HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/34414
+#EXTINF:-1,TR: SPORTS TV HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/38
+#EXTINF:-1,TR: EUROSPORT 1 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/42
+#EXTINF:-1,TR: EUROSPORT 2 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/43
+#EXTINF:-1,TR: NBA TV SD (TR/ENG)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54979
+#EXTINF:-1,TR: NBA TV HD (TR/ENG)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41
+#EXTINF:-1,TR: FIGHTBOX (TR/ENG)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/40
+#EXTINF:-1,TR: TAY TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/44
+#EXTINF:-1,TR: TJK TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/45
+#EXTINF:-1,TR: HT 7/24 SPOR
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/53424
+#EXTINF:-1,TR: W SPORTS
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54988
+#EXTINF:-1,*****TURK ULUSAL*****
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/46
+#EXTINF:-1,TR: TRT 4K
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/17148
+#EXTINF:-1,TR: TRT 1 SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/111
+#EXTINF:-1,TR: TRT 1 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47
+#EXTINF:-1,TR: TRT 1 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/48
+#EXTINF:-1,TR: TRT 1 HD+ (HEVC)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35349
+#EXTINF:-1,TR: TRT 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/3249
+#EXTINF:-1,TR: TRT TURK
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/49
+#EXTINF:-1,TR: TRT AVAZ
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50
+#EXTINF:-1,TR: TRT KURDU
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/51
+#EXTINF:-1,TR: ATV SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47165
+#EXTINF:-1,TR: ATV HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/52
+#EXTINF:-1,TR: ATV HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/53
+#EXTINF:-1,TR: ATV HD+ (HEVC)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35350
+#EXTINF:-1,TR: ATV AVRUPA
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54
+#EXTINF:-1,TR: A2 TV HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/55
+#EXTINF:-1,TR: A2 TV HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/5849
+#EXTINF:-1,TR: STAR TV SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47167
+#EXTINF:-1,TR: STAR TV HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/56
+#EXTINF:-1,TR: STAR TV HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/359
+#EXTINF:-1,TR: STAR TV HD+ (HEVC)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35357
+#EXTINF:-1,TR: EUROSTAR
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/57
+#EXTINF:-1,TR: SHOW TV SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47168
+#EXTINF:-1,TR: SHOW TV HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/58
+#EXTINF:-1,TR: SHOW TV HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/59
+#EXTINF:-1,TR: SHOW TV HD+ (HEVC)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35353
+#EXTINF:-1,TR: SHOW TURK
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/60
+#EXTINF:-1,TR: SHOWMAX
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/61
+#EXTINF:-1,TR: KANAL D SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47166
+#EXTINF:-1,TR: KANAL D HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/62
+#EXTINF:-1,TR: KANAL D HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/63
+#EXTINF:-1,TR: KANAL D HD+ (HEVC)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35351
+#EXTINF:-1,TR: EURO D
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/64
+#EXTINF:-1,TR: NOW TV SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47170
+#EXTINF:-1,TR: NOW TV HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/65
+#EXTINF:-1,TR: NOW TV HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/66
+#EXTINF:-1,TR: NOW TV HD+ (HEVC)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35352
+#EXTINF:-1,TR: TV 8 SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47169
+#EXTINF:-1,TR: TV 8 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/68
+#EXTINF:-1,TR: TV 8 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/69
+#EXTINF:-1,TR: TV 8 HD+ (HEVC)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35354
+#EXTINF:-1,TR: TV 8 INT
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/70
+#EXTINF:-1,TR: TV 8.5 SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/71
+#EXTINF:-1,TR: TV 8.5 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35355
+#EXTINF:-1,TR: BEYAZ TV SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47171
+#EXTINF:-1,TR: BEYAZ TV HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/77
+#EXTINF:-1,TR: BEYAZ TV HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/78
+#EXTINF:-1,TR: KANAL 7 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/74
+#EXTINF:-1,TR: KANAL 7 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/75
+#EXTINF:-1,TR: KANAL 7 AVRUPA
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/76
+#EXTINF:-1,TR: 360 TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/79
+#EXTINF:-1,TR: KANAL AVRUPA
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/80
+#EXTINF:-1,TR: YILDIZ EN TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/82
+#EXTINF:-1,TR: FX HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/87
+#EXTINF:-1,TR: TEVE 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/88
+#EXTINF:-1,TR: CAN TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/110
+#EXTINF:-1,TR: TIVI TURK
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/824
+#EXTINF:-1,TR: TV 4
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/828
+#EXTINF:-1,TR: DHA CANLI 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20764
+#EXTINF:-1,TR: TIVI 6 (ANKARA)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20799
+#EXTINF:-1,TR: EKOL TV HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/25052
+#EXTINF:-1,*****TURK YEREL*****
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20794
+#EXTINF:-1,TR: KON TV HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20795
+#EXTINF:-1,TR: KOCAELI TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/91
+#EXTINF:-1,TR: ERZURUM WEB TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/339
+#EXTINF:-1,TR: GRT TV (GAZIANTEP)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/390
+#EXTINF:-1,TR: KOCAELI TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/391
+#EXTINF:-1,TR: AKSU TV (K.MARAS)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/392
+#EXTINF:-1,TR: Kanal FIRAT
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/393
+#EXTINF:-1,TR: AS TV (BURSA)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/394
+#EXTINF:-1,TR: Dadas Tv
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/395
+#EXTINF:-1,TR: Konya Olay Tv
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/396
+#EXTINF:-1,TR: ANADOLU NET TV (KAYSERI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/398
+#EXTINF:-1,TR: KANAL 15 (BURDUR)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/400
+#EXTINF:-1,TR: M TURK TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/401
+#EXTINF:-1,TR: FINEST TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/402
+#EXTINF:-1,TR: Mavi Karadeniz
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/403
+#EXTINF:-1,TR: KANAL 23 (ELAZIG)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/404
+#EXTINF:-1,TR: YOL TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/407
+#EXTINF:-1,TR: Karabük tv
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/409
+#EXTINF:-1,TR: HUNAT TV (KAYSERI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/414
+#EXTINF:-1,TR: RIZE TURK 
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/529
+#EXTINF:-1,TR: TV 48
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/533
+#EXTINF:-1,TR: NORA TV (YENI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/3126
+#EXTINF:-1,TR: Bursa Tv
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/3236
+#EXTINF:-1,TR: Altas Tv
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/3239
+#EXTINF:-1,TR: LIFE TV (KAYSERI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/3241
+#EXTINF:-1,TR: Yildiz Tv Sinop
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/3245
+#EXTINF:-1,TR: KANAL Z (ZONGULDAK)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/3247
+#EXTINF:-1,TR: URFANATIK TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/3251
+#EXTINF:-1,TR: Kanal 12
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/3252
+#EXTINF:-1,TR: Istanbul Tv
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/3254
+#EXTINF:-1,TR: Rumeli Tv
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/5179
+#EXTINF:-1,TR: MEKAMELEEN TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/5183
+#EXTINF:-1,TR: BR TV (ZONGULDAK)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/5841
+#EXTINF:-1,TR: DIM TV (ANTALYA)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/15862
+#EXTINF:-1,TR: Fortuna tv
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/15864
+#EXTINF:-1,TR: TV A (ADANA)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/15865
+#EXTINF:-1,TR: Arti Tv
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/15866
+#EXTINF:-1,TR: TON TV (CANAKKALE)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/16586
+#EXTINF:-1,TR: MERCAN TV (ADIYAMAN)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/16587
+#EXTINF:-1,TR: Manisa Ev Tv
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/16589
+#EXTINF:-1,TR: KANAL 58
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20763
+#EXTINF:-1,TR: KANAL 19
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20766
+#EXTINF:-1,TR: MOR TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20767
+#EXTINF:-1,TR: EGE TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20768
+#EXTINF:-1,TR: TV 41 (KOCAELI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20771
+#EXTINF:-1,TR: DHA CANLI 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20772
+#EXTINF:-1,TR: ON6 TV (BURSA)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20773
+#EXTINF:-1,TR: Es tv
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20775
+#EXTINF:-1,TR: HRT Akdeniz
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20777
+#EXTINF:-1,TR: KAY TV (KAYSERI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20798
+#EXTINF:-1,TR: DEHA TV (DENIZLI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20800
+#EXTINF:-1,TR: VATAN TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20801
+#EXTINF:-1,TR: Fortuna tv
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20802
+#EXTINF:-1,TR: SUN RTV (MERSIN)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20803
+#EXTINF:-1,TR: VUSLAT TV (MALATYA)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20808
+#EXTINF:-1,TR: Almanya Türk Tv
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20816
+#EXTINF:-1,TR: BODRUM KENT TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/24281
+#EXTINF:-1,TR: TV 52
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/25047
+#EXTINF:-1,TR: DENIZ POSTASI (KAYSERI)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/25048
+#EXTINF:-1,TR: BIR TV (IZMIR)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/25049
+#EXTINF:-1,TR: KANAL 68 (AKSARAY)
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/25051
+#EXTINF:-1,TR: ALANYA POSTA TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/26529
+#EXTINF:-1,TR: FRT Fethiye Tv
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/27010
+#EXTINF:-1,TR: ANADOLU Dernek Tv
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35878
+#EXTINF:-1,TR: TRAKYA TÜRK
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/37319
+#EXTINF:-1,TR: GURME TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47440
+#EXTINF:-1,TR: BELEM TÜRK TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47439
+#EXTINF:-1,TR: HRT AKDENIZ
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47444
+#EXTINF:-1,TR: LUGAT TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47443
+#EXTINF:-1,TR: TURKMENELI TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/53747
+#EXTINF:-1,*****TURK HABER*****
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/4942
+#EXTINF:-1,TR: TRT HABER SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47172
+#EXTINF:-1,TR: TRT HABER HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/114
+#EXTINF:-1,TR: TRT HABER HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20813
+#EXTINF:-1,TR: A PARA
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/28717
+#EXTINF:-1,TR: A HABER SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47174
+#EXTINF:-1,TR: A HABER HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/104
+#EXTINF:-1,TR: A HABER HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/105
+#EXTINF:-1,TR: NTV HABER SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47173
+#EXTINF:-1,TR: NTV HABER HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/100
+#EXTINF:-1,TR: NTV HABER HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/101
+#EXTINF:-1,TR: CNN TURK SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47175
+#EXTINF:-1,TR: CNN TURK HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/106
+#EXTINF:-1,TR: CNN TURK HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/107
+#EXTINF:-1,TR: HABER TURK SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47176
+#EXTINF:-1,TR: HABER TURK HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/108
+#EXTINF:-1,TR: HABER TURK HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/109
+#EXTINF:-1,TR: HABER GLOBAL SD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47403
+#EXTINF:-1,TR: HABER GLOBAL HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/99
+#EXTINF:-1,TR: HABER GLOBAL HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20810
+#EXTINF:-1,TR: HALK TV HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/72
+#EXTINF:-1,TR: HALK TV HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20812
+#EXTINF:-1,TR: TGRT EU
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/3253
+#EXTINF:-1,TR: TGRT HABER HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/115
+#EXTINF:-1,TR: TGRT HABER HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20814
+#EXTINF:-1,TR: BENGUTURK TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/83
+#EXTINF:-1,TR: ULUSAL KANAL
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/81
+#EXTINF:-1,TR: ULKE TV HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/84
+#EXTINF:-1,TR: TELE 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/3350
+#EXTINF:-1,TR: TV 100
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/73
+#EXTINF:-1,TR: TV 100 HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35870
+#EXTINF:-1,TR: SZC TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/44118
+#EXTINF:-1,TR: SZC TV HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/547
+#EXTINF:-1,TR: FLASH HABER
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/36075
+#EXTINF:-1,TR: FLASH HABER HD+
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/764
+#EXTINF:-1,TR: KRT KÜLTÜR TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/18130
+#EXTINF:-1,TR: CNBC-E HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/51137
+#EXTINF:-1,TR: 24 TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/14558
+#EXTINF:-1,TR: TVNET
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/14561
+#EXTINF:-1,TR: EKOTÜRK TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/20811
+#EXTINF:-1,TR: IBB TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/25055
+#EXTINF:-1,TR: LINE TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/103
+#EXTINF:-1,TR: BLOOMBERG HT
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/116
+#EXTINF:-1,*****TURK SINEMA*****
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/148
+#EXTINF:-1,TR: beIN BOX OFFICE 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/153
+#EXTINF:-1,TR: beIN BOX OFFICE 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/154
+#EXTINF:-1,TR: beIN BOX OFFICE 3
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/155
+#EXTINF:-1,TR: beIN SERIES 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/156
+#EXTINF:-1,TR: beIN SERIES 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/157
+#EXTINF:-1,TR: beIN SERIES 3
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/158
+#EXTINF:-1,TR: beIN SERIES 4
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/159
+#EXTINF:-1,TR: beIN MOVIES STARS
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/160
+#EXTINF:-1,TR: beIN MOVIES FAMILY
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/161
+#EXTINF:-1,TR: beIN MOVIES ACTION
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/162
+#EXTINF:-1,TR: beIN MOVIES PREMIER
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/164
+#EXTINF:-1,TR: beIN MOVIES PREMIER 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/165
+#EXTINF:-1,TR: beIN MOVIES TURK
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/166
+#EXTINF:-1,TR: MOVIESMART TURK HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/174
+#EXTINF:-1,TR: MOVIESMART CLASSIC HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/176
+#EXTINF:-1,TR: DIZISMART PREMIUM HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/177
+#EXTINF:-1,TR: DIZISMART MAX HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/28522
+#EXTINF:-1,TR: SINEMA TV 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/38344
+#EXTINF:-1,TR: SINEMA TV 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/38341
+#EXTINF:-1,TR: SINEMA TV 1002
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/38340
+#EXTINF:-1,TR: SINEMA TV 1001
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/38342
+#EXTINF:-1,TR: SINEMA TV KOMEDI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/178
+#EXTINF:-1,TR: SINEMA TV KOMEDI 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/38339
+#EXTINF:-1,TR: SINEMA TV AILE
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/179
+#EXTINF:-1,TR: SINEMA TV AKSIYON
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/180
+#EXTINF:-1,TR: SINEMA TV AKSIYON 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/38343
+#EXTINF:-1,TR: SINEVIZYON SALONDA NE VAR
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1083
+#EXTINF:-1,TR: SINEVIZYON 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1063
+#EXTINF:-1,TR: SINEVIZYON 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1074
+#EXTINF:-1,TR: SINEVIZYON 3
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1076
+#EXTINF:-1,TR: SINEVIZYON 4
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1077
+#EXTINF:-1,TR: SINEVIZYON 5
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1078
+#EXTINF:-1,TR: SINEVIZYON 6
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1079
+#EXTINF:-1,TR: SINEVIZYON 7
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1080
+#EXTINF:-1,TR: SINEVIZYON 8
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1081
+#EXTINF:-1,TR: SINEVIZYON 9
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1082
+#EXTINF:-1,TR: SINEVIZYON 10
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1064
+#EXTINF:-1,TR: SINEVIZYON 11
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1065
+#EXTINF:-1,TR: SINEVIZYON 12
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1066
+#EXTINF:-1,TR: SINEVIZYON 13
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1067
+#EXTINF:-1,TR: SINEVIZYON 14
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1068
+#EXTINF:-1,TR: SINEVIZYON 15
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1069
+#EXTINF:-1,TR: SINEVIZYON 16
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1070
+#EXTINF:-1,TR: SINEVIZYON 17
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1071
+#EXTINF:-1,TR: SINEVIZYON 18
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1072
+#EXTINF:-1,TR: SINEVIZYON 19
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1073
+#EXTINF:-1,TR: SINEVIZYON 20
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/1075
+#EXTINF:-1,TR: BLUTV PLAY 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/15949
+#EXTINF:-1,TR: BLUTV PLAY 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/15950
+#EXTINF:-1,TR: SINEMA AKSIYON 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/769
+#EXTINF:-1,TR: SINEMA AKSIYON 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/770
+#EXTINF:-1,TR: SINEMA AKSIYON 3
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/771
+#EXTINF:-1,TR: SINEMA AKSIYON 4
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/772
+#EXTINF:-1,TR: SINEMA AKSIYON 5
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/773
+#EXTINF:-1,TR: SINEMA AKSIYON 6
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/774
+#EXTINF:-1,TR: SINEMA BILIM KURGU 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/775
+#EXTINF:-1,TR: SINEMA BILIM KURGU 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/776
+#EXTINF:-1,TR: SINEMA BILIM KURGU 3
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/777
+#EXTINF:-1,TR: SINEMA ANIMASYON 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/778
+#EXTINF:-1,TR: SINEMA ANIMASYON 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/779
+#EXTINF:-1,TR: SINEMA ANIMASYON 3
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/780
+#EXTINF:-1,TR: SINEMA TURK 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/781
+#EXTINF:-1,TR: SINEMA TURK 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/782
+#EXTINF:-1,TR: SINEMA TURK 3
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/783
+#EXTINF:-1,TR: SINEMA TURK 4
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/784
+#EXTINF:-1,TR: SINEMA TURK 5
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/785
+#EXTINF:-1,TR: SINEMA TURK 6
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/791
+#EXTINF:-1,TR: SINEMA KOMEDI 3
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/786
+#EXTINF:-1,TR: SINEMA KOMEDI 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/787
+#EXTINF:-1,TR: SINEMA KOMEDI 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/788
+#EXTINF:-1,TR: SINEMA KOMEDI 4
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/789
+#EXTINF:-1,TR: SINEMA KOMEDI 5
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/790
+#EXTINF:-1,TR: SINEMA KORKU 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/792
+#EXTINF:-1,TR: SINEMA KORKU 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/793
+#EXTINF:-1,TR: SINEMA KORKU 3
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/794
+#EXTINF:-1,TR: SINEMA KORKU 4
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/795
+#EXTINF:-1,TR: SINEMA DRAMA 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/796
+#EXTINF:-1,TR: SINEMA DRAMA 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/797
+#EXTINF:-1,TR: SINEMA YESILCAM
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/802
+#EXTINF:-1,TR: SINEMA COCUK
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/803
+#EXTINF:-1,TR: SINEMA MIX 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/804
+#EXTINF:-1,TR: SINEMA MIX 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/805
+#EXTINF:-1,TR: SINEMA MIX 3
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/806
+#EXTINF:-1,TR: SINEMA MIX 4
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/807
+#EXTINF:-1,TR: SINEMA MIX 5
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/808
+#EXTINF:-1,TR: SINEMA MIX 6
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/809
+#EXTINF:-1,TR: SINEMA MIX 7
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/810
+#EXTINF:-1,TR: SINEMA MIX 8
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/811
+#EXTINF:-1,TR: SINEMA MIX 9
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/812
+#EXTINF:-1,TR: SINEMA MIX 10
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/813
+#EXTINF:-1,TR: SINEMA MIX 11
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/814
+#EXTINF:-1,TR: SINEMA MIX 12
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/815
+#EXTINF:-1,TR: SINEMA MIX 13
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/816
+#EXTINF:-1,TR: SINEMA MIX 14
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/817
+#EXTINF:-1,TR: SINEMA MIX 15
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/818
+#EXTINF:-1,TR: SINEMA MIX 16
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/819
+#EXTINF:-1,TR: SINEMA MIX 17
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/820
+#EXTINF:-1,TR: SINEMA MIX 18
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/821
+#EXTINF:-1,TR: SINEMA MIX 19
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/822
+#EXTINF:-1,TR: MAX 4K
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54984
+#EXTINF:-1,TR: MAX VIZYON HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/24146
+#EXTINF:-1,TR: MAX VIZYON 2 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/24147
+#EXTINF:-1,TR: MAX VIZYON 3 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/24148
+#EXTINF:-1,TR: MAX VIZYON 4 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/24149
+#EXTINF:-1,TR: MAX PREMIER HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/24150
+#EXTINF:-1,TR: MAX TURK HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/24151
+#EXTINF:-1,TR: MAX GOLD HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/24153
+#EXTINF:-1,TR: MAX AKSIYON HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/24154
+#EXTINF:-1,TR: MAX AKSIYON 2 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/24155
+#EXTINF:-1,TR: MAX WESTERN HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/24156
+#EXTINF:-1,TR: MAX ANIMASYON 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/24152
+#EXTINF:-1,TR: MAX ANIMASYON 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54985
+#EXTINF:-1,TR: MAX HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/801
+#EXTINF:-1,TR: MAX ORJiNAL HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/799
+#EXTINF:-1,TR: MAX 007 HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/798
+#EXTINF:-1,TR: MAX COLLECTiON HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/800
+#EXTINF:-1,TR: MAX STAR WARS HD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/27881
+#EXTINF:-1,TR: CINEBOX ANIMASYON
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/27879
+#EXTINF:-1,TR: CINEBOX KORKU
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/27880
+#EXTINF:-1,TR: CINEBOX KEMAL SUNAL
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/14933
+#EXTINF:-1,TR: LOCA 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/27882
+#EXTINF:-1,TR: LOCA 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/27883
+#EXTINF:-1,TR: LOCA 3
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/27884
+#EXTINF:-1,TR: FILMBOX PREMIER
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41723
+#EXTINF:-1,TR: FILMBOX ACTION
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41724
+#EXTINF:-1,TR: FILMBOX SCI-FI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41725
+#EXTINF:-1,TR: FILMBOX FANTASTIC
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41726
+#EXTINF:-1,TR: FILMBOX DRAMA
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41727
+#EXTINF:-1,TR: FILMBOX KORKU
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41728
+#EXTINF:-1,TR: FILMBOX COMEDY
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41729
+#EXTINF:-1,TR: FILMBOX ROMANTIC
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41730
+#EXTINF:-1,TR: FILMBOX FAMILY
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41731
+#EXTINF:-1,TR: FILMBOX YERLI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41732
+#EXTINF:-1,TR: FILMBOX YESILCAM
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41733
+#EXTINF:-1,TR: KEMAL SUNAL TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41734
+#EXTINF:-1,TR: SENER SEN TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41735
+#EXTINF:-1,TR: SENER SEN TV 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/14934
+#EXTINF:-1,TR: ZEKI & METIN TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41736
+#EXTINF:-1,TR: TARIK AKAN TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41737
+#EXTINF:-1,TR: KADIR INANIR TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41738
+#EXTINF:-1,TR: CUNEYT ARKIN TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41739
+#EXTINF:-1,TR: ILYAS SALMAN TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41740
+#EXTINF:-1,TR: BOX EZEL
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50804
+#EXTINF:-1,TR: BOX DELI YUREK
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50805
+#EXTINF:-1,TR: BOX ACI HAYAT
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50806
+#EXTINF:-1,TR: BOX ASKI MEMNU
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50807
+#EXTINF:-1,TR: BOX SUSKUNLAR
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50808
+#EXTINF:-1,TR: BOX KURTLAR VADISI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50809
+#EXTINF:-1,TR: BOX KURTLAR VADISI PUSU
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50810
+#EXTINF:-1,TR: BOX BEHZAT C
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50811
+#EXTINF:-1,TR: BOX RUHSAR
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50812
+#EXTINF:-1,TR: BOX CALIKUSU
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50813
+#EXTINF:-1,TR: BOX AVRUPA YAKASI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50814
+#EXTINF:-1,TR: BOX TURK MALI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50815
+#EXTINF:-1,TR: BOX MUHTESEM YUZYIL
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50816
+#EXTINF:-1,TR: BOX POYRAZ KARAYEL
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50817
+#EXTINF:-1,TR: BOX ASMALI KONAK
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50818
+#EXTINF:-1,TR: BOX YAPRAK DOKUMU
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50819
+#EXTINF:-1,TR: BOX ARIZA
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50820
+#EXTINF:-1,TR: BOX COCUKLAR DUYMASIN
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50821
+#EXTINF:-1,TR: BOX BINBIR GECE
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50822
+#EXTINF:-1,TR: BOX CENNET MAHALLESI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50823
+#EXTINF:-1,TR: BOX YABANCI DAMAT
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50824
+#EXTINF:-1,TR: BOX SIFIR BIR
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50825
+#EXTINF:-1,TR: BOX LEYLA ILE MECNUN
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50826
+#EXTINF:-1,TR: BOX ISTANBULLU GELIN
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50827
+#EXTINF:-1,TR: BOX YALANCI YARIM
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50828
+#EXTINF:-1,TR: BOX KARA SEVDE
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50829
+#EXTINF:-1,TR: BOX YAHSI CAZIBE
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50830
+#EXTINF:-1,TR: BOX UC KURUS
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50831
+#EXTINF:-1,TR: BOX GUNESIN KIZLARI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50832
+#EXTINF:-1,TR: BOX SEN ANLAT KARADENIZ
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50833
+#EXTINF:-1,TR: BOX KATARSIS X-TRA
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50834
+#EXTINF:-1,TR: BOX KARDES PAYI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50835
+#EXTINF:-1,TR: BOX KARA DAYI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50836
+#EXTINF:-1,TR: BOX HOUSE OF DRAGON
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50837
+#EXTINF:-1,TR: BOX OYLE BIR GECER ZAMAN KI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50838
+#EXTINF:-1,TR: BOX KANIT
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50839
+#EXTINF:-1,TR: BOX BIZIMKILER
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50840
+#EXTINF:-1,TR: BOX CICEK TAKSI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50841
+#EXTINF:-1,TR: BOX RAMO
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50842
+#EXTINF:-1,TR: BOX YILAN HIKAYESI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50843
+#EXTINF:-1,TR: BOX KUZEY GUNEY
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50844
+#EXTINF:-1,TR: BOX GULDUR GULDUR
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50845
+#EXTINF:-1,TR: BOX TOLGSHOW FILTRESIZ
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50846
+#EXTINF:-1,TR: BOX PRISON BREAK
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50847
+#EXTINF:-1,TR: BOX AILE SIRKETI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50848
+#EXTINF:-1,TR: BOX HAKAN MUHAFIZ
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50849
+#EXTINF:-1,TR: BOX PUNISHER
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50850
+#EXTINF:-1,TR: BOX GAME OF THRONES
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50851
+#EXTINF:-1,TR: BOX VAN HELSING
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50852
+#EXTINF:-1,TR: BOX THE 100
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50853
+#EXTINF:-1,TR: BOX OZARK
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50854
+#EXTINF:-1,TR: BOX VIKINGS
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50855
+#EXTINF:-1,TR: BOX DEXTER
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50856
+#EXTINF:-1,TR: BOX 24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50857
+#EXTINF:-1,TR: BOX MERLIN
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50858
+#EXTINF:-1,TR: BOX SUITS
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50859
+#EXTINF:-1,TR: BOX IRON FIST
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50860
+#EXTINF:-1,TR: BOX NARCOS
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50861
+#EXTINF:-1,TR: BOX SAHSIYET
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50862
+#EXTINF:-1,TR: BOX AYNEN AYNEN
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50863
+#EXTINF:-1,TR: BOX ULAN İSTANBUL
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50864
+#EXTINF:-1,TR: BOX HIZLI VE OFKELI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50865
+#EXTINF:-1,TR: BOX RECEP IVEDIK
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50866
+#EXTINF:-1,TR: BOX JAN CLOTH VAN DAMME
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50867
+#EXTINF:-1,TR: BOX MATRIX
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50868
+#EXTINF:-1,TR: BOX POLIS AKADEMISI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50869
+#EXTINF:-1,TR: BOX MASKELI BESLER
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50870
+#EXTINF:-1,TR: BOX HABABAM SINIFI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50871
+#EXTINF:-1,TR: BOX 007 JAMES BOND
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50872
+#EXTINF:-1,TR: BOX SON DURAK
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50873
+#EXTINF:-1,TR: BOX SUPER MAN
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50874
+#EXTINF:-1,TR: BOX YUZUKLERIN EFENDISI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50875
+#EXTINF:-1,TR: BOX JOHN WICK
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50876
+#EXTINF:-1,TR: BOX JOHNNY DEPP
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50877
+#EXTINF:-1,TR: BOX PREDATOR
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50878
+#EXTINF:-1,TR: BOX THE HANGOVER
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50879
+#EXTINF:-1,TR: BOX MUMYA
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50880
+#EXTINF:-1,TR: BOX HARRY  POTTER
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50881
+#EXTINF:-1,TR: BOX X-MEN
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50882
+#EXTINF:-1,TR: BOX TESTERE
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50883
+#EXTINF:-1,TR: BOX JACKIE CHAN
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50884
+#EXTINF:-1,TR: BOX STAR WARS
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50885
+#EXTINF:-1,TR: BOX JESSICA JONES
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50886
+#EXTINF:-1,TR: BOX KONUSANLAR
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50887
+#EXTINF:-1,TR: SIHIRLI ANNEM
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50888
+#EXTINF:-1,TR: DIZIAX AYAK ISLERI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50889
+#EXTINF:-1,TR: DIZIAX CEKIC VE GUL
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50890
+#EXTINF:-1,TR: DIZIAX ALEV ALEV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50891
+#EXTINF:-1,TR: DIZIAX AVLU
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50892
+#EXTINF:-1,TR: DIZIAX BENIM ADIM MELEK
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50893
+#EXTINF:-1,TR: AKASYA DURAGI 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50894
+#EXTINF:-1,TR: ANKARA'NIN DIKMENI 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50895
+#EXTINF:-1,TR: ARKA SOKAKLAR 1 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50896
+#EXTINF:-1,TR: ARKA SOKAKLAR 2 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50897
+#EXTINF:-1,TR: ARKA SOKAKLAR 3 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50898
+#EXTINF:-1,TR: ARKA SOKAKLAR 4 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50899
+#EXTINF:-1,TR: ARKA SOKAKLAR 5 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50900
+#EXTINF:-1,TR: ARKA SOKAKLAR 6 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50901
+#EXTINF:-1,TR: ARKADASIM HOSGELDIN 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50902
+#EXTINF:-1,TR: ATIYE 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50903
+#EXTINF:-1,TR: ASKIM ASKIM 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50904
+#EXTINF:-1,TR: Dirilis Ertugrul 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50905
+#EXTINF:-1,TR: DIZIAX CHICAGO P.D.
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50906
+#EXTINF:-1,TR: DIZIAX DAREDEVIL
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50907
+#EXTINF:-1,TR: DIZIAX EKMEK TEKNESI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50908
+#EXTINF:-1,TR: DIZIAX THE LAST OF US
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50909
+#EXTINF:-1,TR: EXXEN DIZI 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50910
+#EXTINF:-1,TR: EXXEN KATARSIS 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50911
+#EXTINF:-1,TR: ESKIYA DUNYAYA HUKUMDAR OLMAZ 1
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50912
+#EXTINF:-1,TR: ESKIYA DUNYAYA HUKUMDAR OLMAZ 2
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50913
+#EXTINF:-1,TR: GALIP DERVIS 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50914
+#EXTINF:-1,TR: GULBEYAZ 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50915
+#EXTINF:-1,TR: Hercai 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50916
+#EXTINF:-1,TR: HZ. YUSUF 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50917
+#EXTINF:-1,TR: ICERDE 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50918
+#EXTINF:-1,TR: KARA SEVDA 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50919
+#EXTINF:-1,TR: La Casa De Papel 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50920
+#EXTINF:-1,TR: Rambo 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50921
+#EXTINF:-1,TR: SOKAGIN COCUKLARI 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50922
+#EXTINF:-1,TR: YEDI NUMARA 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50923
+#EXTINF:-1,TR: Cukur 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50924
+#EXTINF:-1,TR: ISTANBULLU GELIN 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50925
+#EXTINF:-1,TR: ALPER RENDE TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50926
+#EXTINF:-1,TR: OGUZHAN UGUR TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50927
+#EXTINF:-1,TR: KAFALAR TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50928
+#EXTINF:-1,TR: DANLA BILIC TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50929
+#EXTINF:-1,TR: DELI MI NE TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50930
+#EXTINF:-1,TR: BARIS OZCAN TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50931
+#EXTINF:-1,TR: ORKUN ISITMAK TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50932
+#EXTINF:-1,TR: RUHI CENET TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50933
+#EXTINF:-1,TR: ENES BATUR TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50934
+#EXTINF:-1,TR: SEFA KINDIR TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50935
+#EXTINF:-1,TR: Alien vs Predator 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50936
+#EXTINF:-1,TR: Angeline Jolie 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50937
+#EXTINF:-1,TR: Arnold Schwarzenegger 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50938
+#EXTINF:-1,TR: Batman Tv 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50939
+#EXTINF:-1,TR: Cameron Diaz 7/24
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50940
+#EXTINF:-1,TR: DIZIAX  BRUCE WILLS
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50941
+#EXTINF:-1,TR: DIZIAX 13.CUMA
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50942
+#EXTINF:-1,TR: DIZIAX ALACAKARANLIK EFSANESI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50943
+#EXTINF:-1,TR: DIZIAX ALPACINO
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50944
+#EXTINF:-1,TR: DIZIAX BLINDSPOT
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50945
+#EXTINF:-1,TR: DIZIAX BRAD PITT
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50946
+#EXTINF:-1,TR: DIZIAX BREAKING BAD
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50947
+#EXTINF:-1,TR: DIZIAX BRUCE LEE TV
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50948
+#EXTINF:-1,TR: DIZIAX CEHENNEM SILAHI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50949
+#EXTINF:-1,TR: DIZIAX HARRY POTTER
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50950
+#EXTINF:-1,TR: DIZIAX JASON STATHAM
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50951
+#EXTINF:-1,TR: DIZIAX JETLI
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50952
+#EXTINF:-1,TR: DIZIAX LOST
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50953
+#EXTINF:-1,TR: DIZIAX NICOLAS CAGE
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50954
+#EXTINF:-1,TR: DIZIAX NIKITA
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50955
+#EXTINF:-1,TR: DIZIAX ROCKY BALBOA
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50956
+#EXTINF:-1,TR: DIZIAX SYLVESTER STALLONE
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50957
+#EXTINF:-1,TR: DIZIAX THE BOURNE
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50958
+#EXTINF:-1,TR: DIZIAX ZOR OLUM
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50959
+#EXTINF:-1,TR: DIZIAX OLUMCUL DENEY
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50960
