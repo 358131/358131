@@ -1,544 +1,544 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/turksatkablo.com.tr.epg.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
 #EXTM3U
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ ULUSAL ✦●✦" tvg-logo="https://i.ibb.co/Hf84XqXy/16.png" group-title="TR ⭐ ULUSAL",✦●✦ ULUSAL ✦●✦
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/488700
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/488700
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt4k.tr" tvg-name="TRT 4K UHD 2160p" tvg-logo="https://i.ibb.co/DfRBKZTx/2.png" group-title="TR ⭐ ULUSAL",TRT 4K UHD 2160p
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1841
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1841
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt4k.tr" tvg-name="TRT 4K FHD" tvg-logo="https://i.ibb.co/yJx24my/3.png" group-title="TR ⭐ ULUSAL",TRT 4K FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1842
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1842
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="TRT 1 FHD" tvg-logo="https://i.ibb.co/vx4LBFx6/4.png" group-title="TR ⭐ ULUSAL",TRT 1 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1843
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1843
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="TRT 1 HD" tvg-logo="https://i.ibb.co/9mk1xkNy/42.png" group-title="TR ⭐ ULUSAL",TRT 1 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1844
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1844
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt2.tr" tvg-name="TRT 2 FHD" tvg-logo="https://i.ibb.co/vCd4RhZm/6.png" group-title="TR ⭐ ULUSAL",TRT 2 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1845
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1845
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt2.tr" tvg-name="TRT 2 HD" tvg-logo="https://i.ibb.co/5xgJBptV/43.png" group-title="TR ⭐ ULUSAL",TRT 2 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1846
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1846
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV FHD" tvg-logo="https://i.ibb.co/k6mGKVBR/10.png" group-title="TR ⭐ ULUSAL",ATV FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1849
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1849
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV HD" tvg-logo="https://i.ibb.co/Z60WsqWR/45.png" group-title="TR ⭐ ULUSAL",ATV HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1850
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1850
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="STAR TV FHD" tvg-logo="https://i.ibb.co/9kN0ntZM/12.png" group-title="TR ⭐ ULUSAL",STAR TV FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1853
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1853
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="STAR TV HD" tvg-logo="https://i.ibb.co/fYxJrDz3/46.png" group-title="TR ⭐ ULUSAL",STAR TV HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1854
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1854
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="SHOW TV FHD" tvg-logo="https://i.ibb.co/6zpmvkX/14.png" group-title="TR ⭐ ULUSAL",SHOW TV FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1847
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1847
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="SHOW TV HD" tvg-logo="https://i.ibb.co/4RSYq4X6/47.png" group-title="TR ⭐ ULUSAL",SHOW TV HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1848
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1848
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="KANAL D FHD" tvg-logo="https://i.ibb.co/yc7Ft1gp/16.png" group-title="TR ⭐ ULUSAL",KANAL D FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1851
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1851
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="KANAL D HD" tvg-logo="https://i.ibb.co/bMC2cKxG/48.png" group-title="TR ⭐ ULUSAL",KANAL D HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1852
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1852
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="NOW TV FHD" tvg-logo="https://i.ibb.co/SXPjtnWs/18.png" group-title="TR ⭐ ULUSAL",NOW TV FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1855
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1855
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="NOW TV HD" tvg-logo="https://i.ibb.co/pS2d84z/49.png" group-title="TR ⭐ ULUSAL",NOW TV HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1856
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1856
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="TV 8 FHD" tvg-logo="https://i.ibb.co/whS9pQNh/8.png" group-title="TR ⭐ ULUSAL",TV 8 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1857
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1857
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="TV 8 HD" tvg-logo="https://i.ibb.co/M5Mrpr67/44.png" group-title="TR ⭐ ULUSAL",TV 8 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1858
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1858
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TV 8.5 FHD" tvg-logo="https://i.ibb.co/KzzsT9Hq/22.png" group-title="TR ⭐ ULUSAL",TV 8.5 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1859
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1859
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TV 8.5 HD" tvg-logo="https://i.ibb.co/j9kSZVzG/50.png" group-title="TR ⭐ ULUSAL",TV 8.5 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1860
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1860
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV FHD" tvg-logo="https://i.ibb.co/Y7Qc1Xk8/20.png" group-title="TR ⭐ ULUSAL",BEYAZ TV FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1861
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1861
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV HD" tvg-logo="https://i.ibb.co/yc9RSNg8/51.png" group-title="TR ⭐ ULUSAL",BEYAZ TV HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1862
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1862
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 FHD" tvg-logo="https://i.ibb.co/TMWYdBw2/24.png" group-title="TR ⭐ ULUSAL",KANAL 7 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1863
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1863
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 HD" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="TR ⭐ ULUSAL",KANAL 7 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1864
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1864
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 AVRUPA FHD" tvg-logo="https://i.ibb.co/FbhPz9LZ/33.png" group-title="TR ⭐ ULUSAL",KANAL 7 AVRUPA FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1865
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1865
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="TEVE 2 FHD" tvg-logo="https://i.ibb.co/zz9gDcT/26.png" group-title="TR ⭐ ULUSAL",TEVE 2 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1866
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1866
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="TEVE 2 HD" tvg-logo="https://i.ibb.co/cKQ4wjcR/35.png" group-title="TR ⭐ ULUSAL",TEVE 2 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1867
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1867
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="A2 FHD" tvg-logo="https://i.ibb.co/fV234cGC/30.png" group-title="TR ⭐ ULUSAL",A2 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1868
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1868
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="A2 HD" tvg-logo="https://i.ibb.co/S4T5s8T9/52.png" group-title="TR ⭐ ULUSAL",A2 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1869
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1869
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="360 TV FHD" tvg-logo="https://i.ibb.co/N6PTvcQS/28.png" group-title="TR ⭐ ULUSAL",360 TV FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1870
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1870
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="360 TV HD" tvg-logo="https://i.ibb.co/XZ3fRv79/53.png" group-title="TR ⭐ ULUSAL",360 TV HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1871
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1871
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TV 4 FHD" tvg-logo="https://i.ibb.co/7xXB7KdL/54.png" group-title="TR ⭐ ULUSAL",TV 4 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2168
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2168
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TV 4 HD" tvg-logo="https://i.ibb.co/7xXB7KdL/54.png" group-title="TR ⭐ ULUSAL",TV 4 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2167
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2167
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtavaz.tr" tvg-name="TRT AVAZ FHD" tvg-logo="https://i.ibb.co/0p5TDhTB/36.png" group-title="TR ⭐ ULUSAL",TRT AVAZ FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1879
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1879
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtavaz.tr" tvg-name="TRT AVAZ HD" tvg-logo="https://i.ibb.co/CpzLSJqG/57.png" group-title="TR ⭐ ULUSAL",TRT AVAZ HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1880
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1880
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showmax.tr" tvg-name="SHOW MAX FHD" tvg-logo="https://i.ibb.co/jPxgqzMX/38.png" group-title="TR ⭐ ULUSAL",SHOW MAX FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1873
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1873
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SHOW TURK FHD" tvg-logo="https://i.ibb.co/qKMsb6c/40.png" group-title="TR ⭐ ULUSAL",SHOW TURK FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1874
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1874
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV AVRUPA" tvg-logo="https://i.ibb.co/v4nyGHcg/58.png" group-title="TR ⭐ ULUSAL",ATV AVRUPA
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1875
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1875
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII TV" tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Tabii.png" group-title="TR ⭐ ULUSAL",TABII TV
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/578322
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/578322
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CINE 6" tvg-logo="https://i.ibb.co/93HH290b/cine6.png" group-title="TR ⭐ ULUSAL",CINE 6
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/583513
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/583513
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurotar.tr" tvg-name="EURO STAR" tvg-logo="https://i.ibb.co/2pLyzLR/59.png" group-title="TR ⭐ ULUSAL",EURO STAR
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1876
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1876
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurod.tr" tvg-name="EURO D" tvg-logo="https://i.ibb.co/4Z98zDcb/60.png" group-title="TR ⭐ ULUSAL",EURO D
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1877
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1877
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TV 8 INT" tvg-logo="https://i.ibb.co/yBZrdPFf/61.png" group-title="TR ⭐ ULUSAL",TV 8 INT
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1883
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1883
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtturk.tr" tvg-name="TRT TURK HD" tvg-logo="https://i.ibb.co/kgkBxqcJ/63.png" group-title="TR ⭐ ULUSAL",TRT TURK HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1878
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1878
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtalarabiya.tr" tvg-name="TRT ARABI" tvg-logo="https://i.ibb.co/kVDQcsx9/64.png" group-title="TR ⭐ ULUSAL",TRT ARABI
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1881
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1881
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVI TURK HD" tvg-logo="https://i.ibb.co/Lhp646fs/tiviturk.png" group-title="TR ⭐ ULUSAL",TIVI TURK HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/67665
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/67665
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIBRIS TV" tvg-logo="https://i.ibb.co/Qvh0WGQ7/65.png" group-title="TR ⭐ ULUSAL",KIBRIS TV
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1886
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1886
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIBRIS ADA TV" tvg-logo="https://i.ibb.co/sd2cgqB1/66.png" group-title="TR ⭐ ULUSAL",KIBRIS ADA TV
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1887
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1887
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIBRIS KANAL T" tvg-logo="https://i.ibb.co/7dVLNf1X/67.png" group-title="TR ⭐ ULUSAL",KIBRIS KANAL T
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1888
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1888
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIBRIS GENC TV" tvg-logo="https://i.ibb.co/tp53cZS4/68.png" group-title="TR ⭐ ULUSAL",KIBRIS GENC TV
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1889
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1889
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="KIBRIS TV 2020 HD" tvg-logo="https://i.ibb.co/SFQ6cd4/69.png" group-title="TR ⭐ ULUSAL",KIBRIS TV 2020 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1892
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1892
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtebatvortaokul.tr" tvg-name="TRT EBA" tvg-logo="https://i.ibb.co/bgyPMNQg/70.png" group-title="TR ⭐ ULUSAL",TRT EBA
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1894
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1894
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GONUL DAGI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",GONUL DAGI ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/551657
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551657
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KONUSANLAR  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osDIFW8dp2CwYnFKTzdKDm66Mr4.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KONUSANLAR  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/553094
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/553094
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YALI CAPKINI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnNhlrOdgVsgNEcyKkCqv4EI1t.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",YALI CAPKINI  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/551590
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551590
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BIR ZAMANLAR ISTANBUL ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCJPe95WK1uKfhD3sqz31kqR1SD.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",BIR ZAMANLAR ISTANBUL ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/576273
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/576273
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ZEMBILLI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPNFf3TFT7dfhWBkNunnS05yvFq.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",ZEMBILLI  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/569516
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/569516
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIZILCIK SERBETI ✅✅  SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KIZILCIK SERBETI ✅✅  SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/551589
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551589
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARKA SOKAKLAR ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",ARKA SOKAKLAR ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/551586
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551586
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BASKA BIR GUN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKzJz4ezNiGZdUoWhw4tikbAqeE.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",BASKA BIR GUN  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/574857
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/574857
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HUDUTSUZ SEVDA ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOzx60VbvN46YdGDeobWXddr5ze.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",HUDUTSUZ SEVDA ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/553085
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/553085
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SIYAH KALP  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2q6sOaO5SkHy2ZcQymnX71cAds.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",SIYAH KALP  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/552134
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/552134
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="INCI TANELERI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w154/y1webVLqRDoFFmTikLtsl6MbCpW.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",INCI TANELERI  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/554905
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/554905
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ESREF RUYA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",ESREF RUYA  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/583906
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/583906
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LEYLA   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbsnc1D0gyROGp01yXidiBZ7jbp.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",LEYLA   ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/551909
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551909
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SAHIPSIZLER  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",SAHIPSIZLER  ✅✅ SON BOLUM
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahipsizler.SON.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KURULUS OSMAN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3ddjp72iz2aQGpQ31xJ8uYiaug.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KURULUS OSMAN  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/553834
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/553834
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BAHAR ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u28XMjRU7i0xdqlplNE080uD4Gj.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",BAHAR ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/552675
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/552675
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KRAL KAYBEDERSE  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0kk5PUB850OlrVA1w7hgc41E9T.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KRAL KAYBEDERSE  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/576511
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/576511
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MEHMET FETIHLER SULTANI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",MEHMET FETIHLER SULTANI ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/552676
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/552676
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BIR GECE MASALI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZYl3cN12qtg82QvhzZnrwekNhc.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",BIR GECE MASALI  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/551881
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551881
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UZAK SEHIR    ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",UZAK SEHIR    ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/562305
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/562305
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Kudüs Fatihi: Selahaddin Eyyubi ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHDcVdpBjCfu1nYrFrJ7KtHfiy3.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",Kudüs Fatihi: Selahaddin Eyyubi ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/558151
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/558151
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIZIL GONCALAR  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOTvBgpXRk6u8LEWKwxHtexA2nu.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KIZIL GONCALAR  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/553352
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/553352
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DEHA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7o46IIJvD0BwnDL3NKQ9YqbjK7H.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",DEHA  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/552517
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/552517
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KARDELENLER  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spGJO20LaQ9i6scLlwrqmAW35Yx.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KARDELENLER  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/575043
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/575043
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TESKILAT  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",TESKILAT  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/552518
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/552518
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SAKIRPASA AILESI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTSRcoatdU9oFhHABhxXISPZSHY.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",SAKIRPASA AILESI  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/567409
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/567409
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Çok Güzel Hareketler 2     ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AsAnZWVQ6clW8IM4cL9XgnoFY6.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",Çok Güzel Hareketler 2     ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/560489
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/560489
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ANNEM ANKARA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SX96J1BnzqSodftoRB39J3DlX7.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",ANNEM ANKARA  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/563709
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/563709
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Sevda Mecburi İstikamet⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP CINEMA  ☪",VIP CINEMA  ☪ Sevda Mecburi İstikamet⚡️
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/584257
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/584257
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ C Takımı⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP CINEMA  ☪",VIP CINEMA  ☪ C Takımı⚡️
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/584246
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/584246
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PİYASA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylwuADfzbi72S1EpwIerE24wRsE.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",PİYASA  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/577986
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/577986
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Güldür Güldür Show    ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",Güldür Güldür Show    ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/558152
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/558152
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CAN BORCU  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hy803SVfX3Wbig6xwnADJl50lU.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",CAN BORCU  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/567915
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/567915
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Little Siberia 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP CINEMA  ☪",VIP CINEMA  ☪ Little Siberia 2025⚡️
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/584154
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/584154
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Revelations 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP CINEMA  ☪",VIP CINEMA  ☪ Revelations 2025⚡️
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/584150
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/584150
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SANDIK KOKUSU  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n66OQtFORQjRkJwMN9CAZdL99KZ.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",SANDIK KOKUSU  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/551910
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551910
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SEN AGLAMA ISTANBUL  ✅✅ SON BOLUM" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kao4Mq8r4SoofQ8ILWdXk5BXAGf.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",SEN AGLAMA ISTANBUL  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/566893
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/566893
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YABANI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQ5k6i7Bv3ssV4uotxZpTdKCgC9.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",YABANI ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/551658
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551658
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YALAN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23kyHMDJDMyzPIrdqKje055Ol4O.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",YALAN  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/551723
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551723
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Holding  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sgCdb7AaPEzHC8eObfJnfGYxaS.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",Holding  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/566613
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/566613
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KARA AGAC DESTANI ✅✅  SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omYFrePPOvuhrlQ0182ErzvNBf3.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KARA AGAC DESTANI ✅✅  SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/551587
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551587
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ASK EVLILIK BOSANMA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnUshslPg7te60aeQ1l2hCBdEr5.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",ASK EVLILIK BOSANMA  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/563576
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/563576
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KALPAZAN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2EVteRVAngbYXrYJX5Z1SEd7L0.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KALPAZAN  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/558150
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/558150
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GIZLI BAHCE  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPPEOytE4pWXWyWyH2PBdys8EvH.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",GIZLI BAHCE  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/555536
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/555536
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIRLI SEPETI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVK1sscKqH9mg5UxIlPqM8XoNcN.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KIRLI SEPETI ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/551722
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551722
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KARADUT ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QHGl3LLc4iQUueQJOqOeTsmZ5S.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KARADUT ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/552549
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/552549
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GUZEL  ASKLAR DIYARI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igRJyt842ceKg1pM0J7C9XiDDNb.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",GUZEL  ASKLAR DIYARI  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/552548
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/552548
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TAS KAGIT MAKAS ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTgLVl7FNRo4snoNvcgWMP697IF.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",TAS KAGIT MAKAS ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/551908
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551908
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KOR NOKTA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nijRlezbvalIswmP13kgDmlvnYq.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KOR NOKTA  ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/552462
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/552462
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KOTU KAN ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wb0ooQliK7yZ3BhkJOpoMLPXApP.jpg" group-title="TR ⭐ DIZI SON BÖLÜMLER",KOTU KAN ✅✅ SON BOLUM
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/551588
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551588
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ QHD ✦●✦" tvg-logo="https://i.ibb.co/Lz6nw80C/trqhd.png" group-title="TR ⭐ QHD",✦●✦ QHD ✦●✦
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268153
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268153
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="TRT 1 QHD" tvg-logo="https://i.ibb.co/k6WPKbdV/2.png" group-title="TR ⭐ QHD",TRT 1 QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268106
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268106
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV QHD" tvg-logo="https://i.ibb.co/k2F1zffG/3.png" group-title="TR ⭐ QHD",ATV QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268107
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268107
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="STAR TV QHD" tvg-logo="https://i.ibb.co/8L5ctWQY/4.png" group-title="TR ⭐ QHD",STAR TV QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268110
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268110
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="SHOW TV QHD" tvg-logo="https://i.ibb.co/5XRx8qwm/5.png" group-title="TR ⭐ QHD",SHOW TV QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268108
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268108
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="KANAL D QHD" tvg-logo="https://i.ibb.co/1GZHLXVJ/6.png" group-title="TR ⭐ QHD",KANAL D QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268109
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268109
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="NOW TV QHD" tvg-logo="https://i.ibb.co/5g5JY2Ht/7.png" group-title="TR ⭐ QHD",NOW TV QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268111
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268111
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="TV 8 QHD" tvg-logo="https://i.ibb.co/Hcg5ZBx/8.png" group-title="TR ⭐ QHD",TV 8 QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268112
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268112
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TV 8.5 QHD" tvg-logo="https://i.ibb.co/PbQ7g2y/9.png" group-title="TR ⭐ QHD",TV 8.5 QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268113
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268113
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV QHD" tvg-logo="https://i.ibb.co/rKtQzFnv/10.png" group-title="TR ⭐ QHD",BEYAZ TV QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268114
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268114
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 QHD" tvg-logo="https://i.ibb.co/mF42qBGR/11.png" group-title="TR ⭐ QHD",KANAL 7 QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268115
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268115
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="TEVE 2 QHD" tvg-logo="https://i.ibb.co/TxX7wv1W/12.png" group-title="TR ⭐ QHD",TEVE 2 QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268117
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268117
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="TV 360 QHD" tvg-logo="https://i.ibb.co/TBYJDRD0/13.png" group-title="TR ⭐ QHD",TV 360 QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268116
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268116
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="A2 QHD" tvg-logo="https://i.ibb.co/CpqDgQ2B/14.png" group-title="TR ⭐ QHD",A2 QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268118
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268118
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trthaber.tr" tvg-name="TRT HABER QHD" tvg-logo="https://i.ibb.co/J8YMw0F/15.png" group-title="TR ⭐ QHD",TRT HABER QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268122
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268122
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnnturk.tr" tvg-name="CNN TÜRK QHD" tvg-logo="https://i.ibb.co/sdfnRrfj/16.png" group-title="TR ⭐ QHD",CNN TÜRK QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268120
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268120
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntv.tr" tvg-name="NTV QHD" tvg-logo="https://i.ibb.co/RGLScmmJ/17.png" group-title="TR ⭐ QHD",NTV QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268123
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268123
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ahaber.tr" tvg-name="A HABER QHD" tvg-logo="https://i.ibb.co/x8mFyRTY/18.png" group-title="TR ⭐ QHD",A HABER QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268119
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268119
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="halk.tr" tvg-name="HALK TV QHD" tvg-logo="https://i.ibb.co/czBmpB4/19.png" group-title="TR ⭐ QHD",HALK TV QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268127
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268127
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberturk.tr" tvg-name="HABERTÜRK QHD" tvg-logo="https://i.ibb.co/21ZLczBJ/21.png" group-title="TR ⭐ QHD",HABERTÜRK QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268121
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268121
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberglobal.tr" tvg-name="HABER GLOBAL QHD" tvg-logo="https://i.ibb.co/9MrJ0w1/22.png" group-title="TR ⭐ QHD",HABER GLOBAL QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268130
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268130
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv100.tr" tvg-name="TV100 QHD" tvg-logo="https://i.ibb.co/8g0qJsPC/23.png" group-title="TR ⭐ QHD",TV100 QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268128
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268128
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="24.tr" tvg-name="KANAL 24 QHD" tvg-logo="https://i.ibb.co/yx90cRC/24.png" group-title="TR ⭐ QHD",KANAL 24 QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268129
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268129
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ulketv.tr" tvg-name="ÜLKE TV QHD" tvg-logo="https://i.ibb.co/HDgWwg4y/25.png" group-title="TR ⭐ QHD",ÜLKE TV QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268126
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268126
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT QHD" tvg-logo="https://i.ibb.co/CK7PcbPL/26.png" group-title="TR ⭐ QHD",BLOOMBERG HT QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268125
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268125
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tgrthaber.tr" tvg-name="TGRT HABER QHD" tvg-logo="https://i.ibb.co/v4qTmBww/27.png" group-title="TR ⭐ QHD",TGRT HABER QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268124
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268124
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ HEVC | RAW ✦●✦" tvg-logo="https://i.ibb.co/NgFjgXdS/trhevcraw.png" group-title="TR ⭐ HEVC",✦●✦ HEVC | RAW ✦●✦
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1945
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1945
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="↺TRT 1 HEVC" tvg-logo="https://i.ibb.co/dsw3Jd7D/2.png" group-title="TR ⭐ HEVC",↺TRT 1 HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1947
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1947
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="↺ATV HEVC" tvg-logo="https://i.ibb.co/qLYvKxWv/4.png" group-title="TR ⭐ HEVC",↺ATV HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1951
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1951
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="↺STAR TV HEVC" tvg-logo="https://i.ibb.co/B5rfb25g/6.png" group-title="TR ⭐ HEVC",↺STAR TV HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1955
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1955
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="↺SHOW TV HEVC" tvg-logo="https://i.ibb.co/fVHyyLBp/8.png" group-title="TR ⭐ HEVC",↺SHOW TV HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1949
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1949
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="↺KANAL D HEVC" tvg-logo="https://i.ibb.co/FkFs7HtK/10.png" group-title="TR ⭐ HEVC",↺KANAL D HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1953
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1953
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="↺TV 8 HEVC" tvg-logo="https://i.ibb.co/V0hdZq6S/12.png" group-title="TR ⭐ HEVC",↺TV 8 HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1959
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1959
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="↺NOW TV HEVC" tvg-logo="https://i.ibb.co/y3Q5KQQ/14.png" group-title="TR ⭐ HEVC",↺NOW TV HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1957
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1957
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="↺BEYAZ TV HEVC" tvg-logo="https://i.ibb.co/HTcyDyWq/16.png" group-title="TR ⭐ HEVC",↺BEYAZ TV HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1961
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1961
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="↺KANAL 7 HEVC" tvg-logo="https://i.ibb.co/GvCzBKFQ/18.png" group-title="TR ⭐ HEVC",↺KANAL 7 HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1965
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1965
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="↺TEVE 2 HEVC" tvg-logo="https://i.ibb.co/tMXq1vsz/20.png" group-title="TR ⭐ HEVC",↺TEVE 2 HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1967
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1967
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TV 8.5 HEVC" tvg-logo="https://i.ibb.co/ymJSLnfM/22.png" group-title="TR ⭐ HEVC",TV 8.5 HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1963
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1963
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="↺A2 HEVC" tvg-logo="https://i.ibb.co/gbgzWB07/24.png" group-title="TR ⭐ HEVC",↺A2 HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1969
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1969
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtturk.tr" tvg-name="TRT TURK HEVC" tvg-logo="https://i.ibb.co/0VftGx2X/44.png" group-title="TR ⭐ HEVC",TRT TURK HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1973
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1973
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trthaber.tr" tvg-name="TRT HABER HEVC" tvg-logo="https://i.ibb.co/qLZ25djM/26.png" group-title="TR ⭐ HEVC",TRT HABER HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1975
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1975
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="halk.tr" tvg-name="HALK TV HEVC" tvg-logo="https://i.ibb.co/svJ6gm8v/28.png" group-title="TR ⭐ HEVC",HALK TV HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1977
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1977
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntv.tr" tvg-name="NTV HEVC" tvg-logo="https://i.ibb.co/8nKyDt6f/30.png" group-title="TR ⭐ HEVC",NTV HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1987
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1987
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ahaber.tr" tvg-name="A HABER HEVC" tvg-logo="https://i.ibb.co/hxtnPz0D/32.png" group-title="TR ⭐ HEVC",A HABER HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1981
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1981
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnnturk.tr" tvg-name="CNN TURK HEVC" tvg-logo="https://i.ibb.co/WWMVkTHP/34.png" group-title="TR ⭐ HEVC",CNN TURK HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1985
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1985
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="↺360 TV HEVC" tvg-logo="https://i.ibb.co/RksWrP6M/36.png" group-title="TR ⭐ HEVC",↺360 TV HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1971
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1971
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberturk.tr" tvg-name="HABERTURK HEVC" tvg-logo="https://i.ibb.co/r22MmTVH/38.png" group-title="TR ⭐ HEVC",HABERTURK HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1979
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1979
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT HEVC" tvg-logo="https://i.ibb.co/gLn0zCNB/42.png" group-title="TR ⭐ HEVC",BLOOMBERG HT HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1983
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1983
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv100.tr" tvg-name="TV 100 HEVC" tvg-logo="https://i.ibb.co/8gXDx9P8/46.png" group-title="TR ⭐ HEVC",TV 100 HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1989
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1989
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tgrtbelgesel.tr" tvg-name="↺TRT BELGESEL HEVC" tvg-logo="https://i.imgur.com/eVbE2hn.png.jpg" group-title="TR ⭐ HEVC",↺TRT BELGESEL HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1993
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1993
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="TRT 1 RAW" tvg-logo="https://i.ibb.co/Cp0dbf8G/3.png" group-title="TR ⭐ HEVC",TRT 1 RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1946
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1946
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV RAW" tvg-logo="https://i.ibb.co/xq5fyKM9/5.png" group-title="TR ⭐ HEVC",ATV RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1950
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1950
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="STAR TV  RAW" tvg-logo="https://i.ibb.co/FLb1PjQd/7.png" group-title="TR ⭐ HEVC",STAR TV  RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1954
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1954
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="SHOW TV RAW" tvg-logo="https://i.ibb.co/0VrWCDw1/9.png" group-title="TR ⭐ HEVC",SHOW TV RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1948
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1948
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="KANAL D RAW" tvg-logo="https://i.ibb.co/tp3Tt0dP/11.png" group-title="TR ⭐ HEVC",KANAL D RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1952
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1952
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="NOW TV RAW" tvg-logo="https://i.ibb.co/Y7pp9kL5/15.png" group-title="TR ⭐ HEVC",NOW TV RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1956
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1956
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="TV 8 RAW" tvg-logo="https://i.ibb.co/WpD6fkQJ/13.png" group-title="TR ⭐ HEVC",TV 8 RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1958
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1958
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV RAW" tvg-logo="https://i.ibb.co/YFBrV8s1/17.png" group-title="TR ⭐ HEVC",BEYAZ TV RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1960
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1960
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TV 8.5 RAW" tvg-logo="https://i.ibb.co/xSs74fTh/23.png" group-title="TR ⭐ HEVC",TV 8.5 RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1962
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1962
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 RAW" tvg-logo="https://i.ibb.co/qYtPPR5F/19.png" group-title="TR ⭐ HEVC",KANAL 7 RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1964
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1964
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="TEVE 2 RAW" tvg-logo="https://i.ibb.co/fVRVGSXQ/21.png" group-title="TR ⭐ HEVC",TEVE 2 RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1966
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1966
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="A2 RAW" tvg-logo="https://i.ibb.co/tPYy5jWK/25.png" group-title="TR ⭐ HEVC",A2 RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1968
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1968
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ahaber.tr" tvg-name="A HABER RAW" tvg-logo="https://i.ibb.co/6RHmz8fV/33.png" group-title="TR ⭐ HEVC",A HABER RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1980
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1980
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="360 TV RAW" tvg-logo="https://i.ibb.co/cKP7q1gH/37.png" group-title="TR ⭐ HEVC",360 TV RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1970
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1970
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtturk.tr" tvg-name="TRT TURK RAW" tvg-logo="https://i.ibb.co/kZh72sc/45.png" group-title="TR ⭐ HEVC",TRT TURK RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1972
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1972
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trthaber.tr" tvg-name="TRT HABER RAW" tvg-logo="https://i.ibb.co/PsLKBjF3/27.png" group-title="TR ⭐ HEVC",TRT HABER RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1974
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1974
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="halk.tr" tvg-name="HALK TV RAW" tvg-logo="https://i.ibb.co/8nL9hbgj/29.png" group-title="TR ⭐ HEVC",HALK TV RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1976
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1976
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv100.tr" tvg-name="TV 100 RAW" tvg-logo="https://i.ibb.co/VWWyZT71/47.png" group-title="TR ⭐ HEVC",TV 100 RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1988
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1988
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FLASH HABER TV RAW" tvg-logo="https://i.ibb.co/DfBjNps7/48.png" group-title="TR ⭐ HEVC",FLASH HABER TV RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/437542
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/437542
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HABER GLOBAL RAW" tvg-logo="https://i.ibb.co/KcD1LFGt/41.png" group-title="TR ⭐ HEVC",HABER GLOBAL RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/437543
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/437543
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberturk.tr" tvg-name="HABERTURK RAW" tvg-logo="https://i.ibb.co/HT6dGfxm/39.png" group-title="TR ⭐ HEVC",HABERTURK RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1978
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1978
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnnturk.tr" tvg-name="CNN TURK RAW" tvg-logo="https://i.ibb.co/21Mgf1NN/35.png" group-title="TR ⭐ HEVC",CNN TURK RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1984
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1984
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT RAW" tvg-logo="https://i.ibb.co/TB7C1GPP/43.png" group-title="TR ⭐ HEVC",BLOOMBERG HT RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1982
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1982
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntv.tr" tvg-name="NTV RAW" tvg-logo="https://i.ibb.co/Y4WFfwSq/31.png" group-title="TR ⭐ HEVC",NTV RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/1986
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/1986
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ULUSAL KANAL RAW" tvg-logo="https://i.ibb.co/ccy7JMj2/49.png" group-title="TR ⭐ HEVC",ULUSAL KANAL RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/437556
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/437556
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ULKE TV RAW" tvg-logo="https://i.ibb.co/MJW3CR7/50.png" group-title="TR ⭐ HEVC",ULKE TV RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/437559
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/437559
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KANAL 24 RAW" tvg-logo="https://i.ibb.co/qFyW206R/51.png" group-title="TR ⭐ HEVC",KANAL 24 RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/437534
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/437534
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ SPOR ✦●✦" tvg-logo="https://i.ibb.co/Zp7ffsp0/TRSPORKANALKAPAK.png" group-title="TR ⭐ SPOR",✦●✦ SPOR ✦●✦
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2013
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2013
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtspor.tr" tvg-name="↺TRT SPOR HEVC" tvg-logo="https://i.ibb.co/MD6LMwrB/39.png" group-title="TR ⭐ SPOR",↺TRT SPOR HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2014
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2014
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtspor.tr" tvg-name="TRT SPOR QHD" tvg-logo="https://i.imgur.com/nja9yR8.png" group-title="TR ⭐ SPOR",TRT SPOR QHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268139
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268139
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtspor.tr" tvg-name="TRT SPOR FHD" tvg-logo="https://i.ibb.co/jvc6K99X/TRTSPORFHD.png" group-title="TR ⭐ SPOR",TRT SPOR FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2015
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2015
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aspor.tr" tvg-name="A SPOR" tvg-logo="https://i.ibb.co/992bgfpF/1.png" group-title="TR ⭐ SPOR",A SPOR
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/268138
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/268138
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aspor.tr" tvg-name="A SPOR HEVC" tvg-logo="https://i.imgur.com/ntd31A0.png" group-title="TR ⭐ SPOR",A SPOR HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2021
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2021
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aspor.tr" tvg-name="A SPOR FHD" tvg-logo="https://i.ibb.co/G3Mm17y7/2.png" group-title="TR ⭐ SPOR",A SPOR FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2022
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2022
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TRT SPOR YILDIZ HEVC" tvg-logo="https://i.imgur.com/6LNdAOq.png" group-title="TR ⭐ SPOR",TRT SPOR YILDIZ HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2018
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2018
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TRT SPOR YILDIZ FHD" tvg-logo="https://i.ibb.co/39dRz94h/41.png" group-title="TR ⭐ SPOR",TRT SPOR YILDIZ FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2019
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2019
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HT SPOR HD" tvg-logo="https://i.ibb.co/HcG36FL/11.png" group-title="TR ⭐ SPOR",HT SPOR HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/551322
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551322
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HT SPOR FHD" tvg-logo="https://i.ibb.co/CR4jvPq/10.png" group-title="TR ⭐ SPOR",HT SPOR FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/551321
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/551321
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="S SPORT 1 HEVC" tvg-logo="https://i.imgur.com/iUqH505.png" group-title="TR ⭐ SPOR",S SPORT 1 HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/481300
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/481300
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="S SPORT 1 FHD" tvg-logo="https://i.ibb.co/Q38Hqw3V/14.png" group-title="TR ⭐ SPOR",S SPORT 1 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2025
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2025
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="S SPORT 2 HEVC" tvg-logo="https://i.imgur.com/KJbehCE.png" group-title="TR ⭐ SPOR",S SPORT 2 HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/481301
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/481301
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="S SPORT 2 FHD" tvg-logo="https://i.ibb.co/LdG43yVj/16.png" group-title="TR ⭐ SPOR",S SPORT 2 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2028
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2028
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="smartspor.tr" tvg-name="↺SPOR SMART HEVC" tvg-logo="https://i.imgur.com/2Zp8OTw.png" group-title="TR ⭐ SPOR",↺SPOR SMART HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/197633
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/197633
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporsmart.tr" tvg-name="SPOR SMART FHD" tvg-logo="https://i.ibb.co/r2RrchDD/22.png" group-title="TR ⭐ SPOR",SPOR SMART FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2031
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2031
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="↺SPOR SMART 2 HEVC" tvg-logo="https://i.imgur.com/fjVr0OH.png" group-title="TR ⭐ SPOR",↺SPOR SMART 2 HEVC
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/481299
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/481299
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPOR SMART 2 FHD" tvg-logo="https://i.ibb.co/YVPN4HS/24.png" group-title="TR ⭐ SPOR",SPOR SMART 2 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2033
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2033
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR FHD" tvg-logo="https://i.ibb.co/TBWdgJrx/34.png" group-title="TR ⭐ SPOR",TIVIBUSPOR FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2040
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2040
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 1 FHD" tvg-logo="https://i.ibb.co/mVkj4m56/29.png" group-title="TR ⭐ SPOR",TIVIBUSPOR 1 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2042
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2042
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 2 FHD" tvg-logo="https://i.ibb.co/tT4DpbTW/31.png" group-title="TR ⭐ SPOR",TIVIBUSPOR 2 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2044
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2044
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.tr" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://i.ibb.co/CsVq1mk7/3.png" group-title="TR ⭐ SPOR",EUROSPORT 1 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2036
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2036
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.tr" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://i.ibb.co/4nJHZJNK/5.png" group-title="TR ⭐ SPOR",EUROSPORT 2 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2037
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2037
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportstv.tr" tvg-name="SPORTS TV FHD" tvg-logo="https://i.ibb.co/twnN1rQy/26.png" group-title="TR ⭐ SPOR",SPORTS TV FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/196080
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/196080
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fbtv.tr" tvg-name="FB TV" tvg-logo="https://i.ibb.co/k27gfDDX/7.png" group-title="TR ⭐ SPOR",FB TV
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2038
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2038
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fbtv.tr" tvg-name="FB TV HD" tvg-logo="https://i.ibb.co/svY45TjG/8.png" group-title="TR ⭐ SPOR",FB TV HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/541402
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/541402
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbatv.tr" tvg-name="NBA TV FHD" tvg-logo="https://i.ibb.co/TDmtjzXf/12.png" group-title="TR ⭐ SPOR",NBA TV FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2048
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2048
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbatv.tr" tvg-name="NBA TV HD" tvg-logo="https://i.ibb.co/nqxrQWzt/13.png" group-title="TR ⭐ SPOR",NBA TV HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2049
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2049
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TRT 3 SPOR (TBMM) FHD" tvg-logo="https://i.ibb.co/b51WzkRd/37.png" group-title="TR ⭐ SPOR",TRT 3 SPOR (TBMM) FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2020
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2020
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FIGHTBOX FHD" tvg-logo="https://i.ibb.co/Kj71xr1s/9.png" group-title="TR ⭐ SPOR",FIGHTBOX FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2047
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2047
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TAY TV FHD" tvg-logo="https://i.ibb.co/LXcS4rC0/TAYTVFHD.png" group-title="TR ⭐ SPOR",TAY TV FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2051
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2051
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TJK TV HD" tvg-logo="https://i.imgur.com/B64pxDp.png" group-title="TR ⭐ SPOR",TJK TV HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2050
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2050
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 1" tvg-logo="https://i.ibb.co/jvb1SbKK/18.png" group-title="TR ⭐ SPOR",S SPORT PLUS 1
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/393375
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/393375
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 2" tvg-logo="https://i.ibb.co/zLCn3jK/19.png" group-title="TR ⭐ SPOR",S SPORT PLUS 2
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/471724
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/471724
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 3" tvg-logo="https://i.ibb.co/tP4G2g7k/20.png" group-title="TR ⭐ SPOR",S SPORT PLUS 3
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/432053
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/432053
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 4" tvg-logo="https://i.ibb.co/qLJTYxcq/21.png" group-title="TR ⭐ SPOR",S SPORT PLUS 4
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/432052
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/432052
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtspor.tr" tvg-name="TRT SPOR HD" tvg-logo="https://i.ibb.co/F9xkdMV/38.png" group-title="TR ⭐ SPOR",TRT SPOR HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2016
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2016
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aspor.tr" tvg-name="A SPOR HD" tvg-logo="https://i.ibb.co/992bgfpF/1.png" group-title="TR ⭐ SPOR",A SPOR HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2023
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2023
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="S SPORT 1 HD" tvg-logo="https://i.ibb.co/yc3fbfKY/15.png" group-title="TR ⭐ SPOR",S SPORT 1 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2026
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2026
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="S SPORT 2 HD" tvg-logo="https://i.ibb.co/1fryc1RH/17.png" group-title="TR ⭐ SPOR",S SPORT 2 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2029
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2029
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporsmart.tr" tvg-name="SPOR SMART HD" tvg-logo="https://i.ibb.co/hFYwjhM7/23.png" group-title="TR ⭐ SPOR",SPOR SMART HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2032
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2032
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPOR SMART 2 HD" tvg-logo="https://i.ibb.co/QjN2Zzwd/25.png" group-title="TR ⭐ SPOR",SPOR SMART 2 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2034
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2034
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR HD" tvg-logo="https://i.ibb.co/BH4Zdzpj/35.png" group-title="TR ⭐ SPOR",TIVIBUSPOR HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2041
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2041
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/C53Ts5Zw/30.png" group-title="TR ⭐ SPOR",TIVIBUSPOR 1 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2043
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2043
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/9mKZZC7y/32.png" group-title="TR ⭐ SPOR",TIVIBUSPOR 2 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2045
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2045
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/gZsXYDLf/33.png" group-title="TR ⭐ SPOR",TIVIBUSPOR 3 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/33296
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/33296
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.tr" tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.ibb.co/wNL6NXTz/4.png" group-title="TR ⭐ SPOR",EUROSPORT 1 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/196082
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/196082
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.tr" tvg-name="EUROSPORT 2 HD" tvg-logo="https://i.ibb.co/dJm6NWTw/6.png" group-title="TR ⭐ SPOR",EUROSPORT 2 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/196081
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/196081
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportstv.tr" tvg-name="SPORTS TV HD" tvg-logo="https://i.ibb.co/nMVDznDx/27.png" group-title="TR ⭐ SPOR",SPORTS TV HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/2035
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/2035
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR FHD" tvg-logo="https://i.ibb.co/Z6Yv2fgs/21.png" group-title="TR ⭐ TABII SPORT",TABII SPOR FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/553406
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/553406
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR HD" tvg-logo="https://i.ibb.co/C50nRn76/22.png" group-title="TR ⭐ TABII SPORT",TABII SPOR HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/553407
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/553407
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 1 FHD" tvg-logo="https://i.ibb.co/SXwFnJNm/2.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 1 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/548716
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548716
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 1 HD" tvg-logo="https://i.ibb.co/ccYsSrDs/1.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 1 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/548715
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548715
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 2 FHD" tvg-logo="https://i.ibb.co/kp5F5fV/4.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 2 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/548714
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548714
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 2 HD" tvg-logo="https://i.ibb.co/CpdH0xx7/3.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 2 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/548713
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548713
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 3 FHD" tvg-logo="https://i.ibb.co/5WdHQZgR/5.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 3 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/548712
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548712
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 3 HD" tvg-logo="https://i.ibb.co/2Yfm0csx/6.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 3 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/548711
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548711
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 4 FHD" tvg-logo="https://i.ibb.co/TD6cv9Dx/8.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 4 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/548710
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548710
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 4 HD" tvg-logo="https://i.ibb.co/BH5BgxMP/7.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 4 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/548709
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548709
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 5 FHD" tvg-logo="https://i.ibb.co/pBC7mMrb/10.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 5 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/548708
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548708
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 5 HD" tvg-logo="https://i.ibb.co/fZYZmHp/9.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 5 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/548707
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548707
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 6 FHD" tvg-logo="https://i.ibb.co/ch2wypR7/12.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 6 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/548706
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548706
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TABII SPOR 6 HD" tvg-logo="https://i.ibb.co/RpqQbtbX/11.png" group-title="TR ⭐ TABII SPORT",TABII SPOR 6 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/548705
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/548705
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ EXXEN SPORT ✦●✦" tvg-logo="https://i.ibb.co/Rk2FxLdW/10.png" group-title="TR ⭐ EXXEN SPORT",✦●✦ EXXEN SPORT ✦●✦
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/26441
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/26441
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN TV  FHD" tvg-logo="https://i.imgur.com/4bBVD9V.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN TV  FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/475884
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/475884
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN TV  HD" tvg-logo="https://i.imgur.com/MgDJ3iB.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN TV  HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/475885
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/475885
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 1 RAW" tvg-logo="https://i.imgur.com/itpyNsB.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 1 RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/250132
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/250132
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 1 FHD" tvg-logo="https://i.imgur.com/itpyNsB.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 1 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/230
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/230
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 1 HD" tvg-logo="https://i.imgur.com/itpyNsB.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 1 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/231
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/231
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 1 SD" tvg-logo="https://i.imgur.com/itpyNsB.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 1 SD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/262467
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/262467
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 2 RAW" tvg-logo="https://i.imgur.com/yBPGjOu.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 2 RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/250133
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/250133
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 2 FHD" tvg-logo="https://i.imgur.com/yBPGjOu.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 2 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/262468
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/262468
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 3 RAW" tvg-logo="https://i.imgur.com/xVBJBWU.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 3 RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/250134
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/250134
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 3 FHD" tvg-logo="https://i.imgur.com/xVBJBWU.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 3 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/124069
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/124069
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 4 RAW" tvg-logo="https://i.imgur.com/QiVp2Nz.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 4 RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/250135
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/250135
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 4 FHD" tvg-logo="https://i.imgur.com/QiVp2Nz.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 4 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/117193
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117193
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 5 RAW" tvg-logo="https://i.imgur.com/J7sWctX.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 5 RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/250136
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/250136
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 5 FHD" tvg-logo="https://i.imgur.com/J7sWctX.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 5 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/117194
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117194
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 6 RAW" tvg-logo="https://i.imgur.com/6w6Yupp.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 6 RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/250137
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/250137
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 6 FHD" tvg-logo="https://i.imgur.com/6w6Yupp.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 6 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/117202
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117202
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR  7 RAW" tvg-logo="https://i.imgur.com/3sq54x3.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR  7 RAW
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/250138
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/250138
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 7 FHD" tvg-logo="https://i.imgur.com/3sq54x3.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 7 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/117195
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117195
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 8 FHD" tvg-logo="https://i.imgur.com/zVh6gnY.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 8 FHD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/117196
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117196
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 2 HD" tvg-logo="https://i.imgur.com/yBPGjOu.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 2 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/234
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/234
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 3 HD" tvg-logo="https://i.imgur.com/xVBJBWU.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 3 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/236
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/236
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 4 HD" tvg-logo="https://i.imgur.com/QiVp2Nz.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 4 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/117197
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117197
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 5 HD" tvg-logo="https://i.imgur.com/J7sWctX.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 5 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/117198
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117198
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 6 HD" tvg-logo="https://i.imgur.com/6w6Yupp.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 6 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/117201
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117201
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 7 HD" tvg-logo="https://i.imgur.com/3sq54x3.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 7 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/117199
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117199
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 8 HD" tvg-logo="https://i.imgur.com/zVh6gnY.png" group-title="TR ⭐ EXXEN SPORT",TR | EXXEN SPOR 8 HD
-http://turkboxtitan.com:8080/aulusoglu35/buk35mmt/117200
+http://turkboxtitan.com:8080/filizersoy/gjva6hRsV2/117200
