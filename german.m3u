@@ -95,33 +95,18 @@ http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/11
 #EXTINF:-1,TR: beIN SPORTS MAX 2 HD+
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/53420
-#EXTINF:-1,TR: TIVIBUSPOR SD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54967
 #EXTINF:-1,TR: TIVIBUSPOR HD
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/37362
-#EXTINF:-1,TR: TIVIBUSPOR 1 SD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54968
 #EXTINF:-1,TR: TIVIBUSPOR 1 HD
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/13
-#EXTINF:-1,TR: TIVIBUSPOR 2 SD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54969
 #EXTINF:-1,TR: TIVIBUSPOR 2 HD
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/14
-#EXTINF:-1,TR: TIVIBUSPOR 3 SD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54970
 #EXTINF:-1,TR: TIVIBUSPOR 3 HD
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/15
-#EXTINF:-1,TR: TIVIBUSPOR 4 SD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54971
 #EXTINF:-1,TR: TIVIBUSPOR 4 HD
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/32395
@@ -311,27 +296,15 @@ http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/29010
 #EXTINF:-1,TR: beIN CONNECT 6
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35391
-#EXTINF:-1,TR: A SPOR SD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54976
-#EXTINF:-1,TR: A SPOR HD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/30
 #EXTINF:-1,TR: A SPOR HD+
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/31
 #EXTINF:-1,TR: TRT SPOR HD+
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/33
-#EXTINF:-1,TR: TRT SPOR SD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54977
 #EXTINF:-1,TR: TRT SPOR HD
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/32
-#EXTINF:-1,TR: TRT SPOR YILDIZ SD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54978
 #EXTINF:-1,TR: TRT SPOR YILDIZ HD
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/17137
@@ -353,9 +326,6 @@ http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/42
 #EXTINF:-1,TR: EUROSPORT 2 HD
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/43
-#EXTINF:-1,TR: NBA TV SD (TR/ENG)
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54979
 #EXTINF:-1,TR: NBA TV HD (TR/ENG)
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/41
@@ -380,15 +350,6 @@ http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/46
 #EXTINF:-1,TR: TRT 4K
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/17148
-#EXTINF:-1,TR: TRT 1 SD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/111
-#EXTINF:-1,TR: TRT 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47
-#EXTINF:-1,TR: TRT 1 HD+
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/48
 #EXTINF:-1,TR: TRT 1 HD+ (HEVC)
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35349
@@ -404,51 +365,21 @@ http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/50
 #EXTINF:-1,TR: TRT KURDU
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/51
-#EXTINF:-1,TR: ATV SD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47165
-#EXTINF:-1,TR: ATV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/52
-#EXTINF:-1,TR: ATV HD+
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/53
 #EXTINF:-1,TR: ATV HD+ (HEVC)
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35350
 #EXTINF:-1,TR: ATV AVRUPA
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/54
-#EXTINF:-1,TR: A2 TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/55
 #EXTINF:-1,TR: A2 TV HD+
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/5849
-#EXTINF:-1,TR: STAR TV SD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47167
-#EXTINF:-1,TR: STAR TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/56
-#EXTINF:-1,TR: STAR TV HD+
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/359
 #EXTINF:-1,TR: STAR TV HD+ (HEVC)
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35357
 #EXTINF:-1,TR: EUROSTAR
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/57
-#EXTINF:-1,TR: SHOW TV SD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47168
-#EXTINF:-1,TR: SHOW TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/58
-#EXTINF:-1,TR: SHOW TV HD+
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/59
 #EXTINF:-1,TR: SHOW TV HD+ (HEVC)
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35353
@@ -457,15 +388,6 @@ http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35353
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/60
 #EXTINF:-1,TR: SHOWMAX
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/61
-#EXTINF:-1,TR: KANAL D SD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47166
-#EXTINF:-1,TR: KANAL D HD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/62
-#EXTINF:-1,TR: KANAL D HD+
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/63
 #EXTINF:-1,TR: KANAL D HD+ (HEVC)
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
@@ -473,51 +395,18 @@ http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35351
 #EXTINF:-1,TR: EURO D
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/64
-#EXTINF:-1,TR: NOW TV SD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47170
-#EXTINF:-1,TR: NOW TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/65
-#EXTINF:-1,TR: NOW TV HD+
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/66
 #EXTINF:-1,TR: NOW TV HD+ (HEVC)
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35352
-#EXTINF:-1,TR: TV 8 SD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47169
-#EXTINF:-1,TR: TV 8 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/68
-#EXTINF:-1,TR: TV 8 HD+
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/69
 #EXTINF:-1,TR: TV 8 HD+ (HEVC)
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35354
-#EXTINF:-1,TR: TV 8 INT
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/70
-#EXTINF:-1,TR: TV 8.5 SD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/71
 #EXTINF:-1,TR: TV 8.5 HD+
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/35355
-#EXTINF:-1,TR: BEYAZ TV SD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/47171
-#EXTINF:-1,TR: BEYAZ TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/77
 #EXTINF:-1,TR: BEYAZ TV HD+
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/78
-#EXTINF:-1,TR: KANAL 7 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/74
 #EXTINF:-1,TR: KANAL 7 HD+
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://blacksixtythree.tv:8080/Serdarsat/MDyq31Qu7T/75
