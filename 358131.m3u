@@ -135,14 +135,6 @@ http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 http://tgr25.pro:8080/live/recep09/09recep/104521.ts
 #EXTINF:-1  tvg-name="Discovery.tr" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1" group-title="Belgesel",DISCOVERY CHANNEL
 http://tgr25.pro:8080/live/recep09/09recep/186391.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/01/Discovery_World_Logo1.png",Discovery World
-http://iptvtree.net:8080/romaniamedia/076cd2e932/8236
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2560px-Discovery_Science_2017_Logo.svg.png",Discovery Science
-http://iptvtree.net:8080/romaniamedia/076cd2e932/5693
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Viasat_Nature-logo.svg/1200px-Viasat_Nature-logo.svg.png",Viasat Nature
-http://iptvtree.net:8080/romaniamedia/076cd2e932/284470
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Viasat_History_Logo.jpg",Viasat History
-http://iptvtree.net:8080/romaniamedia/076cd2e932/32589
 #EXTINF:-1  tvg-name="Sağlıklı Günler TV" tvg-logo="http://assets.tvcdn.net/b46f11bf-bd55-4203-974c-ac36d14dc7d3.png" group-title="Eğlence",Sağlıklı Günler TV
 http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
 #EXTINF:-1  tvg-name="Tarih TV" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="Eğlence",Tarih TV
