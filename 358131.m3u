@@ -123,24 +123,22 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1746
 http://stream.tvcdn.net/eglence/dmax.m3u8
 #EXTINF:-1  tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" group-title="Eğlence",TLC
 http://stream.tvcdn.net/eglence/tlc.m3u8
-#EXTINF:-1  tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png" group-title="Eğlence",TV 4
-http://stream.tvcdn.net/eglence/tv-4.m3u8
-#EXTINF:-1  tvg-name="Dizi Film TV" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="Eğlence",Dizi Film TV
-http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
-#EXTINF:-1  tvg-name="Kültür Sanat TV" tvg-logo="http://assets.tvcdn.net/871add1b-5165-4aa1-9799-c93185f8841d.png" group-title="Eğlence",Kültür Sanat TV
-http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
 #EXTINF:-1  tvg-name="TRT Belgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-name="National Geographic WILD.tr" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/Default/Images/Main/NGC_logo.png" group-title="Belgesel",National Geographic Wild
-http://starott.vip:8080/9Kr5Cd4JCYjt/T9HwZWXQmdWB/129875
+http://iptvtree.net:8080/romaniamedia/076cd2e932/838
 #EXTINF:-1  tvg-name="Yaban TV" tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="Belgesel",Yaban TV
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:-1  tvg-name="Discovery.tr" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1" group-title="Belgesel",DISCOVERY CHANNEL
 http://tgr25.pro:8080/live/recep09/09recep/186391.ts
-#EXTINF:-1  tvg-name="TR | Discovery Science FHD" group-title="TURKEY LOCAL HD & 4K",Discovery Science FHD
-http://starott.vip:8080/9Kr5Cd4JCYjt/T9HwZWXQmdWB/129872
-#EXTINF:-1  tvg-name="TR: History Channel FHD" group-title="TURKEY LOCAL HD & 4K",History Channel FHD
-http://starott.vip:8080/9Kr5Cd4JCYjt/T9HwZWXQmdWB/129873
+#EXTINF:-1,TR: Discovery World
+http://iptvtree.net:8080/romaniamedia/076cd2e932/8236
+#EXTINF:-1,TR: Discovery Science
+http://iptvtree.net:8080/romaniamedia/076cd2e932/5693
+#EXTINF:-1,TR: Viasat Nature
+http://iptvtree.net:8080/romaniamedia/076cd2e932/284470
+#EXTINF:-1,TR: Viasat History
+http://iptvtree.net:8080/romaniamedia/076cd2e932/32589
 #EXTINF:-1  tvg-name="National Geographic.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Belgesel",NAT GEO HD
 http://tgr25.pro:8080/live/recep09/09recep/104521.ts
 #EXTINF:-1  tvg-name="TGRT Belgesel" tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel",TGRT Belgesel
@@ -151,6 +149,12 @@ http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
 http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 #EXTINF:-1  tvg-name="Yol TV" tvg-logo="http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png" group-title="Haber",Yol TV
 https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8
+#EXTINF:-1  tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png" group-title="Eğlence",TV 4
+http://stream.tvcdn.net/eglence/tv-4.m3u8
+#EXTINF:-1  tvg-name="Dizi Film TV" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="Eğlence",Dizi Film TV
+http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
+#EXTINF:-1  tvg-name="Kültür Sanat TV" tvg-logo="http://assets.tvcdn.net/871add1b-5165-4aa1-9799-c93185f8841d.png" group-title="Eğlence",Kültür Sanat TV
+http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
 #EXTINF:-1  tvg-logo="https://i.hizliresim.com/4vv01zy.png",beIN Sports 1
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
 #EXTINF:-1  tvg-logo="https://i.hizliresim.com/4vv01zy.png",BEIN SPORTS 1 FHD
