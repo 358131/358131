@@ -138,6 +138,10 @@ http://starott.vip:8080/9Kr5Cd4JCYjt/T9HwZWXQmdWB/129875
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:-1  tvg-name="Discovery.tr" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1" group-title="Belgesel",DISCOVERY CHANNEL
 http://tgr25.pro:8080/live/recep09/09recep/186391.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR | Discovery Science FHD" tvg-logo="" group-title="TURKEY LOCAL HD & 4K",Discovery Science FHD
+http://starott.vip:8080/9Kr5Cd4JCYjt/T9HwZWXQmdWB/129872
+#EXTINF:-1 tvg-id="" tvg-name="TR: History Channel FHD" tvg-logo="" group-title="TURKEY LOCAL HD & 4K",History Channel FHD
+http://starott.vip:8080/9Kr5Cd4JCYjt/T9HwZWXQmdWB/129873
 #EXTINF:-1  tvg-name="National Geographic.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Belgesel",NAT GEO HD
 http://tgr25.pro:8080/live/recep09/09recep/104521.ts
 #EXTINF:-1  tvg-name="TGRT Belgesel" tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel",TGRT Belgesel
