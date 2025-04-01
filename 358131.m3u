@@ -135,12 +135,6 @@ http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 http://tgr25.pro:8080/live/recep09/09recep/104521.ts
 #EXTINF:-1  tvg-name="Discovery.tr" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1",DISCOVERY CHANNEL
 http://tgr25.pro:8080/live/recep09/09recep/186391.ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/discoveryscienceglobalhd.png",Discovery Science HD
-http://89.33.14.39:25461/play/live.php?mac=00:1A:79:50:B9:EF&stream=3003&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/viasathistory.png",Viasat Explorer HD
-http://89.33.14.39:25461/play/live.php?mac=00:1A:79:50:B9:EF&stream=170402&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/viasathistory.png",Viasat History HD+
-http://89.33.14.39:25461/play/live.php?mac=00:1A:79:50:B9:EF&stream=147434&extension=ts
 #EXTINF:-1  tvg-name="Tarih TV" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png",Tarih TV
 http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 #EXTINF:-1  tvg-name="Yol TV" tvg-logo="http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png",Yol TV
