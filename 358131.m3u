@@ -1,51 +1,50 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
 #EXTINF:-1  tvg-name="SINEMA" tvg-id="Sinema Tv.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-tv-768x104.png" group-title="SINEMA",SINEMA
-http://iptvtree.net:8080/romaniamedia/076cd2e932/1790
+http://tgr25.pro:8080/live/recep09/09recep/279.ts
 #EXTINF:-1  tvg-name="SINEMA 2" tvg-id="Sinema Tv 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-2-tv-768x117.png" group-title="SINEMA",SINEMA 2
-http://germanyqdnsx8.com:8080/fiko1905/Fiko1905/89211
+http://tgr25.pro:8080/live/recep09/09recep/280.ts
 #EXTINF:-1  tvg-name="SINEMA AKSİYON" tvg-id="Sinema Tv Aksiyon.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-768x70.png" group-title="SINEMA",SINEMA AKSİYON
-http://iptvtree.net:8080/romaniamedia/076cd2e932/1793
+http://tgr25.pro:8080/live/recep09/09recep/281.ts
 #EXTINF:-1  tvg-name="SINEMA AKSİYON 2" tvg-id="Sinema Tv Aksiyon 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-2.png" group-title="SINEMA",SINEMA AKSİYON 2
-http://iptvtree.net:8080/romaniamedia/076cd2e932/1772
+http://tgr25.pro:8080/live/recep09/09recep/282.ts
 #EXTINF:-1  tvg-name="SINEMA AILE" tvg-id="Sinema Tv Aile.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="SINEMA",SINEMA AILE
-http://iptvtree.net:8080/romaniamedia/076cd2e932/1794
+http://tgr25.pro:8080/live/recep09/09recep/283.ts
 #EXTINF:-1  tvg-name="SINEMA AILE 2" tvg-id="Sinema Tv Aile 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aile.png" group-title="SINEMA",SINEMA AILE 2
-http://iptvtree.net:8080/romaniamedia/076cd2e932/165582
+http://tgr25.pro:8080/live/recep09/09recep/284.ts
 #EXTINF:-1  tvg-name="SINEMA KOMEDI" tvg-id="Sinema Tv Comedy.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png" group-title="SINEMA",SINEMA KOMEDI
-http://iptvtree.net:8080/romaniamedia/076cd2e932/1795
+http://tgr25.pro:8080/live/recep09/09recep/287.ts
 #EXTINF:-1  tvg-name="SINEMA KOMEDI 2" tvg-id="Sinema Tv Comedy 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komedi.png" group-title="SINEMA",SINEMA KOMEDI 2
-http://iptvtree.net:8080/romaniamedia/076cd2e932/43541
+http://tgr25.pro:8080/live/recep09/09recep/288.ts
 #EXTINF:-1  tvg-name="SINEMA 1001" tvg-id="Sinema Tv 1001.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1001-768x94.png" group-title="SINEMA",SINEMA 1001
-http://iptvtree.net:8080/romaniamedia/076cd2e932/1789
+http://tgr25.pro:8080/live/recep09/09recep/289.ts
 #EXTINF:-1  tvg-name="SINEMA 1002" tvg-id="Sinema Tv 1002.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1002.png" group-title="SINEMA",SINEMA 1002
-http://iptvtree.net:8080/romaniamedia/076cd2e932/76722
+http://tgr25.pro:8080/live/recep09/09recep/290.ts
 #EXTINF:-1  tvg-name="SINEMA YERLI" tvg-id="Sinema.Yerli.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema_yerli.png" group-title="SINEMA",SINEMA YERLI
-http://iptvtree.net:8080/romaniamedia/076cd2e932/1791
+http://tgr25.pro:8080/live/recep09/09recep/285.ts
 #EXTINF:-1  tvg-name="SINEMA YERLI 2" tvg-id="Sinema.Yerli.2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-yerli-2.png" group-title="SINEMA",SINEMA YERLI 2
-http://iptvtree.net:8080/romaniamedia/076cd2e932/163186
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Action" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png" group-title="TURKEY",beIN Movies Action
-http://iptvtree.net:8080/romaniamedia/076cd2e932/1761
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Action 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-2-logo.png" group-title="TURKEY",beIN Movies Action 2
-http://iptvtree.net:8080/romaniamedia/076cd2e932/278527
-#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-1-logo.png?rkt=DfS6Tgv6Hjr93k3" group-title="TURKEY",beIN Series 1
-http://iptvtree.net:8080/romaniamedia/076cd2e932/298429
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Premiere" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-premiere-logo.png" group-title="TURKEY",beIN Movies Premiere
-http://iptvtree.net:8080/romaniamedia/076cd2e932/1764
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Premiere 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-premiere-logo-2.png" group-title="TURKEY",beIN Movies Premiere 2
-http://iptvtree.net:8080/romaniamedia/076cd2e932/1765
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Stars" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-stars-logo.png" group-title="TURKEY",beIN Movies Stars
-http://iptvtree.net:8080/romaniamedia/076cd2e932/1766
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Turk" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg group-title="TURKEY",beIN Movies Turk
-http://iptvtree.net:8080/romaniamedia/076cd2e932/1767
+http://tgr25.pro:8080/live/recep09/09recep/286.ts
+#EXTINF:-1  tvg-name="beIN Movies Action" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png" group-title="SINEMA",beIN Movies Action
+http://103.161.34.98:8080/033yolveren-e/WnGHgg2yEtR2/86
+#EXTINF:-1  tvg-name="beIN Movies Action 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-2-logo.png" group-title="SINEMA",beIN Movies Action 2
+http://103.161.34.98:8080/033yolveren-e/WnGHgg2yEtR2/85
+#EXTINF:-1  tvg-name="beIN Movies Family" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-family-logo.png" group-title="SINEMA",beIN Movies Family
+http://103.161.34.98:8080/033yolveren-e/WnGHgg2yEtR2/83
+#EXTINF:-1  tvg-name="beIN Movies Premiere" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-premiere-logo.png" group-title="SINEMA",beIN Movies Premiere
+http://103.161.34.98:8080/033yolveren-e/WnGHgg2yEtR2/88
+#EXTINF:-1  tvg-name="beIN Movies Premiere 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-premiere-logo-2.png" group-title="SINEMA",beIN Movies Premiere 2
+http://103.161.34.98:8080/033yolveren-e/WnGHgg2yEtR2/87
+#EXTINF:-1  tvg-name="beIN Movies Stars" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-stars-logo.png" group-title="SINEMA",beIN Movies Stars
+http://103.161.34.98:8080/033yolveren-e/WnGHgg2yEtR2/84
+#EXTINF:-1  tvg-name="beIN Movies Turk" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg group-title=" group-title="SINEMA",beIN Movies Turk
+http://103.161.34.98:8080/033yolveren-e/WnGHgg2yEtR2/89
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT 1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1  tvg-name="atv" tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv
-https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1  tvg-name="Kanal D" tvg-id="Kanal D.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 #EXTINF:-1  tvg-name="Now TV" tvg-id="NOW.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2309/index.m3u8
-#http://116.202.238.88/FOXTV_TR/index.m3u8
+http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1  tvg-name="Show TV" tvg-id="Show TV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:-1  tvg-name="Beyaz TV" tvg-id="Beyaz TV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Ulusal",Beyaz TV
@@ -133,15 +132,11 @@ http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
 #EXTINF:-1  tvg-name="TRT Belgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-name="National Geographic WILD.tr" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/Default/Images/Main/NGC_logo.png" group-title="Belgesel",National Geographic Wild
-http://starott.vip:8080/9Kr5Cd4JCYjt/T9HwZWXQmdWB/129875
+http://103.161.34.98:8080/033yolveren-e/WnGHgg2yEtR2/6378
 #EXTINF:-1  tvg-name="Yaban TV" tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="Belgesel",Yaban TV
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:-1  tvg-name="Discovery.tr" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1" group-title="Belgesel",DISCOVERY CHANNEL
 http://tgr25.pro:8080/live/recep09/09recep/186391.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR | Discovery Science FHD" tvg-logo="" group-title="TURKEY LOCAL HD & 4K",Discovery Science FHD
-http://starott.vip:8080/9Kr5Cd4JCYjt/T9HwZWXQmdWB/129872
-#EXTINF:-1 tvg-id="" tvg-name="TR: History Channel FHD" tvg-logo="" group-title="TURKEY LOCAL HD & 4K",History Channel FHD
-http://starott.vip:8080/9Kr5Cd4JCYjt/T9HwZWXQmdWB/129873
 #EXTINF:-1  tvg-name="National Geographic.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Belgesel",NAT GEO HD
 http://tgr25.pro:8080/live/recep09/09recep/104521.ts
 #EXTINF:-1  tvg-name="TGRT Belgesel" tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel",TGRT Belgesel
@@ -152,53 +147,43 @@ http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
 http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 #EXTINF:-1  tvg-name="Yol TV" tvg-logo="http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png" group-title="Haber",Yol TV
 https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",beIN Sports 1
+#EXTINF:-1  tvg-logo="https://i.hizliresim.com/4vv01zy.png",beIN Sports 1
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",BEIN SPORTS 1 FHD
+#EXTINF:-1  tvg-logo="https://i.hizliresim.com/4vv01zy.png",BEIN SPORTS 1 FHD
 http://xu.port360.xyz:8080/play/HnfCrfcbNSIsx96vtMRn4QclK3UuchF4AL1HYUUBCrs1gSbDJOLV6syAPnM6KRZY/ts
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",TR: BEIN SPORTS 1 HD
+#EXTINF:-1  tvg-logo="https://i.hizliresim.com/4vv01zy.png",TR: BEIN SPORTS 1 HD
 http://103.161.34.98:8080/033yolveren-e/WnGHgg2yEtR2/151108
-
-#EXTINF:-1,TR: BEIN SPORTS 1 FHD HQ
+#EXTINF:-1 ,TR: BEIN SPORTS 1 FHD HQ
 http://tgr25.pro:8080/live/recep09/09recep/52860.ts
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",Full HD: beIN Sports 1
+#EXTINF:-1  tvg-logo="https://i.hizliresim.com/4vv01zy.png",Full HD: beIN Sports 1
 http://b61u39.one/a98u41y45s27/d37x15092023/16
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4vv01zy.png",beIN Sports 1 [ Yedek 2 ]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTINF:-1  tvg-logo="https://i.hizliresim.com/4vv01zy.png",beIN Sports 1 [ Yedek 2 ]
 #EXTVLCOPT:http-referrer=http://roadsports.rf.gd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 http://client.newsborntvs.info/live/KreshnikDahri/bRjguwZe2/51323.m3u8
-
-#EXTINF:-1,TR • BEIN SPORTS 1 HD
+#EXTINF:-1 ,TR • BEIN SPORTS 1 HD
 http://103.161.34.98:8080/033yolveren-e/WnGHgg2yEtR2/151110
-#EXTINF:-1,TR • BEIN SPORTS 1 4K UYDU
+#EXTINF:-1 ,TR • BEIN SPORTS 1 4K UYDU
 http://103.161.34.98:8080/033yolveren-e/WnGHgg2yEtR2/151112
-#EXTINF:-1,TR: BEIN SPORTS 1 FEED (MAC ZAMANI)
+#EXTINF:-1 ,TR: BEIN SPORTS 1 FEED (MAC ZAMANI)
 http://tgr25.pro:8080/live/recep09/09recep/211.ts
-#EXTINF:-1,TR: BEIN SPORTS 1 FHD 50 FPS
+#EXTINF:-1 ,TR: BEIN SPORTS 1 FHD 50 FPS
 http://tgr25.pro:8080/live/recep09/09recep/262993.ts
-#EXTINF:-1,TR: BEIN SPORTS 4K HQ
+#EXTINF:-1 ,TR: BEIN SPORTS 4K HQ
 http://tgr25.pro:8080/live/recep09/09recep/216.ts
-#EXTINF:-1,TR: BEIN SPORTS FEED ( MAC ZAMANI AKTIF)
+#EXTINF:-1 ,TR: BEIN SPORTS FEED ( MAC ZAMANI AKTIF)
 http://tgr25.pro:8080/live/recep09/09recep/103633.ts
-#EXTINF:-1,TR: BEIN SPORTS 1 HD (MAC ZAMANI AKTIF)
+#EXTINF:-1 ,TR: BEIN SPORTS 1 HD (MAC ZAMANI AKTIF)
 http://tgr25.pro:8080/live/recep09/09recep/103632.ts
-#EXTINF:-1,TR: BEIN SPORTS 1 HD (MAC ZAMANI)*
+#EXTINF:-1 ,TR: BEIN SPORTS 1 HD (MAC ZAMANI)*
 http://tgr25.pro:8080/live/recep09/09recep/255800.ts
-
-
 #EXTINF:-1  tvg-name="TJK TV" tvg-id="Spor_TJKTV" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK TV
 http://stream.tvcdn.net/spor/tjk-tv.m3u8
 #EXTINF:-1  tvg-name="FB TV" tvg-id="Spor_FBTV" tvg-logo="https://seeklogo.com/images/F/fenerbahce-tv-logo-A4F539D377-seeklogo.com.png" group-title="Spor",FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-language="English" tvg-country="USA" tvg-id="Spor_NBATV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTINF:-1  tvg-name="NBA TV" tvg-id="Spor_NBATV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV
 #EXTVLCOPT:http-referrer=https://trgoals1182.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://l0.b4c8d3e9f1a2b7c5d62.cfd/yayinnbatv.m3u8
 #EXTINF:-1  tvg-name="FB TV" tvg-id="FBTV.tr" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="Spor",FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
