@@ -1,28 +1,28 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
 #EXTINF:-1  tvg-name="SINEMA" tvg-id="Sinema Tv.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-tv-768x104.png" group-title="SINEMA",SINEMA
-http://germanyqdnsx8.com:8080/fiko1905/Fiko1905/89210
+http://iptvtree.net:8080/romaniamedia/076cd2e932/1790
 #EXTINF:-1  tvg-name="SINEMA 2" tvg-id="Sinema Tv 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-2-tv-768x117.png" group-title="SINEMA",SINEMA 2
 http://germanyqdnsx8.com:8080/fiko1905/Fiko1905/89211
 #EXTINF:-1  tvg-name="SINEMA AKSİYON" tvg-id="Sinema Tv Aksiyon.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-768x70.png" group-title="SINEMA",SINEMA AKSİYON
-http://germanyqdnsx8.com:8080/fiko1905/Fiko1905/89218
+http://iptvtree.net:8080/romaniamedia/076cd2e932/1793
 #EXTINF:-1  tvg-name="SINEMA AKSİYON 2" tvg-id="Sinema Tv Aksiyon 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-2.png" group-title="SINEMA",SINEMA AKSİYON 2
-http://germanyqdnsx8.com:8080/fiko1905/Fiko1905/89219
+http://iptvtree.net:8080/romaniamedia/076cd2e932/1772
 #EXTINF:-1  tvg-name="SINEMA AILE" tvg-id="Sinema Tv Aile.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="SINEMA",SINEMA AILE
-http://germanyqdnsx8.com:8080/fiko1905/Fiko1905/89214
+http://iptvtree.net:8080/romaniamedia/076cd2e932/1794
 #EXTINF:-1  tvg-name="SINEMA AILE 2" tvg-id="Sinema Tv Aile 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aile.png" group-title="SINEMA",SINEMA AILE 2
-http://germanyqdnsx8.com:8080/fiko1905/Fiko1905/89215
+http://iptvtree.net:8080/romaniamedia/076cd2e932/165582
 #EXTINF:-1  tvg-name="SINEMA KOMEDI" tvg-id="Sinema Tv Comedy.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png" group-title="SINEMA",SINEMA KOMEDI
-http://germanyqdnsx8.com:8080/fiko1905/Fiko1905/89216
+http://iptvtree.net:8080/romaniamedia/076cd2e932/1795
 #EXTINF:-1  tvg-name="SINEMA KOMEDI 2" tvg-id="Sinema Tv Comedy 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komedi.png" group-title="SINEMA",SINEMA KOMEDI 2
-http://germanyqdnsx8.com:8080/fiko1905/Fiko1905/89217
+http://iptvtree.net:8080/romaniamedia/076cd2e932/43541
 #EXTINF:-1  tvg-name="SINEMA 1001" tvg-id="Sinema Tv 1001.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1001-768x94.png" group-title="SINEMA",SINEMA 1001
-http://germanyqdnsx8.com:8080/fiko1905/Fiko1905/89212
+http://iptvtree.net:8080/romaniamedia/076cd2e932/1789
 #EXTINF:-1  tvg-name="SINEMA 1002" tvg-id="Sinema Tv 1002.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1002.png" group-title="SINEMA",SINEMA 1002
-http://germanyqdnsx8.com:8080/fiko1905/Fiko1905/89213
+http://iptvtree.net:8080/romaniamedia/076cd2e932/76722
 #EXTINF:-1  tvg-name="SINEMA YERLI" tvg-id="Sinema.Yerli.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema_yerli.png" group-title="SINEMA",SINEMA YERLI
-http://tgr25.pro:8080/live/recep09/09recep/285.ts
+http://iptvtree.net:8080/romaniamedia/076cd2e932/1791
 #EXTINF:-1  tvg-name="SINEMA YERLI 2" tvg-id="Sinema.Yerli.2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-yerli-2.png" group-title="SINEMA",SINEMA YERLI 2
-http://tgr25.pro:8080/live/recep09/09recep/286.ts
+http://iptvtree.net:8080/romaniamedia/076cd2e932/163186
 #EXTINF:-1 tvg-id="" tvg-name="beIN Movies Action" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png" group-title="TURKEY",beIN Movies Action
 http://103.161.34.98:8080/033yolveren-e/WnGHgg2yEtR2/86
 #EXTINF:-1 tvg-id="" tvg-name="beIN Movies Action 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-2-logo.png" group-title="TURKEY",beIN Movies Action 2
