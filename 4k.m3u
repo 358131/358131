@@ -13,8 +13,6 @@ http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912476&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912452&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/TURKIYE/NOW.png" group-title="TURKIYE",NOW TV
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912474&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tv8int.png" group-title="TURKIYE",TV 8 INT
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912473&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/teve2hd.jpg" group-title="TURKIYE",TEVE 2
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912471&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/kanal7.jpg" group-title="TURKIYE",KANAL 7
@@ -23,14 +21,12 @@ http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912470&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912469&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/a2.png" group-title="TURKIYE",A2
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912468&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/telekanal360.png" group-title="TURKIYE",KANAL 360
+#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/telekanal360.png" group-title="TURKIYE",360 TV
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912467&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/360tv.jpg" group-title="TURKIYE",360 TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912443&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/flashtv.jpg" group-title="TURKIYE",FLASH
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913463&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trtturk.png" group-title="TURKIYE",TRT TURK
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912445&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/flashtv.jpg" group-title="TURKIYE",FLASH
+http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913463&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/kanal7avrupa.png" group-title="AVRUPA & YEREL",KANAL 7 AVRUPA
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912465&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/atvavrupa.png" group-title="AVRUPA & YEREL",ATV AVRUPA
@@ -41,8 +37,14 @@ http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912463&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912462&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/showturk.png" group-title="AVRUPA & YEREL",SHOW TURK
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912461&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/TURKIYE.png" group-title="TV - TR| HABER KANALLARI",##### TR HABER #####
+#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/TURKIYE.png" group-title="HABER KANALLARI",##### HABER #####
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912930&extension=ts&play_token=FhxEvrlw0M
+#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tele1.jpg" group-title="HABER KANALLARI",TELE 1
+http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912904&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SZC-TV.jpeg" group-title="HABER KANALLARI",SZC TV
+http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1133616&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/halktv.jpg" group-title="HABER KANALLARI",HALK TV
+http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912919&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trthaber.png" group-title="HABER KANALLARI",TRT HABER
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912929&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/A-HABER-HD.jpeg" group-title="HABER KANALLARI",A HABER
@@ -53,8 +55,6 @@ http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912925&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912923&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/Ntv--.jpeg" group-title="HABER KANALLARI",NTV
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912921&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/halktv.jpg" group-title="HABER KANALLARI",HALK TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912919&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/HABER-GLOBAL.png" group-title="HABER KANALLARI",HABER GLOBAL
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912915&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tv100.png" group-title="HABER KANALLARI",TV 100
@@ -67,35 +67,35 @@ http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912909&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912907&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/bloomberght.png" group-title="HABER KANALLARI",BLOOMBERGHT
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912905&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tele1.jpg" group-title="HABER KANALLARI",TELE 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912904&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tgrthaber.png" group-title="HABER KANALLARI",TGRT HABER
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912903&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tgrteu.png" group-title="HABER KANALLARI",TGRT EU
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912901&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/ulusal.png" group-title="HABER KANALLARI",ULUSAL KANAL
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912898&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/uzayhaber.jpg" group-title="HABER KANALLARI",UZAY HABER
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912897&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tv5.png" group-title="HABER KANALLARI",TV 5
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912894&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tvnet.png" group-title="HABER KANALLARI",TVNET
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912893&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/apara.jpg" group-title="HABER KANALLARI",A PARA
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912891&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/HABER-GLOBAL.png" group-title="HABER KANALLARI",GLOBAL HABER
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912889&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SZC-TV.jpeg" group-title="HABER KANALLARI",SZC TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1133616&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trthaber.png" group-title="HABER KANALLARI",TRT HABER
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912887&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/LIDER-HABER.png" group-title="HABER KANALLARI",LIDER HABER TV
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1526852&extension=ts
-#EXTINF:-1  tvg-logo="https://logo.protv.cc/piconsnew/ekinturktv.png" group-title="TURKIYE",EKIN TURK
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1796073&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/EKO-TURK.png" group-title="HABER KANALLARI",EKO TURK TV
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1552760&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/TR-BELGESEL.png" group-title="BELGESEL KANALLARI",##### TR BELGESEL #####
+#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/TR-SPOR.png" group-title="SPOR KANALLARI",##### SPOR #####
+http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913406&extension=ts&play_token=LbBNDzrb0w
+#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/A-SPOR-HD.jpeg" group-title="SPOR KANALLARI",A SPOR
+http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913403&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/TRT-SPOR.jpeg" group-title="SPOR KANALLARI",TRT SPOR
+http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913402&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/TRT-SPOR.jpeg" group-title="SPOR KANALLARI",TRT SPOR YILDIZ
+http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913405&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/HT-SPORT.png" group-title="SPOR KANALLARI",HABER TURK SPOR
+http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1639118&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/TR-BELGESEL.png" group-title="BELGESEL KANALLARI",##### BELGESEL #####
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=top:80/play/live.php?mac=00:1A:79:b5:a0:47&extension=ts&play_token=wqx8t6jhmR
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trtbelgesel.png" group-title="BELGESEL KANALLARI",TRT BELGESEL
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913191&extension=ts
@@ -107,7 +107,7 @@ http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913187&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913186&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/natgeopeople.png" group-title="BELGESEL KANALLARI",NAT GEO PEOPLE
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913184&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/discoverychannelhd.png" group-title="BELGESEL KANALLARI",DiSCOWERY CHANNEL
+#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/discoverychannelhd.png" group-title="BELGESEL KANALLARI",DiSCOVERY CHANNEL
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913183&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tlcn.png" group-title="BELGESEL KANALLARI",TLC
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913181&extension=ts
@@ -137,6 +137,8 @@ http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913162&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913161&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/lovenature.png" group-title="BELGESEL KANALLARI",LOVE NATURE
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913160&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/TR-SINEMADIZI.png" group-title="SINEMA KANALLARI",##### SINEMA/DIZI #####
+http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913334&extension=ts&play_token=qtdXzRL7hl
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-MOVIES-TURK.png" group-title="SINEMA KANALLARI",BEIN MOVIES TURK
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913333&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/beinmoviesfamily.png" group-title="SINEMA KANALLARI",BEIN MOVIES FAMILY
@@ -229,56 +231,6 @@ http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395485&extension
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395484&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX YERLI ᴴᴰ
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395483&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",007
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1626875&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",AKSIYON 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1626874&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",AKSIYON 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1626873&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",AKSIYON 3
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1626872&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",ANIMASYON 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1626871&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",ANIMASYON 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=top:80/play/live.php?mac=00:1A:79:b5:a0:47&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",BELGESEL
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1626869&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",BILIMKURGU 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1626868&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",BILIMKURGU 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1626867&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",GOLD MIX
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1626865&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",KOMEDI 90'LAR
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1626864&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",MARVEL
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1626863&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",SINEMA TURK 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1626862&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",SINEMA TURK 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1626861&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",SINEMA TURK 3
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1626860&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",TURKCE SHOW
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1626859&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",VIZYON 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=top:80/play/live.php?mac=00:1A:79:b5:a0:47&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",VIZYON 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1626857&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",YESILCAM
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1626856&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/A-SPOR-HD.jpeg" group-title="SPOR KANALLARI",A SPOR
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913403&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/TRT-SPOR.jpeg" group-title="SPOR KANALLARI",TRT SPOR
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913402&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/TRT-SPOR.jpeg" group-title="SPOR KANALLARI",TRT SPOR
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913401&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/TRT-SPOR.jpeg" group-title="SPOR KANALLARI",TRT SPOR YILDIZ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913405&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/HT-SPORT.png" group-title="SPOR KANALLARI",HABER TURK SPOR
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1639118&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/taytv.jpg" group-title="SPOR KANALLARI",TAY TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913400&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-HD.png" group-title="MAC KANALLARI",BEIN SPORTS 1
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913460&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-HD.png" group-title="MAC KANALLARI",BEIN SPORTS 1
@@ -299,138 +251,6 @@ http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913455&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913456&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-2.png" group-title="MAC KANALLARI",BEIN SPORTS 2 1080
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913445&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-3-HD.png" group-title="MAC KANALLARI",BEIN SPORTS 3
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913454&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-3-HD.png" group-title="MAC KANALLARI",BEIN SPORTS 3 1080
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913444&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-4-NP.png" group-title="MAC KANALLARI",BEIN SPORTS 4
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=top:80/play/live.php?mac=00:1A:79:b5:a0:47&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-4-NP.png" group-title="MAC KANALLARI",BEIN SPORTS 4 1080
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913443&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-5-NP.png" group-title="MAC KANALLARI",BEIN SPORTS 5 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1091502&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-5-NP.png" group-title="MAC KANALLARI",BEIN SPORTS 5 + FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=top:80/play/live.php?mac=00:1A:79:b5:a0:47&extension=ts
-#EXTINF:-1  group-title="SPOR KANALLARI",EXXEN TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1337928&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="SPOR KANALLARI",E X X E N SPORT
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913399&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="SPOR KANALLARI",E X X E N SPOR 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913398&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="SPOR KANALLARI",E-X-X-E-N SPOR 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913397&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="SPOR KANALLARI",E-X-X-E-N SPOR 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913396&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="SPOR KANALLARI",E-X-X-E-N SPOR 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913395&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="SPOR KANALLARI",E-X-X-E-N SPOR 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913394&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="SPOR KANALLARI",E-X-X-E-N SPOR 3
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913393&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="SPOR KANALLARI",E-X-X-E-N SPOR 3
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913392&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="SPOR KANALLARI",E-X-X-E-N SPORT 4
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913391&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="SPOR KANALLARI",E-X-X-E-N SPOR 4
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913390&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="SPOR KANALLARI",E-X-X-E-N SPOR 5
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913389&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="SPOR KANALLARI",E-X-X-E-N SPOR 5
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913388&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="SPOR KANALLARI",E-X-X-E-N SPOR 6
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913387&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="SPOR KANALLARI",E-X-X-E-N SPOR 6
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=top:80/play/live.php?mac=00:1A:79:b5:a0:47&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="SPOR KANALLARI",E-X-X-E-N SPOR 7
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913385&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="SPOR KANALLARI",E-X-X-E-N SPOR 7
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913384&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="SPOR KANALLARI",E-X-X-E-N SPOR 8
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=top:80/play/live.php?mac=00:1A:79:b5:a0:47&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/TRT-SPOR-2.jpeg" group-title="SPOR KANALLARI",TRT SPOR 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913382&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/ssport.png" group-title="SPOR KANALLARI",S-SPORT
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913381&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/S-SPORT-2.png" group-title="SPOR KANALLARI",S-SPORT 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913380&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/S-SPORT-PLUS.png" group-title="SPOR KANALLARI",S SPORT PLUS+
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913379&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/S-SPORT-PLUS.png" group-title="SPOR KANALLARI",S SPORT PLUS+1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913378&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/S-SPORT-PLUS.png" group-title="SPOR KANALLARI",S SPORT PLUS+2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913377&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SPOR-SMART.png" group-title="SPOR KANALLARI",SPOR SMART
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=top:80/play/live.php?mac=00:1A:79:b5:a0:47&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SPOR-SMART-2.png" group-title="SPOR KANALLARI",SPOR SMART 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913375&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/sportstv.jpg" group-title="SPOR KANALLARI",SPORTSTV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=top:80/play/live.php?mac=00:1A:79:b5:a0:47&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/USA/TIVIBUSPOR.png" group-title="SPOR KANALLARI",TIVIBUSPOR
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1447189&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/TIVIBU-SPOR-1.png" group-title="SPOR KANALLARI",TIVIBUSPOR 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913373&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/TIVIBU-SPOR-2.png" group-title="SPOR KANALLARI",TIVIBUSPOR 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913372&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/TIVIBU-SPOR-3.png" group-title="SPOR KANALLARI",TIVIBUSPOR 3
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913371&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/USA/TIVIBUSPOR.png" group-title="SPOR KANALLARI",TIVIBUSPOR 4
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1447190&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SPOR-SMART.png" group-title="SPOR KANALLARI",SPOR SMART
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913370&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/ssport.png" group-title="SPOR KANALLARI",S-SPORT 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913369&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/NBA-TV.png" group-title="SPOR KANALLARI",NBA TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913368&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tjktv.png" group-title="SPOR KANALLARI",TJK TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913367&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/gstv.jpg" group-title="SPOR KANALLARI",GSTV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913366&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/FBTV-HD.jpeg" group-title="SPOR KANALLARI",FBTV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913365&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="SPOR KANALLARI",FILSPORT 1 PPV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1438082&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="SPOR KANALLARI",FILSPORT 2 PPV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1438083&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="SPOR KANALLARI",FILSPORT 3 PPV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1438084&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="SPOR KANALLARI",FILSPORT 4 PPV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1438085&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="SPOR KANALLARI",FILSPORT 5 PPV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1438086&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="SPOR KANALLARI",FILSPORT 6 PPV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1438087&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/USA/filbox.png" group-title="SPOR KANALLARI",FILSPORT 7 PPV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=top:80/play/live.php?mac=00:1A:79:b5:a0:47&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS.png" group-title="MAC KANALLARI",##### TR BEIN SPOR #####
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913462&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-HABER.png" group-title="MAC KANALLARI",BEIN SPORTS HABER FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913461&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-HABER.png" group-title="MAC KANALLARI",BEIN SPORTS HABER
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913440&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/beinsporthaber.png" group-title="MAC KANALLARI",BEIN SPORTS HABER (BK)
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912884&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-1-MAX-HD.png" group-title="MAC KANALLARI",BEIN SPORTS MAX 1 720
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=top:80/play/live.php?mac=00:1A:79:b5:a0:47&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-1-MAX-HD.png" group-title="MAC KANALLARI",BEIN SPORTS MAX 1 1080
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913442&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-2-MAX-HD.jpeg" group-title="MAC KANALLARI",BEIN SPORTS MAX 2 720
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913451&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-2-MAX-HD.jpeg" group-title="MAC KANALLARI",BEIN SPORTS MAX 2 1080
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913441&extension=ts
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/tabii-logo-D1B3E86673-seeklogo.com.png" group-title="TABII SPORT",####### TABII SPORT ᴿᴬᵂ #######
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1625462&extension=ts
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/tabii-logo-D1B3E86673-seeklogo.com.png" group-title="TABII SPORT",TABII SPORT 1 ᴿᴬᵂ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1625461&extension=ts
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/tabii-logo-D1B3E86673-seeklogo.com.png" group-title="TABII SPORT",TABII SPORT 2 ᴿᴬᵂ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1625460&extension=ts
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/tabii-logo-D1B3E86673-seeklogo.com.png" group-title="TABII SPORT",TABII SPORT 3 ᴿᴬᵂ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=top:80/play/live.php?mac=00:1A:79:b5:a0:47&extension=ts
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/tabii-logo-D1B3E86673-seeklogo.com.png" group-title="TABII SPORT",TABII SPORT 4 ᴿᴬᵂ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1625458&extension=ts
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/tabii-logo-D1B3E86673-seeklogo.com.png" group-title="TABII SPORT",TABII SPORT 5 ᴿᴬᵂ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1625457&extension=ts
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/tabii-logo-D1B3E86673-seeklogo.com.png" group-title="TABII SPORT",TABII SPORT 6 ᴿᴬᵂ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1625456&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trtcocuk.png" group-title="COCUK & DINI",TRT COCUK
 http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913124&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/boomerang.png" group-title="COCUK & DINI",CARTOONITO
