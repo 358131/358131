@@ -3,8 +3,6 @@
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259871&extension=ts&play_token=ot0Dvtv6i5&sn2=
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/trt1hd.png" group-title="ULUSAL",TRT 1 UHD
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259872&extension=ts&play_token=e06X6X5q0r&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/ASIA/TRT-2.png" group-title="ULUSAL",TRT 2 UHD
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=1069641&extension=ts&play_token=3BIkQ1D5gA&sn2=
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/atvhd.png" group-title="ULUSAL",ATV UHD
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259873&extension=ts&play_token=XjQTTNeq2k&sn2=
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/kanald.png" group-title="ULUSAL",KANAL D UHD
@@ -43,8 +41,6 @@ http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=2598
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=916956&extension=ts&play_token=LXVuedINrj&sn2=
 #EXTINF:-1  group-title="DIGER",##### HABER #####
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259927&extension=ts&play_token=3CVkt1N3cs&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/A-HABER-HD.jpeg" group-title="DIGER",A HABER UHD
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259929&extension=ts&play_token=dziphld7DE&sn2=
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/haberturk.png" group-title="DIGER",HABERTURK UHD
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259931&extension=ts&play_token=HPgCpuzpFx&sn2=
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/cnnturk.png" group-title="DIGER",CNN TURK UHD
@@ -77,14 +73,12 @@ http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=2598
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=1156423&extension=ts&play_token=DltO0P6ahN&sn2=
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e8/20220321200409!KRT_TV_logosu.png" group-title="ULUSAL",KRT TV HD
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=744215&extension=ts&play_token=e7Ui4B7IAB&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/KRTHT-TV.jpg" group-title="ULUSAL",KRT TV 4K
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=744832&extension=ts&play_token=fm2EEZNZ4H&sn2=
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/kanal24.png" group-title="DIGER",KANAL 24 UHD
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259935&extension=ts&play_token=eWEf153RsH&sn2=
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/trthaberhd.png" group-title="DIGER",TRT HABER UHD
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259933&extension=ts&play_token=lIpE8OA8an&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/halktv.jpg" group-title="DIGER",HALK TV
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259941&extension=ts&play_token=4uS9KeZtNb&sn2=
+#EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/A-HABER-HD.jpeg" group-title="DIGER",A HABER UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259929&extension=ts&play_token=dziphld7DE&sn2=
 #EXTINF:-1  group-title="ULUSAL",##### CINEMA #####
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259977&extension=ts&play_token=A1lrfId6DR&sn2=
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesactionhd.png" group-title="SINEMA",BEIN MOVIES ACTION UHD
@@ -119,14 +113,8 @@ http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=2600
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260004&extension=ts&play_token=JzEaSQBbYs&sn2=
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/beinseriesvice.png" group-title="SINEMA",BEIN SERIES VICE UHD+
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260005&extension=ts&play_token=7n7dbn8Oqy&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/sinema.png" group-title="SINEMA",SINEMA TV2
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260022&extension=ts&play_token=Br9kqIpybL&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/sinema.png" group-title="SINEMA",SiNEMA YERLi
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260023&extension=ts&play_token=YpIfyLThYp&sn2=
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/trex.png" group-title="SINEMA",TREX KEMAL SUNAL
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260026&extension=ts&play_token=mSqaXbb2Fb&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/trex.png" group-title="SINEMA",TREX KOMEDI UHD
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260030&extension=ts&play_token=oDkCpKoLfW&sn2=
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/FX-HD.jpg" group-title="ULUSAL",FX UHD
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260042&extension=ts&play_token=hnNr8bky2k&sn2=
 #EXTINF:-1  group-title="ULUSAL",##### BELGESEL #####
@@ -185,31 +173,7 @@ http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=2600
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260081&extension=ts&play_token=m5xfDs453o&sn2=
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/trtsporhd.png" group-title="SPOR",TRT SPOR FHD
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260092&extension=ts&play_token=u713NFipeb&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/trtsporhd.png" group-title="SPOR",TRT SPOR UHD
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260093&extension=ts&play_token=HGbrI8YiiF&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/trtsporhd.png" group-title="SPOR",TRT SPORT 2 UHD
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260094&extension=ts&play_token=pUODiiJhse&sn2=
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/A-SPOR-HD.jpeg" group-title="SPOR",A SPOR FHD
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260095&extension=ts&play_token=Uv6koR86x9&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/A-SPOR-HD.jpeg" group-title="SPOR",A SPOR UHD
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260096&extension=ts&play_token=fdLh1rtqZC&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/eurosport1hd.png" group-title="SPOR",EUROSPORT 1 UHD
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260097&extension=ts&play_token=m14CKPQyGF&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/eurosport2hd.png" group-title="SPOR",EUROSPORT 2 UHD
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260098&extension=ts&play_token=ku4Ed92hCI&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/S-SPORT-PLUS.png" group-title="SPOR",S SPORT PLUS HD
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=943835&extension=ts&play_token=3zoDZIsV7L&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/iptvlogos/SSPORT_1.png" group-title="SPOR",S SPORT 1
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=683162&extension=ts&play_token=bO6h8UkBRV&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/iptvlogos/SSPORT_1.png" group-title="SPOR",S SPORT 2
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=683163&extension=ts&play_token=2cMWyWIVE2&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/GALATASARAY-TV-HD.png" group-title="SPOR",GALATASARAY TV UHD
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260099&extension=ts&play_token=eREzY9us1l&sn2=
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/HT-SPORT.png" group-title="SPOR",HABER TURK SPOR
 http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=1156422&extension=ts&play_token=1Fl3I93Jpl&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/meltemtv.png" group-title="SPOR",MELTEM TV
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=662106&extension=ts&play_token=g4P0hj2MRg&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/fenerbahcetv.Jpeg" group-title="SPOR",FENERBAHÇE TV UHD
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260100&extension=ts&play_token=B7d4KRV6wJ&sn2=
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/tjktv.png" group-title="SPOR",TJK TV
-http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260103&extension=ts&play_token=0wIvzFEWdX&sn2=
