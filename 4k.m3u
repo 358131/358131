@@ -1,64 +1,4 @@
 #EXTM3U
-#EXTINF:-1,TRT 1 HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520417&extension=ts
-#EXTINF:-1,TRT TURK HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520416&extension=ts
-#EXTINF:-1,TRT HABER HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520415&extension=ts
-#EXTINF:-1,TRT BELGESEL HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520414&extension=ts
-#EXTINF:-1,TRT COCUK HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520413&extension=ts
-#EXTINF:-1,TRT MUZIK HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520412&extension=ts
-#EXTINF:-1,TRT SPOR HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520410&extension=ts
-#EXTINF:-1,TRT WORLD
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520409&extension=ts
-#EXTINF:-1,TRT WORLD HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520408&extension=ts
-#EXTINF:-1,TGRT HABER HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520407&extension=ts
-#EXTINF:-1,SHOW TURK HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520406&extension=ts
-#EXTINF:-1,360 HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520405&extension=ts
-#EXTINF:-1,A NEWS HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520404&extension=ts
-#EXTINF:-1,A2 HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520403&extension=ts
-#EXTINF:-1,24 HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520402&extension=ts
-#EXTINF:-1,HABER GLOBAL HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520401&extension=ts
-#EXTINF:-1,HALK TV HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520400&extension=ts
-#EXTINF:-1,A PARA HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520398&extension=ts
-#EXTINF:-1,BENG⅛ T⅛RK HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520396&extension=ts
-#EXTINF:-1,BEYAZ TV HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520395&extension=ts
-#EXTINF:-1,BRT 1 HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520394&extension=ts
-#EXTINF:-1,BRT 2 HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520393&extension=ts
-#EXTINF:-1,KANAL 7 AVRUPA HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520390&extension=ts
-#EXTINF:-1,DIYANET TV HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520389&extension=ts
-#EXTINF:-1,EKOTURK HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520388&extension=ts
-#EXTINF:-1,FLASH HABER HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520387&extension=ts
-#EXTINF:-1,KABLO INFO HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520386&extension=ts
-#EXTINF:-1,KRT TV HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520385&extension=ts
-#EXTINF:-1,TELE 1 HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520384&extension=ts
-#EXTINF:-1,TURKSAT TANITIM HEVC
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520383&extension=ts
 #EXTINF:-1,TRT 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520382&extension=ts
 #EXTINF:-1,TRT 1 FHD
@@ -589,4 +529,3 @@ http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519967&exten
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519966&extension=ts
 #EXTINF:-1,TABII SPOR 5 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519965&extension=ts
-
