@@ -1,591 +1,591 @@
-﻿#EXTM3U
-#EXTINF:-1  tvg-name="TR| TRT 1 HEVC" tvg-id="TRT1(Turkish).fr" group-title="TV - TR | TURKISH",TR| TRT 1 HEVC
+#EXTM3U
+#EXTINF:-1,TRT 1 HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520417&extension=ts&play_token=HofgMlTwmV
-#EXTINF:-1  tvg-name="TR| TRT TURK HEVC" group-title="TV - TR | TURKISH",TR| TRT TURK HEVC
+#EXTINF:-1,TRT TURK HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520416&extension=ts&play_token=DMtmjnnZwM
-#EXTINF:-1  tvg-name="TR| TRT HABER HEVC" group-title="TV - TR | TURKISH",TR| TRT HABER HEVC
+#EXTINF:-1,TRT HABER HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520415&extension=ts&play_token=MTF9VU3vfA
-#EXTINF:-1  tvg-name="TR| TRT BELGESEL HEVC" group-title="TV - TR | TURKISH",TR| TRT BELGESEL HEVC
+#EXTINF:-1,TRT BELGESEL HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520414&extension=ts&play_token=8qFAVt3cZY
-#EXTINF:-1  tvg-name="TR| TRT COCUK HEVC" group-title="TV - TR | TURKISH",TR| TRT COCUK HEVC
+#EXTINF:-1,TRT COCUK HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520413&extension=ts&play_token=mnMyWctXrY
-#EXTINF:-1  tvg-name="TR| TRT MUZIK HEVC" tvg-id="Z(French).ca" group-title="TV - TR | TURKISH",TR| TRT MUZIK HEVC
+#EXTINF:-1,TRT MUZIK HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520412&extension=ts&play_token=Qx1YpO0jfu
-#EXTINF:-1  tvg-name="TR| TRT SPOR HEVC" group-title="TV - TR | TURKISH",TR| TRT SPOR HEVC
+#EXTINF:-1,TRT SPOR HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520410&extension=ts&play_token=fGwLK6OfT6
-#EXTINF:-1  tvg-name="TR| TRT WORLD" group-title="TV - TR | TURKISH",TR| TRT WORLD
+#EXTINF:-1,TRT WORLD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520409&extension=ts&play_token=tC37TlLR7Y
-#EXTINF:-1  tvg-name="TR| TRT WORLD HEVC" group-title="TV - TR | TURKISH",TR| TRT WORLD HEVC
+#EXTINF:-1,TRT WORLD HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520408&extension=ts&play_token=eSdljJBD7B
-#EXTINF:-1  tvg-name="TR| TGRT HABER HEVC" group-title="TV - TR | TURKISH",TR| TGRT HABER HEVC
+#EXTINF:-1,TGRT HABER HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520407&extension=ts&play_token=LTrTBf5Lji
-#EXTINF:-1  tvg-name="TR| SHOW TURK HEVC" group-title="TV - TR | TURKISH",TR| SHOW TURK HEVC
+#EXTINF:-1,SHOW TURK HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520406&extension=ts&play_token=Wyfrvf6wK3
-#EXTINF:-1  tvg-name="TR| 360 HEVC" group-title="TV - TR | TURKISH",TR| 360 HEVC
+#EXTINF:-1,360 HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520405&extension=ts&play_token=Nm9hVMm0Cm
-#EXTINF:-1  tvg-name="TR| A NEWS HEVC" group-title="TV - TR | TURKISH",TR| A NEWS HEVC
+#EXTINF:-1,A NEWS HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520404&extension=ts&play_token=POQI81hC0S
-#EXTINF:-1  tvg-name="TR| A2 HEVC" group-title="TV - TR | TURKISH",TR| A2 HEVC
+#EXTINF:-1,A2 HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520403&extension=ts&play_token=TtkDttwSIB
-#EXTINF:-1  tvg-name="TR| 24 HEVC" group-title="TV - TR | TURKISH",TR| 24 HEVC
+#EXTINF:-1,24 HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520402&extension=ts&play_token=BjNSbbgWQK
-#EXTINF:-1  tvg-name="TR| HABER GLOBAL HEVC" group-title="TV - TR | TURKISH",TR| HABER GLOBAL HEVC
+#EXTINF:-1,HABER GLOBAL HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520401&extension=ts&play_token=jSTXkyZ38g
-#EXTINF:-1  tvg-name="TR| HALK TV HEVC" group-title="TV - TR | TURKISH",TR| HALK TV HEVC
+#EXTINF:-1,HALK TV HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520400&extension=ts&play_token=2LzvWp76HL
-#EXTINF:-1  tvg-name="TR| A PARA HEVC" group-title="TV - TR | TURKISH",TR| A PARA HEVC
+#EXTINF:-1,A PARA HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520398&extension=ts&play_token=UzR3yHBn9n
-#EXTINF:-1  tvg-name="TR| BENG⅛ T⅛RK HEVC" group-title="TV - TR | TURKISH",TR| BENG⅛ T⅛RK HEVC
+#EXTINF:-1,BENG⅛ T⅛RK HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520396&extension=ts&play_token=pE9NOpxjmC
-#EXTINF:-1  tvg-name="TR| BEYAZ TV HEVC" tvg-id="Z(French).ca" group-title="TV - TR | TURKISH",TR| BEYAZ TV HEVC
+#EXTINF:-1,BEYAZ TV HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520395&extension=ts&play_token=GGxaGE0lSK
-#EXTINF:-1  tvg-name="TR| BRT 1 HEVC" group-title="TV - TR | TURKISH",TR| BRT 1 HEVC
+#EXTINF:-1,BRT 1 HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520394&extension=ts&play_token=NO3JocdxTT
-#EXTINF:-1  tvg-name="TR| BRT 2 HEVC" group-title="TV - TR | TURKISH",TR| BRT 2 HEVC
+#EXTINF:-1,BRT 2 HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520393&extension=ts&play_token=PDlihiiuvq
-#EXTINF:-1  tvg-name="TR| KANAL 7 AVRUPA HEVC" group-title="TV - TR | TURKISH",TR| KANAL 7 AVRUPA HEVC
+#EXTINF:-1,KANAL 7 AVRUPA HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520390&extension=ts&play_token=0PJwFpPHTQ
-#EXTINF:-1  tvg-name="TR| DIYANET TV HEVC" group-title="TV - TR | TURKISH",TR| DIYANET TV HEVC
+#EXTINF:-1,DIYANET TV HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520389&extension=ts&play_token=6sFYlbqibO
-#EXTINF:-1  tvg-name="TR| EKOTURK HEVC" group-title="TV - TR | TURKISH",TR| EKOTURK HEVC
+#EXTINF:-1,EKOTURK HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520388&extension=ts&play_token=eM27wQl7vC
-#EXTINF:-1  tvg-name="TR| FLASH HABER HEVC" group-title="TV - TR | TURKISH",TR| FLASH HABER HEVC
+#EXTINF:-1,FLASH HABER HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520387&extension=ts&play_token=suA2aCaq60
-#EXTINF:-1  tvg-name="TR| KABLO INFO HEVC" group-title="TV - TR | TURKISH",TR| KABLO INFO HEVC
+#EXTINF:-1,KABLO INFO HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520386&extension=ts&play_token=HyN6LXZnVA
-#EXTINF:-1  tvg-name="TR| KRT TV HEVC" group-title="TV - TR | TURKISH",TR| KRT TV HEVC
+#EXTINF:-1,KRT TV HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520385&extension=ts&play_token=FC4CqnI1vY
-#EXTINF:-1  tvg-name="TR| TELE 1 HEVC" group-title="TV - TR | TURKISH",TR| TELE 1 HEVC
+#EXTINF:-1,TELE 1 HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520384&extension=ts&play_token=hHq6f3mExk
-#EXTINF:-1  tvg-name="TR| TURKSAT TANITIM HEVC" group-title="TV - TR | TURKISH",TR| TURKSAT TANITIM HEVC
+#EXTINF:-1,TURKSAT TANITIM HEVC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520383&extension=ts&play_token=3LyCOKtqRH
-#EXTINF:-1  tvg-name="TR| TRT 4K" group-title="TV - TR | TURKISH",TR| TRT 4K
+#EXTINF:-1,TRT 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520382&extension=ts&play_token=vOyLAgnVTJ
-#EXTINF:-1  tvg-name="TR| TRT 1 FHD" tvg-id="TRT1(Turkish).fr" group-title="TV - TR | TURKISH",TR| TRT 1 FHD
+#EXTINF:-1,TRT 1 FHD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520381&extension=ts&play_token=MXUR61V7IF
-#EXTINF:-1  tvg-name="TR| TRT 1 HD" tvg-id="TRT1(Turkish).fr" group-title="TV - TR | TURKISH",TR| TRT 1 HD
+#EXTINF:-1,TRT 1 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520380&extension=ts&play_token=xHlHXl2zxi
-#EXTINF:-1  tvg-name="TR| TRT 2 4K" group-title="TV - TR | TURKISH",TR| TRT 2 4K
+#EXTINF:-1,TRT 2 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520379&extension=ts&play_token=aqamWPhycz
-#EXTINF:-1  tvg-name="TR| TRT 2 HD" group-title="TV - TR | TURKISH",TR| TRT 2 HD
+#EXTINF:-1,TRT 2 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520378&extension=ts&play_token=7zbyMEgqxa
-#EXTINF:-1  tvg-name="TR| ATV 4K" group-title="TV - TR | TURKISH",TR| ATV 4K
+#EXTINF:-1,ATV 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520377&extension=ts&play_token=Uj9jMFTSik
-#EXTINF:-1  tvg-name="TR| ATV HD" group-title="TV - TR | TURKISH",TR| ATV HD
+#EXTINF:-1,ATV HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520376&extension=ts&play_token=USQUyAx8Fu
-#EXTINF:-1  tvg-name="TR| ATV EU" group-title="TV - TR | TURKISH",TR| ATV EU
+#EXTINF:-1,ATV EU
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520375&extension=ts&play_token=Xwo20yLpDs
-#EXTINF:-1  tvg-name="TR| A2 TR" group-title="TV - TR | TURKISH",TR| A2 TR
+#EXTINF:-1,A2 TR
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520374&extension=ts&play_token=Zh3Tl41ouW
-#EXTINF:-1  tvg-name="TR| KANAL D 4K" group-title="TV - TR | TURKISH",TR| KANAL D 4K
+#EXTINF:-1,KANAL D 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520373&extension=ts&play_token=bTtW9KztpB
-#EXTINF:-1  tvg-name="TR| KANAL D HD" group-title="TV - TR | TURKISH",TR| KANAL D HD
+#EXTINF:-1,KANAL D HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520372&extension=ts&play_token=4pqA54KIIU
-#EXTINF:-1  tvg-name="TR| STAR TV HD" tvg-id="Star(English).ca" group-title="TV - TR | TURKISH",TR| STAR TV HD
+#EXTINF:-1,STAR TV HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520371&extension=ts&play_token=MCudJHOS9N
-#EXTINF:-1  tvg-name="TR| STAR TV EU" tvg-id="Star(English).ca" group-title="TV - TR | TURKISH",TR| STAR TV EU
+#EXTINF:-1,STAR TV EU
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520370&extension=ts&play_token=zzV7jW4fOX
-#EXTINF:-1  tvg-name="TR| STAR TV 4K" tvg-id="Star(English).ca" group-title="TV - TR | TURKISH",TR| STAR TV 4K
+#EXTINF:-1,STAR TV 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520369&extension=ts&play_token=VgnfNuSfG5
-#EXTINF:-1  tvg-name="TR| SHOW TV 4K" group-title="TV - TR | TURKISH",TR| SHOW TV 4K
+#EXTINF:-1,SHOW TV 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520368&extension=ts&play_token=zJH5SqDSkl
-#EXTINF:-1  tvg-name="TR| SHOW TV HD" group-title="TV - TR | TURKISH",TR| SHOW TV HD
+#EXTINF:-1,SHOW TV HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520367&extension=ts&play_token=MATQrufS5x
-#EXTINF:-1  tvg-name="TR| SHOW TV EU" group-title="TV - TR | TURKISH",TR| SHOW TV EU
+#EXTINF:-1,SHOW TV EU
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520366&extension=ts&play_token=fxi0SDti5Z
-#EXTINF:-1  tvg-name="TR| SHOW MAX" tvg-id="MAX(src01).ca" group-title="TV - TR | TURKISH",TR| SHOW MAX
+#EXTINF:-1,SHOW MAX
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520365&extension=ts&play_token=H0QQjCjunc
-#EXTINF:-1  tvg-name="TR| TV 8 4K" group-title="TV - TR | TURKISH",TR| TV 8 4K
+#EXTINF:-1,TV 8 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520364&extension=ts&play_token=h8Wdx4SOjD
-#EXTINF:-1  tvg-name="TR| TV 8 HD" group-title="TV - TR | TURKISH",TR| TV 8 HD
+#EXTINF:-1,TV 8 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520363&extension=ts&play_token=vgH6cuLV7v
-#EXTINF:-1  tvg-name="TR| TV 8 EU" group-title="TV - TR | TURKISH",TR| TV 8 EU
+#EXTINF:-1,TV 8 EU
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520362&extension=ts&play_token=5q7PzjFopQ
-#EXTINF:-1  tvg-name="TR| TV8 5 4K" group-title="TV - TR | TURKISH",TR| TV8 5 4K
+#EXTINF:-1,TV8 5 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520361&extension=ts&play_token=cxa5v1rAA6
-#EXTINF:-1  tvg-name="TR| TV8.5 HD" group-title="TV - TR | TURKISH",TR| TV8.5 HD
+#EXTINF:-1,TV8.5 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520360&extension=ts&play_token=qNhhHuc349
-#EXTINF:-1  tvg-name="TR| FOX TV 4K" group-title="TV - TR | TURKISH",TR| FOX TV 4K
+#EXTINF:-1,FOX TV 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520359&extension=ts&play_token=70bX2JnhhL
-#EXTINF:-1  tvg-name="TR| FOX TV HD" group-title="TV - TR | TURKISH",TR| FOX TV HD
+#EXTINF:-1,FOX TV HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520358&extension=ts&play_token=fAKUtV7x7A
-#EXTINF:-1  tvg-name="TR| BEYAZ TV 4K" tvg-id="Z(French).ca" group-title="TV - TR | TURKISH",TR| BEYAZ TV 4K
+#EXTINF:-1,BEYAZ TV 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520357&extension=ts&play_token=r5HhMWE731
-#EXTINF:-1  tvg-name="TR| BEYAZ TV HD" tvg-id="Z(French).ca" group-title="TV - TR | TURKISH",TR| BEYAZ TV HD
+#EXTINF:-1,BEYAZ TV HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520356&extension=ts&play_token=3ZAHR4jNye
-#EXTINF:-1  tvg-name="TR| TEVE 2 4K" group-title="TV - TR | TURKISH",TR| TEVE 2 4K
+#EXTINF:-1,TEVE 2 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520355&extension=ts&play_token=BarEFcPSfo
-#EXTINF:-1  tvg-name="TR| EURO D" group-title="TV - TR | TURKISH",TR| EURO D
+#EXTINF:-1,EURO D
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520354&extension=ts&play_token=R3y5PYurH3
-#EXTINF:-1  tvg-name="TR| VAV TV" group-title="TV - TR | TURKISH",TR| VAV TV
+#EXTINF:-1,VAV TV
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520350&extension=ts&play_token=VIK2hxa4CP
-#EXTINF:-1  tvg-name="TR| TV 100" group-title="TV - TR | TURKISH",TR| TV 100
+#EXTINF:-1,TV 100
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520349&extension=ts&play_token=5zKfTrTg5G
-#EXTINF:-1  tvg-name="TR| KANAL 7 4K" group-title="TV - TR | TURKISH",TR| KANAL 7 4K
+#EXTINF:-1,KANAL 7 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520348&extension=ts&play_token=nnG9txp2fU
-#EXTINF:-1  tvg-name="TR| KANAL 7 HD" group-title="TV - TR | TURKISH",TR| KANAL 7 HD
+#EXTINF:-1,KANAL 7 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520347&extension=ts&play_token=nk6z1JrYze
-#EXTINF:-1  tvg-name="TR| KANAL 7 EU" group-title="TV - TR | TURKISH",TR| KANAL 7 EU
+#EXTINF:-1,KANAL 7 EU
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520346&extension=ts&play_token=QZ4YnPo9zJ
-#EXTINF:-1  tvg-name="TR| KANAL AVRUPA SAT" group-title="TV - TR | TURKISH",TR| KANAL AVRUPA SAT
+#EXTINF:-1,KANAL AVRUPA SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520345&extension=ts&play_token=DZKWYj1tFp
-#EXTINF:-1  tvg-name="TR| CINE 1 SAT" group-title="TV - TR | TURKISH",TR| CINE 1 SAT
+#EXTINF:-1,CINE 1 SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520310&extension=ts&play_token=kbGatRjflj
-#EXTINF:-1  tvg-name="TR| EURO D SAT" group-title="TV - TR | TURKISH",TR| EURO D SAT
+#EXTINF:-1,EURO D SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520299&extension=ts&play_token=LmcxhiNAi2
-#EXTINF:-1  tvg-name="TR| EUROSTAR SAT" tvg-id="Star(English).ca" group-title="TV - TR | TURKISH",TR| EUROSTAR SAT
+#EXTINF:-1,EUROSTAR SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520298&extension=ts&play_token=g6GLEK9SFG
-#EXTINF:-1  tvg-name="TR| TELE 1 SAT" group-title="TV - TR | TURKISH",TR| TELE 1 SAT
+#EXTINF:-1,TELE 1 SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520246&extension=ts&play_token=TexpuYzVpM
-#EXTINF:-1  tvg-name="TR| TEVE2 SAT" group-title="TV - TR | TURKISH",TR| TEVE2 SAT
+#EXTINF:-1,TEVE2 SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520244&extension=ts&play_token=01jHV4maK2
-#EXTINF:-1  tvg-name="TR| TGRT EU SAT" group-title="TV - TR | TURKISH",TR| TGRT EU SAT
+#EXTINF:-1,TGRT EU SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520243&extension=ts&play_token=5Mi029Fonm
-#EXTINF:-1  tvg-name="TR| 24 SAT" group-title="TV - TR | TURKISH",TR| 24 SAT
+#EXTINF:-1,24 SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520238&extension=ts&play_token=pXVcjzEbVH
-#EXTINF:-1  tvg-name="TR| TV 1 SAT" group-title="TV - TR | TURKISH",TR| TV 1 SAT
+#EXTINF:-1,TV 1 SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520229&extension=ts&play_token=JlFu6ta9CP
-#EXTINF:-1  tvg-name="TR| TV 8 INT SAT" group-title="TV - TR | TURKISH",TR| TV 8 INT SAT
+#EXTINF:-1,TV 8 INT SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520225&extension=ts&play_token=4Ya9Hcb5do
-#EXTINF:-1  tvg-name="TR| A HABER 4K" group-title="TV - TR | TURKISH",TR| A HABER 4K
+#EXTINF:-1,A HABER 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520215&extension=ts&play_token=TZKdpKlhd9
-#EXTINF:-1  tvg-name="TR| A HABER SAT" group-title="TV - TR | TURKISH",TR| A HABER SAT
+#EXTINF:-1,A HABER SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520214&extension=ts&play_token=g3NDzTMwLr
-#EXTINF:-1  tvg-name="TR| TRT HABER HD" group-title="TV - TR | TURKISH",TR| TRT HABER HD
+#EXTINF:-1,TRT HABER HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520213&extension=ts&play_token=HCjy77Z9jB
-#EXTINF:-1  tvg-name="TR| TGRT HABER" group-title="TV - TR | TURKISH",TR| TGRT HABER
+#EXTINF:-1,TGRT HABER
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520212&extension=ts&play_token=SX9t14Q9za
-#EXTINF:-1  tvg-name="TR| TGRT HABER SAT" group-title="TV - TR | TURKISH",TR| TGRT HABER SAT
+#EXTINF:-1,TGRT HABER SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520211&extension=ts&play_token=kQ5jZGnr7U
-#EXTINF:-1  tvg-name="TR| HABER GLOBAL SAT" group-title="TV - TR | TURKISH",TR| HABER GLOBAL SAT
+#EXTINF:-1,HABER GLOBAL SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520210&extension=ts&play_token=C1VZjIt7FA
-#EXTINF:-1  tvg-name="TR| HABERTURK SAT" group-title="TV - TR | TURKISH",TR| HABERTURK SAT
+#EXTINF:-1,HABERTURK SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520209&extension=ts&play_token=YDRNq1U86E
-#EXTINF:-1  tvg-name="TR| TRT TURK HD" group-title="TV - TR | TURKISH",TR| TRT TURK HD
+#EXTINF:-1,TRT TURK HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520208&extension=ts&play_token=7aVGG9cjvB
-#EXTINF:-1  tvg-name="TR| NTV 4K" tvg-id="NTV(English).ca" group-title="TV - TR | TURKISH",TR| NTV 4K
+#EXTINF:-1,NTV 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520207&extension=ts&play_token=1ZZeXEkKK8
-#EXTINF:-1  tvg-name="TR| CNN TURK HD" tvg-id="CNN(English).ca" group-title="TV - TR | TURKISH",TR| CNN TURK HD
+#EXTINF:-1,CNN TURK HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520206&extension=ts&play_token=DADC2mBJvX
-#EXTINF:-1  tvg-name="TR| CNN TÜRK SAT" tvg-id="CNN(English).ca" group-title="TV - TR | TURKISH",TR| CNN TÜRK SAT
+#EXTINF:-1,CNN TÜRK SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520205&extension=ts&play_token=RIXkxVnTni
-#EXTINF:-1  tvg-name="TR| 360 4K" group-title="TV - TR | TURKISH",TR| 360 4K
+#EXTINF:-1,360 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520204&extension=ts&play_token=8TGXtidet5
-#EXTINF:-1  tvg-name="TR| HALK TV" group-title="TV - TR | TURKISH",TR| HALK TV
+#EXTINF:-1,HALK TV
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520203&extension=ts&play_token=QClP0DALwO
-#EXTINF:-1  tvg-name="TR| HALK SAT" group-title="TV - TR | TURKISH",TR| HALK SAT
+#EXTINF:-1,HALK SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520202&extension=ts&play_token=QZ3DdnJgcg
-#EXTINF:-1  tvg-name="TR| TGRT BELGESEL" group-title="TV - TR | TURKISH",TR| TGRT BELGESEL
+#EXTINF:-1,TGRT BELGESEL
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520201&extension=ts&play_token=f15eveld7r
-#EXTINF:-1  tvg-name="TR| TRT DIYANET" group-title="TV - TR | TURKISH",TR| TRT DIYANET
+#EXTINF:-1,TRT DIYANET
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520200&extension=ts&play_token=rCDf51PJk3
-#EXTINF:-1  tvg-name="TR| TRT WORLD HD" group-title="TV - TR | TURKISH",TR| TRT WORLD HD
+#EXTINF:-1,TRT WORLD HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520199&extension=ts&play_token=WM1b97mdXv
-#EXTINF:-1  tvg-name="TR| TRT DIYANET HD" group-title="TV - TR | TURKISH",TR| TRT DIYANET HD
+#EXTINF:-1,TRT DIYANET HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520198&extension=ts&play_token=OTtZqdoXNs
-#EXTINF:-1  tvg-name="TR| HABER TURK" group-title="TV - TR | TURKISH",TR| HABER TURK
+#EXTINF:-1,HABER TURK
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520197&extension=ts&play_token=CuSrlargL2
-#EXTINF:-1  tvg-name="TR| BLOOMBERGHT 4K" group-title="TV - TR | TURKISH",TR| BLOOMBERGHT 4K
+#EXTINF:-1,BLOOMBERGHT 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520195&extension=ts&play_token=0xZWqmdvgV
-#EXTINF:-1  tvg-name="TR| TELE 1" group-title="TV - TR | TURKISH",TR| TELE 1
+#EXTINF:-1,TELE 1
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520193&extension=ts&play_token=pU6RehlATM
-#EXTINF:-1  tvg-name="TR| ULUSAL KANAL" group-title="TV - TR | TURKISH",TR| ULUSAL KANAL
+#EXTINF:-1,ULUSAL KANAL
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520192&extension=ts&play_token=foYQQFAzCH
-#EXTINF:-1  tvg-name="TR| TVNET HD" group-title="TV - TR | TURKISH",TR| TVNET HD
+#EXTINF:-1,TVNET HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520191&extension=ts&play_token=OTrQPFe8NE
-#EXTINF:-1  tvg-name="TR| ULKE TV HD" group-title="TV - TR | TURKISH",TR| ULKE TV HD
+#EXTINF:-1,ULKE TV HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520187&extension=ts&play_token=gpgp2Yps5i
-#EXTINF:-1  tvg-name="TR| TAY-TJK TV" group-title="TV - TR | TURKISH",TR| TAY-TJK TV
+#EXTINF:-1,TAY-TJK TV
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520177&extension=ts&play_token=J7DiHuGr2C
-#EXTINF:-1  tvg-name="TR| CARTOON NETWORK" tvg-id="CartoonNetwork.fr" group-title="TV - TR | TURKISH",TR| CARTOON NETWORK
+#EXTINF:-1,CARTOON NETWORK
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520176&extension=ts&play_token=k8DTqgEb3n
-#EXTINF:-1  tvg-name="TR| TRT COCUK" group-title="TV - TR | TURKISH",TR| TRT COCUK
+#EXTINF:-1,TRT COCUK
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520175&extension=ts&play_token=KzGUB4dJI3
-#EXTINF:-1  tvg-name="TR| MINIKA COCUK" group-title="TV - TR | TURKISH",TR| MINIKA COCUK
+#EXTINF:-1,MINIKA COCUK
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520174&extension=ts&play_token=2gBJJN4uLz
-#EXTINF:-1  tvg-name="TR| MINIKA COCUK" group-title="TV - TR | TURKISH",TR| MINIKA COCUK
+#EXTINF:-1,MINIKA COCUK
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520173&extension=ts&play_token=rd45JB82wd
-#EXTINF:-1  tvg-name="TR| MINIKA GO" group-title="TV - TR | TURKISH",TR| MINIKA GO
+#EXTINF:-1,MINIKA GO
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520172&extension=ts&play_token=gWx4i2xpmc
-#EXTINF:-1  tvg-name="TR| NICKELODEON HD" tvg-id="Nickelodeon.fr" group-title="TV - TR | TURKISH",TR| NICKELODEON HD
+#EXTINF:-1,NICKELODEON HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520171&extension=ts&play_token=jgdZbytLR5
-#EXTINF:-1  tvg-name="TR| NICK JR" tvg-id="NickelodeonJunior.fr" group-title="TV - TR | TURKISH",TR| NICK JR
+#EXTINF:-1,NICK JR
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520170&extension=ts&play_token=TrhdIQD1zA
-#EXTINF:-1  tvg-name="TR| DISNEY JR" group-title="TV - TR | TURKISH",TR| DISNEY JR
+#EXTINF:-1,DISNEY JR
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520169&extension=ts&play_token=pzjJDiTHfj
-#EXTINF:-1  tvg-name="TR| DISNEY JUNIOR" tvg-id="DisneyJuniorFrance.fr" group-title="TV - TR | TURKISH",TR| DISNEY JUNIOR
+#EXTINF:-1,DISNEY JUNIOR
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520168&extension=ts&play_token=fzeVc1KxtJ
-#EXTINF:-1  tvg-name="TR| DISNEY JUNIOR" tvg-id="DisneyJuniorFrance.fr" group-title="TV - TR | TURKISH",TR| DISNEY JUNIOR
+#EXTINF:-1,DISNEY JUNIOR
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520167&extension=ts&play_token=bAnC3exhVx
-#EXTINF:-1  tvg-name="TR| BABY TV" tvg-id="BabyTV.fr" group-title="TV - TR | TURKISH",TR| BABY TV
+#EXTINF:-1,BABY TV
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520166&extension=ts&play_token=jnMFqVeiUn
-#EXTINF:-1  tvg-name="TR| BOOMERANG" tvg-id="Boomerang.fr" group-title="TV - TR | TURKISH",TR| BOOMERANG
+#EXTINF:-1,BOOMERANG
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520165&extension=ts&play_token=xUlG3rSD2v
-#EXTINF:-1  tvg-name="TR| MINIBOX PIJAMASKELILER" group-title="TV - TR | TURKISH",TR| MINIBOX PIJAMASKELILER
+#EXTINF:-1,MINIBOX PIJAMASKELILER
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520164&extension=ts&play_token=Ryl4WmdjON
-#EXTINF:-1  tvg-name="TR| MINIBOX MASHA ILE KOCA AYI" group-title="TV - TR | TURKISH",TR| MINIBOX MASHA ILE KOCA AYI
+#EXTINF:-1,MINIBOX MASHA ILE KOCA AYI
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520163&extension=ts&play_token=jyFu4EsDLP
-#EXTINF:-1  tvg-name="TR| MINIBOX LIMON ILE ZEYTIN" tvg-id="Z(French).ca" group-title="TV - TR | TURKISH",TR| MINIBOX LIMON ILE ZEYTIN
+#EXTINF:-1,MINIBOX LIMON ILE ZEYTIN
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520162&extension=ts&play_token=q8IOWlUf04
-#EXTINF:-1  tvg-name="TR| MINIBOX KUKULI" group-title="TV - TR | TURKISH",TR| MINIBOX KUKULI
+#EXTINF:-1,MINIBOX KUKULI
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520161&extension=ts&play_token=xHbxUvXoRk
-#EXTINF:-1  tvg-name="TR| MINIBOX KRAL SAKIR" group-title="TV - TR | TURKISH",TR| MINIBOX KRAL SAKIR
+#EXTINF:-1,MINIBOX KRAL SAKIR
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520160&extension=ts&play_token=tCq1UEw2jx
-#EXTINF:-1  tvg-name="TR| MINIBOX CANIM KARDESIM" group-title="TV - TR | TURKISH",TR| MINIBOX CANIM KARDESIM
+#EXTINF:-1,MINIBOX CANIM KARDESIM
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520159&extension=ts&play_token=vmkczSPxu7
-#EXTINF:-1  tvg-name="TR| ANiMAUX HD" tvg-id="Animaux.fr" group-title="TV - TR | TURKISH",TR| ANiMAUX HD
+#EXTINF:-1,ANiMAUX HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520158&extension=ts&play_token=HCcLgDf5l8
-#EXTINF:-1  tvg-name="TR| PEPE TV" group-title="TV - TR | TURKISH",TR| PEPE TV
+#EXTINF:-1,PEPE TV
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520157&extension=ts&play_token=n28x8ejnwi
-#EXTINF:-1  tvg-name="TR| SMART COCUK" group-title="TV - TR | TURKISH",TR| SMART COCUK
+#EXTINF:-1,SMART COCUK
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520156&extension=ts&play_token=vjwXSFRT1X
-#EXTINF:-1  tvg-name="TR| CBEEBIES TV" group-title="TV - TR | TURKISH",TR| CBEEBIES TV
+#EXTINF:-1,CBEEBIES TV
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520155&extension=ts&play_token=pTrWJBONQK
-#EXTINF:-1  tvg-name="TR| FILM TV" group-title="TV - TR | TURKISH",TR| FILM TV
+#EXTINF:-1,FILM TV
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520154&extension=ts&play_token=jiNPAbYOpa
-#EXTINF:-1  tvg-name="TR| babbyHD BRIKO" group-title="TV - TR | TURKISH",TR| babbyHD BRIKO
+#EXTINF:-1,babbyHD BRIKO
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520153&extension=ts&play_token=UJHZi2dGC7
-#EXTINF:-1  tvg-name="TR| babby HD SEVIMLI DOSTLAR" group-title="TV - TR | TURKISH",TR| babby HD SEVIMLI DOSTLAR
+#EXTINF:-1,babby HD SEVIMLI DOSTLAR
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520152&extension=ts&play_token=S9lROwQXf4
-#EXTINF:-1  tvg-name="TR| TRT BELGESEL" group-title="TV - TR | TURKISH",TR| TRT BELGESEL
+#EXTINF:-1,TRT BELGESEL
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520151&extension=ts&play_token=tJHF1wmwjS
-#EXTINF:-1  tvg-name="TR| YABAN TV" group-title="TV - TR | TURKISH",TR| YABAN TV
+#EXTINF:-1,YABAN TV
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520150&extension=ts&play_token=Dt4tbfxYei
-#EXTINF:-1  tvg-name="TR| DISCOVERY CHANNEL" tvg-id="DiscoveryChannel(src01).fr" group-title="TV - TR | TURKISH",TR| DISCOVERY CHANNEL
+#EXTINF:-1,DISCOVERY CHANNEL
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520149&extension=ts&play_token=WC9mN9ltyh
-#EXTINF:-1  tvg-name="TR| DISCOVERY CHANNEL SAT" tvg-id="DiscoveryChannel(src01).fr" group-title="TV - TR | TURKISH",TR| DISCOVERY CHANNEL SAT
+#EXTINF:-1,DISCOVERY CHANNEL SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520148&extension=ts&play_token=UoEUh2Y6uZ
-#EXTINF:-1  tvg-name="TR| DISCOVERY CHANNEL HD" tvg-id="DiscoveryChannel(src01).fr" group-title="TV - TR | TURKISH",TR| DISCOVERY CHANNEL HD
+#EXTINF:-1,DISCOVERY CHANNEL HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520147&extension=ts&play_token=1632pjVbu2
-#EXTINF:-1  tvg-name="TR| DISCOVERY ID" tvg-id="Discovery.fr" group-title="TV - TR | TURKISH",TR| DISCOVERY ID
+#EXTINF:-1,DISCOVERY ID
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520146&extension=ts&play_token=1WW2q10FBV
-#EXTINF:-1  tvg-name="TR| DISCOVERY SIENCE" tvg-id="Discovery.fr" group-title="TV - TR | TURKISH",TR| DISCOVERY SIENCE
+#EXTINF:-1,DISCOVERY SIENCE
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520145&extension=ts&play_token=zDPRXMIpWi
-#EXTINF:-1  tvg-name="TR| NATIONAL GEOGRAPHIC WILD" tvg-id="NationalGeographicWild.fr" group-title="TV - TR | TURKISH",TR| NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520144&extension=ts&play_token=NPjoeOdp1R
-#EXTINF:-1  tvg-name="TR| NATIONAL GEOGRAPHIC" tvg-id="NationalGeographic.fr" group-title="TV - TR | TURKISH",TR| NATIONAL GEOGRAPHIC
+#EXTINF:-1,NATIONAL GEOGRAPHIC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520143&extension=ts&play_token=maviVDWWEP
-#EXTINF:-1  tvg-name="TR| BBC EARTH" tvg-id="BBCEarth(English).ca" group-title="TV - TR | TURKISH",TR| BBC EARTH
+#EXTINF:-1,BBC EARTH
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520142&extension=ts&play_token=pG3X3eid8f
-#EXTINF:-1  tvg-name="TR| HISTORY" tvg-id="History(English).ca" group-title="TV - TR | TURKISH",TR| HISTORY
+#EXTINF:-1,HISTORY
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520141&extension=ts&play_token=XIgTodM5V6
-#EXTINF:-1  tvg-name="TR| VIASAT EXPLORER" group-title="TV - TR | TURKISH",TR| VIASAT EXPLORER
+#EXTINF:-1,VIASAT EXPLORER
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520140&extension=ts&play_token=FUfNGmnUIq
-#EXTINF:-1  tvg-name="TR| VIASAT History HD" tvg-id="History(English).ca" group-title="TV - TR | TURKISH",TR| VIASAT History HD
+#EXTINF:-1,VIASAT History HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520139&extension=ts&play_token=IbfsnwIppI
-#EXTINF:-1  tvg-name="TR| DMAX" tvg-id="MAX(src01).ca" group-title="TV - TR | TURKISH",TR| DMAX
+#EXTINF:-1,DMAX
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520138&extension=ts&play_token=sNYBTR6QHy
-#EXTINF:-1  tvg-name="TR| TLC 4k" tvg-id="TLC.fr" group-title="TV - TR | TURKISH",TR| TLC 4k
+#EXTINF:-1,TLC 4k
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520137&extension=ts&play_token=VfI3CANNg6
-#EXTINF:-1  tvg-name="TR| BEIN GURME" group-title="TV - TR | TURKISH",TR| BEIN GURME
+#EXTINF:-1,BEIN GURME
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520136&extension=ts&play_token=svimnYsJtq
-#EXTINF:-1  tvg-name="TR| DA VINCI LEARNING" group-title="TV - TR | TURKISH",TR| DA VINCI LEARNING
+#EXTINF:-1,DA VINCI LEARNING
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520135&extension=ts&play_token=AAhbbpuKHS
-#EXTINF:-1  tvg-name="TR| VIASAT NATURE" group-title="TV - TR | TURKISH",TR| VIASAT NATURE
+#EXTINF:-1,VIASAT NATURE
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520134&extension=ts&play_token=qavaEVyks0
-#EXTINF:-1  tvg-name="TR| OUTDOOR" group-title="TV - TR | TURKISH",TR| OUTDOOR
+#EXTINF:-1,OUTDOOR
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520133&extension=ts&play_token=PruovbMeXJ
-#EXTINF:-1  tvg-name="TR| FAST AND FUN HD" group-title="TV - TR | TURKISH",TR| FAST AND FUN HD
+#EXTINF:-1,FAST AND FUN HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520132&extension=ts&play_token=ZGZhUAiudO
-#EXTINF:-1  tvg-name="TR| SCIENCE & VIE HD" tvg-id="ScienceetVieTV.fr" group-title="TV - TR | TURKISH",TR| SCIENCE & VIE HD
+#EXTINF:-1,SCIENCE & VIE HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520131&extension=ts&play_token=1TAlI3W0nC
-#EXTINF:-1  tvg-name="TR| CHASSE ET PECHE" tvg-id="ChasseetPeche.fr" group-title="TV - TR | TURKISH",TR| CHASSE ET PECHE
+#EXTINF:-1,CHASSE ET PECHE
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520130&extension=ts&play_token=KdbVkAOOgb
-#EXTINF:-1  tvg-name="TR| DOCUBOX HD" group-title="TV - TR | TURKISH",TR| DOCUBOX HD
+#EXTINF:-1,DOCUBOX HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520129&extension=ts&play_token=68kgQnv36X
-#EXTINF:-1  tvg-name="TR| DEEP BLUES" group-title="TV - TR | TURKISH",TR| DEEP BLUES
+#EXTINF:-1,DEEP BLUES
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520128&extension=ts&play_token=wDiwNbTQug
-#EXTINF:-1  tvg-name="TR| SİNEMA TV HD" tvg-id="MATV(src01).fr" group-title="TV - TR | TURKISH",TR| SİNEMA TV HD
+#EXTINF:-1,SİNEMA TV HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520111&extension=ts&play_token=TZEii0vNcX
-#EXTINF:-1  tvg-name="TR| SINEMA TV" tvg-id="MATV(src01).fr" group-title="TV - TR | TURKISH",TR| SINEMA TV
+#EXTINF:-1,SINEMA TV
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520110&extension=ts&play_token=szmer3Avs1
-#EXTINF:-1  tvg-name="TR| SINEMA TV 1001 HD" tvg-id="MATV(src01).fr" group-title="TV - TR | TURKISH",TR| SINEMA TV 1001 HD
+#EXTINF:-1,SINEMA TV 1001 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520109&extension=ts&play_token=Ke9DAxu8U8
-#EXTINF:-1  tvg-name="TR| SINEMA TV 1002 HD" tvg-id="MATV(src01).fr" group-title="TV - TR | TURKISH",TR| SINEMA TV 1002 HD
+#EXTINF:-1,SINEMA TV 1002 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520108&extension=ts&play_token=jokmxiNUDC
-#EXTINF:-1  tvg-name="TR| SINEMA TV AKSIYON" tvg-id="MATV(src01).fr" group-title="TV - TR | TURKISH",TR| SINEMA TV AKSIYON
+#EXTINF:-1,SINEMA TV AKSIYON
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520107&extension=ts&play_token=sTkEJjUosu
-#EXTINF:-1  tvg-name="TR|SINEMA TV YERLI" tvg-id="MATV(src01).fr" group-title="TV - TR | TURKISH",TR|SINEMA TV YERLI
+#EXTINF:-1,TR|SINEMA TV YERLI
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520106&extension=ts&play_token=cPfP9Xgu7R
-#EXTINF:-1  tvg-name="TR| SINEMA TV KOMEDI 1 HD" tvg-id="MATV(src01).fr" group-title="TV - TR | TURKISH",TR| SINEMA TV KOMEDI 1 HD
+#EXTINF:-1,SINEMA TV KOMEDI 1 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520105&extension=ts&play_token=D8ClC9H2Vy
-#EXTINF:-1  tvg-name="TR| SINEMA TV AKSIYON 2 HD" tvg-id="MATV(src01).fr" group-title="TV - TR | TURKISH",TR| SINEMA TV AKSIYON 2 HD
+#EXTINF:-1,SINEMA TV AKSIYON 2 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520104&extension=ts&play_token=Rtr36yRtXJ
-#EXTINF:-1  tvg-name="TR| SINEMA TV AILE 2 HD" tvg-id="MATV(src01).fr" group-title="TV - TR | TURKISH",TR| SINEMA TV AILE 2 HD
+#EXTINF:-1,SINEMA TV AILE 2 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520103&extension=ts&play_token=4SZO7tvegu
-#EXTINF:-1  tvg-name="TR| SINEMA TV 2 HD" tvg-id="MATV(src01).fr" group-title="TV - TR | TURKISH",TR| SINEMA TV 2 HD
+#EXTINF:-1,SINEMA TV 2 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520102&extension=ts&play_token=gypAxX6LM8
-#EXTINF:-1  tvg-name="TR| SiNEMA TV 1001 HD" tvg-id="MATV(src01).fr" group-title="TV - TR | TURKISH",TR| SiNEMA TV 1001 HD
+#EXTINF:-1,SiNEMA TV 1001 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520101&extension=ts&play_token=UoJ8540o7g
-#EXTINF:-1  tvg-name="TR| SİNEMA TV KOMEDI 2" tvg-id="MATV(src01).fr" group-title="TV - TR | TURKISH",TR| SİNEMA TV KOMEDI 2
+#EXTINF:-1,SİNEMA TV KOMEDI 2
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520100&extension=ts&play_token=MeUO1uZsQR
-#EXTINF:-1  tvg-name="TR| SİNEMA AİLE HD" group-title="TV - TR | TURKISH",TR| SİNEMA AİLE HD
+#EXTINF:-1,SİNEMA AİLE HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520099&extension=ts&play_token=bV824vGFnN
-#EXTINF:-1  tvg-name="TR| SINEVIZYON" tvg-id="Z(French).ca" group-title="TV - TR | TURKISH",TR| SINEVIZYON
+#EXTINF:-1,SINEVIZYON
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520098&extension=ts&play_token=1O7HuGOR06
-#EXTINF:-1  tvg-name="TR| FX" tvg-id="FX(English).ca" group-title="TV - TR | TURKISH",TR| FX
+#EXTINF:-1,FX
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520097&extension=ts&play_token=UzBluOmFOC
-#EXTINF:-1  tvg-name="TR| BEIN BOX OFFICE 1" group-title="TV - TR | TURKISH",TR| BEIN BOX OFFICE 1
+#EXTINF:-1,BEIN BOX OFFICE 1
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520096&extension=ts&play_token=RaAMZUgPYL
-#EXTINF:-1  tvg-name="TR| BEIN BOX OFFICE 2" group-title="TV - TR | TURKISH",TR| BEIN BOX OFFICE 2
+#EXTINF:-1,BEIN BOX OFFICE 2
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520095&extension=ts&play_token=6IDR1uEkX1
-#EXTINF:-1  tvg-name="TR| BEIN BOX OFFICE 3" group-title="TV - TR | TURKISH",TR| BEIN BOX OFFICE 3
+#EXTINF:-1,BEIN BOX OFFICE 3
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520094&extension=ts&play_token=RncscIvs9g
-#EXTINF:-1  tvg-name="TR| BEIN MOVIES ACTION" tvg-id="Action.fr" group-title="TV - TR | TURKISH",TR| BEIN MOVIES ACTION
+#EXTINF:-1,BEIN MOVIES ACTION
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520093&extension=ts&play_token=gqjrjpeaCY
-#EXTINF:-1  tvg-name="TR| BEIN MOVIES ACTION 2" tvg-id="Action.fr" group-title="TV - TR | TURKISH",TR| BEIN MOVIES ACTION 2
+#EXTINF:-1,BEIN MOVIES ACTION 2
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520092&extension=ts&play_token=UkVMFaSwyU
-#EXTINF:-1  tvg-name="TR| BEIN MOVIES ACTION 2HD" tvg-id="Action.fr" group-title="TV - TR | TURKISH",TR| BEIN MOVIES ACTION 2HD
+#EXTINF:-1,BEIN MOVIES ACTION 2HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520091&extension=ts&play_token=MnjQZuKxAE
-#EXTINF:-1  tvg-name="TR| BEIN MOVIES Premiere" group-title="TV - TR | TURKISH",TR| BEIN MOVIES Premiere
+#EXTINF:-1,BEIN MOVIES Premiere
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520090&extension=ts&play_token=psW58I44Mf
-#EXTINF:-1  tvg-name="TR| BEIN MOVIES PREMIER" group-title="TV - TR | TURKISH",TR| BEIN MOVIES PREMIER
+#EXTINF:-1,BEIN MOVIES PREMIER
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520089&extension=ts&play_token=QBRKGVhvtt
-#EXTINF:-1  tvg-name="TR| BEIN MOVIES PREMIER 2" group-title="TV - TR | TURKISH",TR| BEIN MOVIES PREMIER 2
+#EXTINF:-1,BEIN MOVIES PREMIER 2
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520088&extension=ts&play_token=O2VtB6nLqb
-#EXTINF:-1  tvg-name="TR| BEIN  SERIES 2" group-title="TV - TR | TURKISH",TR| BEIN  SERIES 2
+#EXTINF:-1,BEIN  SERIES 2
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520087&extension=ts&play_token=SkLhljAC4P
-#EXTINF:-1  tvg-name="TR| BEIN SERIES VICE" group-title="TV - TR | TURKISH",TR| BEIN SERIES VICE
+#EXTINF:-1,BEIN SERIES VICE
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520086&extension=ts&play_token=PmtrphFsIr
-#EXTINF:-1  tvg-name="TR| BEIN MOVIES STARS" tvg-id="Star(English).ca" group-title="TV - TR | TURKISH",TR| BEIN MOVIES STARS
+#EXTINF:-1,BEIN MOVIES STARS
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520085&extension=ts&play_token=FmrpBHBKwe
-#EXTINF:-1  tvg-name="TR| BEIN MOVIES TURK" group-title="TV - TR | TURKISH",TR| BEIN MOVIES TURK
+#EXTINF:-1,BEIN MOVIES TURK
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520084&extension=ts&play_token=vQxnxE0iqq
-#EXTINF:-1  tvg-name="TR| BEIN SERIES VICE HD" group-title="TV - TR | TURKISH",TR| BEIN SERIES VICE HD
+#EXTINF:-1,BEIN SERIES VICE HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520083&extension=ts&play_token=wQvbWRmHf3
-#EXTINF:-1  tvg-name="TR| MAX ORJINAL HD" tvg-id="MAX(src01).ca" group-title="TV - TR | TURKISH",TR| MAX ORJINAL HD
+#EXTINF:-1,MAX ORJINAL HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520082&extension=ts&play_token=m56Z14stwO
-#EXTINF:-1  tvg-name="TR| CINE KEMAL SUNAL 1 HD" group-title="TV - TR | TURKISH",TR| CINE KEMAL SUNAL 1 HD
+#EXTINF:-1,CINE KEMAL SUNAL 1 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520081&extension=ts&play_token=iDEvcMWUCG
-#EXTINF:-1  tvg-name="TR| BOSS KEMAL SUNAL 2" group-title="TV - TR | TURKISH",TR| BOSS KEMAL SUNAL 2
+#EXTINF:-1,BOSS KEMAL SUNAL 2
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520080&extension=ts&play_token=ZGGVCNBuow
-#EXTINF:-1  tvg-name="TR| DIZI SMART PREMIUM" tvg-id="Z(French).ca" group-title="TV - TR | TURKISH",TR| DIZI SMART PREMIUM
+#EXTINF:-1,DIZI SMART PREMIUM
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520079&extension=ts&play_token=yNIsqwejsU
-#EXTINF:-1  tvg-name="TR| MOVIESMART CLASSIC" group-title="TV - TR | TURKISH",TR| MOVIESMART CLASSIC
+#EXTINF:-1,MOVIESMART CLASSIC
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520078&extension=ts&play_token=l3W5SYrVTo
-#EXTINF:-1  tvg-name="TR| MOVIESMART PREMIUM 2" group-title="TV - TR | TURKISH",TR| MOVIESMART PREMIUM 2
+#EXTINF:-1,MOVIESMART PREMIUM 2
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520077&extension=ts&play_token=JugMHQXcrn
-#EXTINF:-1  tvg-name="TR| MOVIESMART TURK" group-title="TV - TR | TURKISH",TR| MOVIESMART TURK
+#EXTINF:-1,MOVIESMART TURK
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520076&extension=ts&play_token=BQbkOheDNM
-#EXTINF:-1  tvg-name="TR| MILYON TV" group-title="TV - TR | TURKISH",TR| MILYON TV
+#EXTINF:-1,MILYON TV
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520075&extension=ts&play_token=d1fCk3q3lm
-#EXTINF:-1  tvg-name="TR| TURKASAT 7" group-title="TV - TR | TURKISH",TR| TURKASAT 7
+#EXTINF:-1,TURKASAT 7
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520074&extension=ts&play_token=U84CSz9WZx
-#EXTINF:-1  tvg-name="TR|KORKU  TURKASAT" group-title="TV - TR | TURKISH",TR|KORKU  TURKASAT
+#EXTINF:-1,TR|KORKU  TURKASAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520073&extension=ts&play_token=39F6SaH376
-#EXTINF:-1  tvg-name="TR|  YESILCAM 1" group-title="TV - TR | TURKISH",TR|  YESILCAM 1
+#EXTINF:-1, YESILCAM 1
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520072&extension=ts&play_token=p2qWkvNNzj
-#EXTINF:-1  tvg-name="TR| ENO YESILCAM 1" group-title="TV - TR | TURKISH",TR| ENO YESILCAM 1
+#EXTINF:-1,ENO YESILCAM 1
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520071&extension=ts&play_token=DstJs5YZRB
-#EXTINF:-1  tvg-name="TR| ENO TURK 1" group-title="TV - TR | TURKISH",TR| ENO TURK 1
+#EXTINF:-1,ENO TURK 1
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520070&extension=ts&play_token=RiiSoN9kV8
-#EXTINF:-1  tvg-name="TR| FILMBOX HD" group-title="TV - TR | TURKISH",TR| FILMBOX HD
+#EXTINF:-1,FILMBOX HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520069&extension=ts&play_token=rgRsF3badR
-#EXTINF:-1  tvg-name="TR| MAXIMUM" tvg-id="MAX(src01).ca" group-title="TV - TR | TURKISH",TR| MAXIMUM
+#EXTINF:-1,MAXIMUM
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520068&extension=ts&play_token=P9TReXUboG
-#EXTINF:-1  tvg-name="TR| BLUTV AKSIYON" group-title="TV - TR | TURKISH",TR| BLUTV AKSIYON
+#EXTINF:-1,BLUTV AKSIYON
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520067&extension=ts&play_token=QIV0Efe1LZ
-#EXTINF:-1  tvg-name="TR| TVR SINEMA" group-title="TV - TR | TURKISH",TR| TVR SINEMA
+#EXTINF:-1,TVR SINEMA
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520066&extension=ts&play_token=Hvda6sVi2L
-#EXTINF:-1  tvg-name="TR| TURKASAT TURK" group-title="TV - TR | TURKISH",TR| TURKASAT TURK
+#EXTINF:-1,TURKASAT TURK
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520065&extension=ts&play_token=zgspxjoght
-#EXTINF:-1  tvg-name="TR| ENO WESTERN" group-title="TV - TR | TURKISH",TR| ENO WESTERN
+#EXTINF:-1,ENO WESTERN
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520064&extension=ts&play_token=O95aPULtUS
-#EXTINF:-1  tvg-name="TR| TURKASAT YESILCAM" group-title="TV - TR | TURKISH",TR| TURKASAT YESILCAM
+#EXTINF:-1,TURKASAT YESILCAM
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520063&extension=ts&play_token=bRDi8R3vE2
-#EXTINF:-1  tvg-name="TR| LOCA" group-title="TV - TR | TURKISH",TR| LOCA
+#EXTINF:-1,LOCA
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520062&extension=ts&play_token=WU32Gcce30
-#EXTINF:-1  tvg-name="TR| KEMAL SUNAL TV" group-title="TV - TR | TURKISH",TR| KEMAL SUNAL TV
+#EXTINF:-1,KEMAL SUNAL TV
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520061&extension=ts&play_token=CZdWYHyz4A
-#EXTINF:-1  tvg-name="TR| BEIN IZ HD" tvg-id="Z(French).ca" group-title="TV - TR | TURKISH",TR| BEIN IZ HD
+#EXTINF:-1,BEIN IZ HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520060&extension=ts&play_token=dIZD3vFWrw
-#EXTINF:-1  tvg-name="TR| FOX CRIME HD" group-title="TV - TR | TURKISH",TR| FOX CRIME HD
+#EXTINF:-1,FOX CRIME HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520059&extension=ts&play_token=ei8APCLZXB
-#EXTINF:-1  tvg-name="TR| GURBET ERZINCAN" tvg-id="BET.fr" group-title="TV - TR | TURKISH",TR| GURBET ERZINCAN
+#EXTINF:-1,GURBET ERZINCAN
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520058&extension=ts&play_token=PlFYLJ8hdr
-#EXTINF:-1  tvg-name="TR| TURKAmax SALON 1 HD" tvg-id="MAX(src01).ca" group-title="TV - TR | TURKISH",TR| TURKAmax SALON 1 HD
+#EXTINF:-1,TURKAmax SALON 1 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520057&extension=ts&play_token=pAqeTrJP2B
-#EXTINF:-1  tvg-name="TR| TURKAmax SALON 2 HD" tvg-id="MAX(src01).ca" group-title="TV - TR | TURKISH",TR| TURKAmax SALON 2 HD
+#EXTINF:-1,TURKAmax SALON 2 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520056&extension=ts&play_token=BuQOZJ2P4S
-#EXTINF:-1  tvg-name="TR| TURKAmax SALON 3 HD" tvg-id="MAX(src01).ca" group-title="TV - TR | TURKISH",TR| TURKAmax SALON 3 HD
+#EXTINF:-1,TURKAmax SALON 3 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520055&extension=ts&play_token=W9EsPsf9lt
-#EXTINF:-1  tvg-name="TR| TURKAmax SALON 4 HD" tvg-id="MAX(src01).ca" group-title="TV - TR | TURKISH",TR| TURKAmax SALON 4 HD
+#EXTINF:-1,TURKAmax SALON 4 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520054&extension=ts&play_token=dxJcpM3a74
-#EXTINF:-1  tvg-name="TR| TURKAmax SALON 5 HD" tvg-id="MAX(src01).ca" group-title="TV - TR | TURKISH",TR| TURKAmax SALON 5 HD
+#EXTINF:-1,TURKAmax SALON 5 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520053&extension=ts&play_token=kZjkCdFEFD
-#EXTINF:-1  tvg-name="TR| TURKAmax SALON 6 HD" tvg-id="MAX(src01).ca" group-title="TV - TR | TURKISH",TR| TURKAmax SALON 6 HD
+#EXTINF:-1,TURKAmax SALON 6 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520052&extension=ts&play_token=FOd7bRMioN
-#EXTINF:-1  tvg-name="TR| TURKAmax SALON 7 HD" tvg-id="MAX(src01).ca" group-title="TV - TR | TURKISH",TR| TURKAmax SALON 7 HD
+#EXTINF:-1,TURKAmax SALON 7 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520051&extension=ts&play_token=IEhJjEU9gk
-#EXTINF:-1  tvg-name="TR| LUXTV COCUK 1 HD" group-title="TV - TR | TURKISH",TR| LUXTV COCUK 1 HD
+#EXTINF:-1,LUXTV COCUK 1 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520050&extension=ts&play_token=Mvlj7XUp5H
-#EXTINF:-1  tvg-name="TR| LUXTV COCUK 2 HD" group-title="TV - TR | TURKISH",TR| LUXTV COCUK 2 HD
+#EXTINF:-1,LUXTV COCUK 2 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520049&extension=ts&play_token=4wkEyqeTPI
-#EXTINF:-1  tvg-name="TR| TURKAsat KEMAL SUNAL HD" group-title="TV - TR | TURKISH",TR| TURKAsat KEMAL SUNAL HD
+#EXTINF:-1,TURKAsat KEMAL SUNAL HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520048&extension=ts&play_token=mAyU0mXOVb
-#EXTINF:-1  tvg-name="TR| TURKAsat KORKU 1 HD" group-title="TV - TR | TURKISH",TR| TURKAsat KORKU 1 HD
+#EXTINF:-1,TURKAsat KORKU 1 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520047&extension=ts&play_token=qwW3xkTNbR
-#EXTINF:-1  tvg-name="TR| TURKAsat ANIMASYON 1 HD" group-title="TV - TR | TURKISH",TR| TURKAsat ANIMASYON 1 HD
+#EXTINF:-1,TURKAsat ANIMASYON 1 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520046&extension=ts&play_token=ZvIlRR8jq6
-#EXTINF:-1  tvg-name="TR| TURKAsat TURK 1 HD" group-title="TV - TR | TURKISH",TR| TURKAsat TURK 1 HD
+#EXTINF:-1,TURKAsat TURK 1 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520045&extension=ts&play_token=vGmMnDq0fQ
-#EXTINF:-1  tvg-name="TR| TURKAsat KOMEDI 2 HD" group-title="TV - TR | TURKISH",TR| TURKAsat KOMEDI 2 HD
+#EXTINF:-1,TURKAsat KOMEDI 2 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520044&extension=ts&play_token=kLWePSauoX
-#EXTINF:-1  tvg-name="TR| moovie AKSIYON 1 HD" group-title="TV - TR | TURKISH",TR| moovie AKSIYON 1 HD
+#EXTINF:-1,moovie AKSIYON 1 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520043&extension=ts&play_token=81MBAFdWdA
-#EXTINF:-1  tvg-name="TR| moovie AKSIYON 2 HD" group-title="TV - TR | TURKISH",TR| moovie AKSIYON 2 HD
+#EXTINF:-1,moovie AKSIYON 2 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520042&extension=ts&play_token=igda3rnohv
-#EXTINF:-1  tvg-name="TR| moovieHD KOMEDI HD" group-title="TV - TR | TURKISH",TR| moovieHD KOMEDI HD
+#EXTINF:-1,moovieHD KOMEDI HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520041&extension=ts&play_token=pjg7mhZulM
-#EXTINF:-1  tvg-name="TR| moovieHD KORKU 2 HD" group-title="TV - TR | TURKISH",TR| moovieHD KORKU 2 HD
+#EXTINF:-1,moovieHD KORKU 2 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520040&extension=ts&play_token=BypN2c5f4C
-#EXTINF:-1  tvg-name="TR| moovie TURK 2 HD" group-title="TV - TR | TURKISH",TR| moovie TURK 2 HD
+#EXTINF:-1,moovie TURK 2 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520039&extension=ts&play_token=RkuRi26dGM
-#EXTINF:-1  tvg-name="TR| moovie TURK 3 HD" group-title="TV - TR | TURKISH",TR| moovie TURK 3 HD
+#EXTINF:-1,moovie TURK 3 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520038&extension=ts&play_token=KSP92OecK9
-#EXTINF:-1  tvg-name="TR| LUXTV KEMALSUNAL HD" group-title="TV - TR | TURKISH",TR| LUXTV KEMALSUNAL HD
+#EXTINF:-1,LUXTV KEMALSUNAL HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520037&extension=ts&play_token=3OakA0kgw2
-#EXTINF:-1  tvg-name="TR| ENO AKSIYON 1" group-title="TV - TR | TURKISH",TR| ENO AKSIYON 1
+#EXTINF:-1,ENO AKSIYON 1
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520036&extension=ts&play_token=ZPcpdpTeeY
-#EXTINF:-1  tvg-name="TR| TVR VIZYON 3" tvg-id="Z(French).ca" group-title="TV - TR | TURKISH",TR| TVR VIZYON 3
+#EXTINF:-1,TVR VIZYON 3
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520035&extension=ts&play_token=VF5x6OzgA4
-#EXTINF:-1  tvg-name="TR| TVR VIZYON 4" tvg-id="Z(French).ca" group-title="TV - TR | TURKISH",TR| TVR VIZYON 4
+#EXTINF:-1,TVR VIZYON 4
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520034&extension=ts&play_token=F5AyZipEZ4
-#EXTINF:-1  tvg-name="TR| BOSS 1" group-title="TV - TR | TURKISH",TR| BOSS 1
+#EXTINF:-1,BOSS 1
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520033&extension=ts&play_token=0XKlSnxLgf
-#EXTINF:-1  tvg-name="TR| BOOSS 2" group-title="TV - TR | TURKISH",TR| BOOSS 2
+#EXTINF:-1,BOOSS 2
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520032&extension=ts&play_token=aPHyigK7zn
-#EXTINF:-1  tvg-name="TR| BOOSS 3" group-title="TV - TR | TURKISH",TR| BOOSS 3
+#EXTINF:-1,BOOSS 3
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520031&extension=ts&play_token=A1MerxAmIO
-#EXTINF:-1  tvg-name="TR|  BOSS MOVIES 5 HD" group-title="TV - TR | TURKISH",TR|  BOSS MOVIES 5 HD
+#EXTINF:-1, BOSS MOVIES 5 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520030&extension=ts&play_token=DbSMoBTlFt
-#EXTINF:-1  tvg-name="TR| BOSS MOVIES 6 HD" group-title="TV - TR | TURKISH",TR| BOSS MOVIES 6 HD
+#EXTINF:-1,BOSS MOVIES 6 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520029&extension=ts&play_token=9j8wZ5OaF1
-#EXTINF:-1  tvg-name="TR| BOSS MOVIES 8 HD" group-title="TV - TR | TURKISH",TR| BOSS MOVIES 8 HD
+#EXTINF:-1,BOSS MOVIES 8 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520028&extension=ts&play_token=6ImNAZzdp3
-#EXTINF:-1  tvg-name="TR ENO ViZYON 1" tvg-id="Z(French).ca" group-title="TV - TR | TURKISH",TR ENO ViZYON 1
+#EXTINF:-1,TR ENO ViZYON 1
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520027&extension=ts&play_token=yOrVA3lcv7
-#EXTINF:-1  tvg-name="TR| ENO ViZYON 2" tvg-id="Z(French).ca" group-title="TV - TR | TURKISH",TR| ENO ViZYON 2
+#EXTINF:-1,ENO ViZYON 2
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520026&extension=ts&play_token=9nIClB9CRI
-#EXTINF:-1  tvg-name="TR| ENO ViZYON 13" tvg-id="Z(French).ca" group-title="TV - TR | TURKISH",TR| ENO ViZYON 13
+#EXTINF:-1,ENO ViZYON 13
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520025&extension=ts&play_token=uVF2ETCZPF
-#EXTINF:-1  tvg-name="TR| ENO ViZYON 14" tvg-id="Z(French).ca" group-title="TV - TR | TURKISH",TR| ENO ViZYON 14
+#EXTINF:-1,ENO ViZYON 14
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520024&extension=ts&play_token=P8GWQDOHtE
-#EXTINF:-1  tvg-name="TR| ENO ViZYON 15" tvg-id="Z(French).ca" group-title="TV - TR | TURKISH",TR| ENO ViZYON 15
+#EXTINF:-1,ENO ViZYON 15
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520023&extension=ts&play_token=pOyeT9QS9Q
-#EXTINF:-1  tvg-name="TR| DIZI SMART MAX HD" tvg-id="MAX(src01).ca" group-title="TV - TR | TURKISH",TR| DIZI SMART MAX HD
+#EXTINF:-1,DIZI SMART MAX HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520022&extension=ts&play_token=JjDryeL6Vo
-#EXTINF:-1  tvg-name="TR| BOSS MOVIES  1" group-title="TV - TR | TURKISH",TR| BOSS MOVIES  1
+#EXTINF:-1,BOSS MOVIES  1
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520021&extension=ts&play_token=FBkqwTLIQL
-#EXTINF:-1  tvg-name="TR| BOSS MOVIES 4 HD" group-title="TV - TR | TURKISH",TR| BOSS MOVIES 4 HD
+#EXTINF:-1,BOSS MOVIES 4 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520020&extension=ts&play_token=w6WTiYr8uj
-#EXTINF:-1  tvg-name="TR| BOSS MOVIES 5 HD" group-title="TV - TR | TURKISH",TR| BOSS MOVIES 5 HD
+#EXTINF:-1,BOSS MOVIES 5 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520019&extension=ts&play_token=T4Q09w1UKV
-#EXTINF:-1  tvg-name="TR| BOSS MOVIES 10 HD" group-title="TV - TR | TURKISH",TR| BOSS MOVIES 10 HD
+#EXTINF:-1,BOSS MOVIES 10 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520018&extension=ts&play_token=Wdx1SGBs38
-#EXTINF:-1  tvg-name="TR| BEIN SPORTS 1 4K" tvg-id="BeINSPORTS1.fr" group-title="TV - TR | TURKISH",TR| BEIN SPORTS 1 4K
+#EXTINF:-1,BEIN SPORTS 1 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520017&extension=ts&play_token=RpuPBQgAim
-#EXTINF:-1  tvg-name="TR| BEIN SPORTS 2 4K" tvg-id="BeINSPORTS2.fr" group-title="TV - TR | TURKISH",TR| BEIN SPORTS 2 4K
+#EXTINF:-1,BEIN SPORTS 2 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520016&extension=ts&play_token=b19jiwdTux
-#EXTINF:-1  tvg-name="TR| BEIN SPORTS 3 4K" tvg-id="BeINSports3.fr" group-title="TV - TR | TURKISH",TR| BEIN SPORTS 3 4K
+#EXTINF:-1,BEIN SPORTS 3 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520015&extension=ts&play_token=HpsXXtInA6
-#EXTINF:-1  tvg-name="TR| BEIN SPORTS 4 4K" tvg-id="beINSports(English).ca" group-title="TV - TR | TURKISH",TR| BEIN SPORTS 4 4K
+#EXTINF:-1,BEIN SPORTS 4 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520014&extension=ts&play_token=afbp2v6Wf0
-#EXTINF:-1  tvg-name="TR| BEIN SPORTS 1HD" tvg-id="BeINSPORTS1.fr" group-title="TV - TR | TURKISH",TR| BEIN SPORTS 1HD
+#EXTINF:-1,BEIN SPORTS 1HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520013&extension=ts&play_token=5r0DNASqXQ
-#EXTINF:-1  tvg-name="TR|  BEIN SPORTS 1" tvg-id="BeINSPORTS1.fr" group-title="TV - TR | TURKISH",TR|  BEIN SPORTS 1
+#EXTINF:-1, BEIN SPORTS 1
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520012&extension=ts&play_token=PwcJMYmhyj
-#EXTINF:-1  tvg-name="TR| BEIN SPORTS 2" tvg-id="BeINSPORTS2.fr" group-title="TV - TR | TURKISH",TR| BEIN SPORTS 2
+#EXTINF:-1,BEIN SPORTS 2
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520011&extension=ts&play_token=tuT1YUdO3K
-#EXTINF:-1  tvg-name="TR| BEIN SPORTS 3" tvg-id="BeINSports3.fr" group-title="TV - TR | TURKISH",TR| BEIN SPORTS 3
+#EXTINF:-1,BEIN SPORTS 3
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520010&extension=ts&play_token=AdtlzIa2mp
-#EXTINF:-1  tvg-name="TR| BEIN SPORTS 4" tvg-id="beINSports(English).ca" group-title="TV - TR | TURKISH",TR| BEIN SPORTS 4
+#EXTINF:-1,BEIN SPORTS 4
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520009&extension=ts&play_token=heoZiooXyc
-#EXTINF:-1  tvg-name="TR| BEIN SPORTS IZ" tvg-id="beINSports(English).ca" group-title="TV - TR | TURKISH",TR| BEIN SPORTS IZ
+#EXTINF:-1,BEIN SPORTS IZ
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520008&extension=ts&play_token=5xhGkaWIhv
-#EXTINF:-1  tvg-name="TR| BEIN SPORTS MAX 1" tvg-id="beINSports(English).ca" group-title="TV - TR | TURKISH",TR| BEIN SPORTS MAX 1
+#EXTINF:-1,BEIN SPORTS MAX 1
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520007&extension=ts&play_token=HngeXboSwY
-#EXTINF:-1  tvg-name="TR| BEIN SPORTS MAX 2" tvg-id="beINSports(English).ca" group-title="TV - TR | TURKISH",TR| BEIN SPORTS MAX 2
+#EXTINF:-1,BEIN SPORTS MAX 2
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520006&extension=ts&play_token=1OW7t0fwPb
-#EXTINF:-1  tvg-name="TR| EXXEN SPOR 1 HD" group-title="TV - TR | TURKISH",TR| EXXEN SPOR 1 HD
+#EXTINF:-1,EXXEN SPOR 1 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520005&extension=ts&play_token=fEbjDx7gJx
-#EXTINF:-1  tvg-name="TR| EXXEN SPOR 1" group-title="TV - TR | TURKISH",TR| EXXEN SPOR 1
+#EXTINF:-1,EXXEN SPOR 1
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520004&extension=ts&play_token=ZVusBMdYU1
-#EXTINF:-1  tvg-name="TR| EXXEN SPOR 2 HD" group-title="TV - TR | TURKISH",TR| EXXEN SPOR 2 HD
+#EXTINF:-1,EXXEN SPOR 2 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520003&extension=ts&play_token=K24inpI2Up
-#EXTINF:-1  tvg-name="TR| EXXEN SPOR 2" group-title="TV - TR | TURKISH",TR| EXXEN SPOR 2
+#EXTINF:-1,EXXEN SPOR 2
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520002&extension=ts&play_token=4IZM826ZNh
-#EXTINF:-1  tvg-name="TR| EXXEN SPOR 3 HD" group-title="TV - TR | TURKISH",TR| EXXEN SPOR 3 HD
+#EXTINF:-1,EXXEN SPOR 3 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520001&extension=ts&play_token=wZyjy8OF7y
-#EXTINF:-1  tvg-name="TR| EXXEN SPOR 3" group-title="TV - TR | TURKISH",TR| EXXEN SPOR 3
+#EXTINF:-1,EXXEN SPOR 3
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520000&extension=ts&play_token=2Fv7sIXAKa
-#EXTINF:-1  tvg-name="TR| EXXEN SPOR 4 HD" group-title="TV - TR | TURKISH",TR| EXXEN SPOR 4 HD
+#EXTINF:-1,EXXEN SPOR 4 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519999&extension=ts&play_token=1stWcwcMSF
-#EXTINF:-1  tvg-name="TR| EXXEN SPOR 4" group-title="TV - TR | TURKISH",TR| EXXEN SPOR 4
+#EXTINF:-1,EXXEN SPOR 4
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519998&extension=ts&play_token=dd7Apizq8C
-#EXTINF:-1  tvg-name="TR| EXXEN SPOR 5" group-title="TV - TR | TURKISH",TR| EXXEN SPOR 5
+#EXTINF:-1,EXXEN SPOR 5
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519997&extension=ts&play_token=i4QN7pHm51
-#EXTINF:-1  tvg-name="TR| EXXEN SPOR 6" group-title="TV - TR | TURKISH",TR| EXXEN SPOR 6
+#EXTINF:-1,EXXEN SPOR 6
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519996&extension=ts&play_token=QgDERsuCWA
-#EXTINF:-1  tvg-name="TR| TRT SPORT 1 HD" group-title="TV - TR | TURKISH",TR| TRT SPORT 1 HD
+#EXTINF:-1,TRT SPORT 1 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519995&extension=ts&play_token=0AOO4Vmbff
-#EXTINF:-1  tvg-name="TR| TRT SPORT 2 HD" group-title="TV - TR | TURKISH",TR| TRT SPORT 2 HD
+#EXTINF:-1,TRT SPORT 2 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519994&extension=ts&play_token=ZDIvijntwL
-#EXTINF:-1  tvg-name="TR| SMART SPOR 1" group-title="TV - TR | TURKISH",TR| SMART SPOR 1
+#EXTINF:-1,SMART SPOR 1
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519993&extension=ts&play_token=XoZVuTgwVH
-#EXTINF:-1  tvg-name="TR| SMART SPOR 2" group-title="TV - TR | TURKISH",TR| SMART SPOR 2
+#EXTINF:-1,SMART SPOR 2
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519992&extension=ts&play_token=iQS9Idr5hW
-#EXTINF:-1  tvg-name="TR| TIVIBUSPOR 1" group-title="TV - TR | TURKISH",TR| TIVIBUSPOR 1
+#EXTINF:-1,TIVIBUSPOR 1
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519991&extension=ts&play_token=CdqQCoiUXv
-#EXTINF:-1  tvg-name="TR| TIVIBUSPOR 2" group-title="TV - TR | TURKISH",TR| TIVIBUSPOR 2
+#EXTINF:-1,TIVIBUSPOR 2
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519990&extension=ts&play_token=wZroFlyFtJ
-#EXTINF:-1  tvg-name="TR| TIVIBUSPOR 3" group-title="TV - TR | TURKISH",TR| TIVIBUSPOR 3
+#EXTINF:-1,TIVIBUSPOR 3
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519989&extension=ts&play_token=5sMtFXE0dk
-#EXTINF:-1  tvg-name="TR| S SPORT 1 4K" group-title="TV - TR | TURKISH",TR| S SPORT 1 4K
+#EXTINF:-1,S SPORT 1 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519988&extension=ts&play_token=oUIhK3QieD
-#EXTINF:-1  tvg-name="TR| S SPORT 1 HD" group-title="TV - TR | TURKISH",TR| S SPORT 1 HD
+#EXTINF:-1,S SPORT 1 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519987&extension=ts&play_token=SSwZ7NOxxl
-#EXTINF:-1  tvg-name="TR| S SPORT 2 4K" group-title="TV - TR | TURKISH",TR| S SPORT 2 4K
+#EXTINF:-1,S SPORT 2 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519986&extension=ts&play_token=0qHnLQvJAz
-#EXTINF:-1  tvg-name="TR| S SPORT 2 HD" group-title="TV - TR | TURKISH",TR| S SPORT 2 HD
+#EXTINF:-1,S SPORT 2 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519985&extension=ts&play_token=IEatpp31v3
-#EXTINF:-1  tvg-name="TR| S SPORT PLUS 1" group-title="TV - TR | TURKISH",TR| S SPORT PLUS 1
+#EXTINF:-1,S SPORT PLUS 1
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519984&extension=ts&play_token=u9ovzILS5c
-#EXTINF:-1  tvg-name="TR| S SPORT PLUS 2" group-title="TV - TR | TURKISH",TR| S SPORT PLUS 2
+#EXTINF:-1,S SPORT PLUS 2
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519983&extension=ts&play_token=AFxfQjrjwa
-#EXTINF:-1  tvg-name="TR| S SPORT PLUS 3" group-title="TV - TR | TURKISH",TR| S SPORT PLUS 3
+#EXTINF:-1,S SPORT PLUS 3
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519982&extension=ts&play_token=pdTzMzfm5s
-#EXTINF:-1  tvg-name="TR| S SPORT PLUS 4" group-title="TV - TR | TURKISH",TR| S SPORT PLUS 4
+#EXTINF:-1,S SPORT PLUS 4
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519981&extension=ts&play_token=B8yHaFvKMv
-#EXTINF:-1  tvg-name="TR| S SPORT PLUS 5" group-title="TV - TR | TURKISH",TR| S SPORT PLUS 5
+#EXTINF:-1,S SPORT PLUS 5
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519980&extension=ts&play_token=O5KSCDfVIf
-#EXTINF:-1  tvg-name="TR| S SPORT PLUS 6" group-title="TV - TR | TURKISH",TR| S SPORT PLUS 6
+#EXTINF:-1,S SPORT PLUS 6
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519979&extension=ts&play_token=DmChNp3v7e
-#EXTINF:-1  tvg-name="TR| EUROSPORT 1" tvg-id="Eurosport1.fr" group-title="TV - TR | TURKISH",TR| EUROSPORT 1
+#EXTINF:-1,EUROSPORT 1
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519978&extension=ts&play_token=rFQF5Ji1s0
-#EXTINF:-1  tvg-name="TR| EUROSPORT 2" tvg-id="Eurosport2.fr" group-title="TV - TR | TURKISH",TR| EUROSPORT 2
+#EXTINF:-1,EUROSPORT 2
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519977&extension=ts&play_token=IoMoEtrwWL
-#EXTINF:-1  tvg-name="TR| FB TV HD" group-title="TV - TR | TURKISH",TR| FB TV HD
+#EXTINF:-1,FB TV HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519976&extension=ts&play_token=lDQEjmDfYa
-#EXTINF:-1  tvg-name="TR| GS TV TR" group-title="TV - TR | TURKISH",TR| GS TV TR
+#EXTINF:-1,GS TV TR
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519975&extension=ts&play_token=PwQn5yCIZx
-#EXTINF:-1  tvg-name="TR| A SPOR HD" group-title="TV - TR | TURKISH",TR| A SPOR HD
+#EXTINF:-1,A SPOR HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519974&extension=ts&play_token=r1t61OcOz6
-#EXTINF:-1  tvg-name="TR| NBA" group-title="TV - TR | TURKISH",TR| NBA
+#EXTINF:-1,NBA
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519973&extension=ts&play_token=mkKi3vAVZw
-#EXTINF:-1  tvg-name="TR| ZAROK TV SAT" tvg-id="Z(French).ca" group-title="TV - TR | TURKISH",TR| ZAROK TV SAT
+#EXTINF:-1,ZAROK TV SAT
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519972&extension=ts&play_token=wAnzfftXKM
-#EXTINF:-1  tvg-name="TR| BEIN SPORTS HABER" tvg-id="beINSports(English).ca" group-title="TV - TR | TURKISH",TR| BEIN SPORTS HABER
+#EXTINF:-1,BEIN SPORTS HABER
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519971&extension=ts&play_token=CxuBoXaH5F
-#EXTINF:-1  tvg-name="TR| TABII SPOR HD" group-title="TV - TR | TURKISH",TR| TABII SPOR HD
+#EXTINF:-1,TABII SPOR HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519970&extension=ts&play_token=0nEhBE5jvb
-#EXTINF:-1  tvg-name="TR| TABII SPOR 1 HD" group-title="TV - TR | TURKISH",TR| TABII SPOR 1 HD
+#EXTINF:-1,TABII SPOR 1 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519969&extension=ts&play_token=2jKH9qqFsi
-#EXTINF:-1  tvg-name="TR| TABII SPOR 2 HD" group-title="TV - TR | TURKISH",TR| TABII SPOR 2 HD
+#EXTINF:-1,TABII SPOR 2 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519968&extension=ts&play_token=iEbnSaIN7O
-#EXTINF:-1  tvg-name="TR| TABII SPOR 3 HD" group-title="TV - TR | TURKISH",TR| TABII SPOR 3 HD
+#EXTINF:-1,TABII SPOR 3 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519967&extension=ts&play_token=ymmE7AuyxA
-#EXTINF:-1  tvg-name="TR| TABII SPOR 4 HD" group-title="TV - TR | TURKISH",TR| TABII SPOR 4 HD
+#EXTINF:-1,TABII SPOR 4 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519966&extension=ts&play_token=CIKi5XOccz
-#EXTINF:-1  tvg-name="TR| TABII SPOR 5 HD" group-title="TV - TR | TURKISH",TR| TABII SPOR 5 HD
+#EXTINF:-1,TABII SPOR 5 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=519965&extension=ts&play_token=zAyvUuPTik
