@@ -1,271 +1,337 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trt1.png" group-title="TURKIYE",TRT 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912481&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/atv.png" group-title="TURKIYE",ATV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912479&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/kanald.png" group-title="TURKIYE",KANAL D
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912478&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/STAR-TV-HD.jpg" group-title="TURKIYE",STAR TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912477&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tv8.png" group-title="TURKIYE",TV 8
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912476&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SHOW-TV.png" group-title="TURKIYE",SHOW TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912452&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/TURKIYE/NOW.png" group-title="TURKIYE",NOW TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912474&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/teve2hd.jpg" group-title="TURKIYE",TEVE 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912471&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/kanal7.jpg" group-title="TURKIYE",KANAL 7
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912470&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/beyaz.png" group-title="TURKIYE",BEYAZ TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912469&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/a2.png" group-title="TURKIYE",A2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912468&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/telekanal360.png" group-title="TURKIYE",360 TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912467&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trtturk.png" group-title="TURKIYE",TRT TURK
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912445&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/flashtv.jpg" group-title="TURKIYE",FLASH
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913463&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/kanal7avrupa.png" group-title="AVRUPA & YEREL",KANAL 7 AVRUPA
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912465&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/atvavrupa.png" group-title="AVRUPA & YEREL",ATV AVRUPA
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912464&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/eurostar.png" group-title="AVRUPA & YEREL",EURO STAR
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912463&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/eurod.png" group-title="AVRUPA & YEREL",EURO D
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912462&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/showturk.png" group-title="AVRUPA & YEREL",SHOW TURK
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912461&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/TURKIYE.png" group-title="HABER KANALLARI",##### HABER #####
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912930&extension=ts&play_token=FhxEvrlw0M
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tele1.jpg" group-title="HABER KANALLARI",TELE 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912904&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SZC-TV.jpeg" group-title="HABER KANALLARI",SZC TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1133616&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/halktv.jpg" group-title="HABER KANALLARI",HALK TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912919&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trthaber.png" group-title="HABER KANALLARI",TRT HABER
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912929&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/A-HABER-HD.jpeg" group-title="HABER KANALLARI",A HABER
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912927&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/haberturk.png" group-title="HABER KANALLARI",HABERTURK
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912925&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/cnnturk.png" group-title="HABER KANALLARI",CNN TURK
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912923&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/Ntv--.jpeg" group-title="HABER KANALLARI",NTV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912921&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/HABER-GLOBAL.png" group-title="HABER KANALLARI",HABER GLOBAL
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912915&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tv100.png" group-title="HABER KANALLARI",TV 100
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912913&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/krt.png" group-title="HABER KANALLARI",KRT TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912911&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/ulketv.png" group-title="HABER KANALLARI",ULKE TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912909&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/24-HABER.png" group-title="HABER KANALLARI",24 HABER
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912907&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/bloomberght.png" group-title="HABER KANALLARI",BLOOMBERGHT
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912905&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tgrthaber.png" group-title="HABER KANALLARI",TGRT HABER
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912903&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tgrteu.png" group-title="HABER KANALLARI",TGRT EU
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912901&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/ulusal.png" group-title="HABER KANALLARI",ULUSAL KANAL
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912898&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tvnet.png" group-title="HABER KANALLARI",TVNET
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912893&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/apara.jpg" group-title="HABER KANALLARI",A PARA
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912891&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/HABER-GLOBAL.png" group-title="HABER KANALLARI",GLOBAL HABER
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912889&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trthaber.png" group-title="HABER KANALLARI",TRT HABER
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=912887&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/LIDER-HABER.png" group-title="HABER KANALLARI",LIDER HABER TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1526852&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/EKO-TURK.png" group-title="HABER KANALLARI",EKO TURK TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1552760&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/TR-SPOR.png" group-title="SPOR KANALLARI",##### SPOR #####
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913406&extension=ts&play_token=LbBNDzrb0w
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/A-SPOR-HD.jpeg" group-title="SPOR KANALLARI",A SPOR
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913403&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/TRT-SPOR.jpeg" group-title="SPOR KANALLARI",TRT SPOR
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913402&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/TRT-SPOR.jpeg" group-title="SPOR KANALLARI",TRT SPOR YILDIZ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913405&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/HT-SPORT.png" group-title="SPOR KANALLARI",HABER TURK SPOR
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1639118&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/TR-BELGESEL.png" group-title="BELGESEL KANALLARI",##### BELGESEL #####
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=top:80/play/live.php?mac=00:1A:79:b5:a0:47&extension=ts&play_token=wqx8t6jhmR
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trtbelgesel.png" group-title="BELGESEL KANALLARI",TRT BELGESEL
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913191&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/natgeowild.png" group-title="BELGESEL KANALLARI",NAT GEO WiLD
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913189&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/animalplanet.png" group-title="BELGESEL KANALLARI",ANIMAL PLANET
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913187&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="BELGESEL KANALLARI",NATiONAL GEOGRAPHiC
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913186&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/natgeopeople.png" group-title="BELGESEL KANALLARI",NAT GEO PEOPLE
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913184&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/discoverychannelhd.png" group-title="BELGESEL KANALLARI",DiSCOVERY CHANNEL
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913183&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tlcn.png" group-title="BELGESEL KANALLARI",TLC
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913181&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tgrthaber.png" group-title="BELGESEL KANALLARI",TGRT BELGESEL
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913179&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trtbelgesel.png" group-title="BELGESEL KANALLARI",TRT BELGESEL
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913178&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/yabantv.jpg" group-title="BELGESEL KANALLARI",YABAN TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913177&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/discoverysci.png" group-title="BELGESEL KANALLARI",DISCOVERY SCIENCE
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913175&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/DISCOVERY-ID-XTRA-HD.png" group-title="BELGESEL KANALLARI",DISCOVERY IDX
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913173&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/bbcearth.png" group-title="BELGESEL KANALLARI",BBC EARTH
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913171&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/HISTORY--.png" group-title="BELGESEL KANALLARI",HISTORY
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913169&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/iz-tv.png" group-title="BELGESEL KANALLARI",IZTV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913168&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/dmax.png" group-title="BELGESEL KANALLARI",DMAX
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913167&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/beingurme.png" group-title="BELGESEL KANALLARI",BEIN GURME
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913165&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/VIASAT-HISTORY-HD.jpg" group-title="BELGESEL KANALLARI",VIASAT HISTORY
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913162&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/VIASAT-EXPLORER.png" group-title="BELGESEL KANALLARI",VIASAT EXPLORE
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913161&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/lovenature.png" group-title="BELGESEL KANALLARI",LOVE NATURE
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913160&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/TR-SINEMADIZI.png" group-title="SINEMA KANALLARI",##### SINEMA/DIZI #####
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913334&extension=ts&play_token=qtdXzRL7hl
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-MOVIES-TURK.png" group-title="SINEMA KANALLARI",BEIN MOVIES TURK
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913333&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/beinmoviesfamily.png" group-title="SINEMA KANALLARI",BEIN MOVIES FAMILY
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913332&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/beinmoviesstars.png" group-title="SINEMA KANALLARI",BEIN MOVIES STARS
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913331&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/beinmoviesaction.png" group-title="SINEMA KANALLARI",BEIN MOVIES ACTION
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913330&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/beinmoviesaction2.png" group-title="SINEMA KANALLARI",BEIN MOVIES ACTION 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913329&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/beinmoviespremiere.png" group-title="SINEMA KANALLARI",BEIN MOVIES PREMIERE
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913328&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/beinmoviespremiere2.png" group-title="SINEMA KANALLARI",BEIN MOVIES PREMIERE 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913327&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/beinseriesvice.png" group-title="SINEMA KANALLARI",BEIN SERIES 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913325&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/beinseriesdrama.png" group-title="SINEMA KANALLARI",BEIN SERIES 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913326&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/beinseriesscifi.png" group-title="SINEMA KANALLARI",BEIN SERIES 3
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913323&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-BOX-OFFICE-1.png" group-title="SINEMA KANALLARI",BEIN BOX OFFICE 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1175357&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-BOX-OFFICE-2.png" group-title="SINEMA KANALLARI",BEIN BOX OFFICE 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1175356&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-BOX-OFFICE-3.png" group-title="SINEMA KANALLARI",BEIN BOX OFFICE 3
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1175355&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/sinema.png" group-title="SINEMA KANALLARI",SINEMA TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913322&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-2.png" group-title="SINEMA KANALLARI",SINEMA TV2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913321&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-YERLI.png" group-title="SINEMA KANALLARI",SINEMA TV YERLI
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913320&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-YERLI.png" group-title="SINEMA KANALLARI",SINEMA TV YERLI2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913319&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-AILE.png" group-title="SINEMA KANALLARI",SINEMA TV AILE
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913318&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-AILE-2.png" group-title="SINEMA KANALLARI",SINEMA TV AILE2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913317&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-KOMEDI-2.png" group-title="SINEMA KANALLARI",SINEMA TV KOMEDI
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913316&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-KOMEDI-2.png" group-title="SINEMA KANALLARI",SINEMA TV KOMEDI2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913315&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-AKSIYON.png" group-title="SINEMA KANALLARI",SINEMA TV AKSIYON
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913314&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-AKSIYON.png" group-title="SINEMA KANALLARI",SINEMA TV AKSIYON2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913313&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-1001.png" group-title="SINEMA KANALLARI",SINEMA TV 1001
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913312&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-1002.png" group-title="SINEMA KANALLARI",SINEMA TV 1002
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913311&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/DIZI-SMART-PREMIUM.png" group-title="SINEMA KANALLARI",DIZI SMART PREMIUM
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=top:80/play/live.php?mac=00:1A:79:b5:a0:47&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/dizismartmax.jpg" group-title="SINEMA KANALLARI",DIZI SMART MAX
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913306&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/fx.png" group-title="SINEMA KANALLARI",FX
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913305&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/TV-IPX.png" group-title="SINEMA KANALLARI",FILMBOX KEMAL SUNAL
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913209&extension=ts
-#EXTINF:-1  group-title="SINEMA KANALLARI",LOCA 1 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1423980&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX PREMIER ᴴᴰ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395474&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX ACTION ᴴᴰ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395475&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX FANTASTIC ᴴᴰ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395477&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX SCI-FI ᴴᴰ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395476&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX FAMILY ᴴᴰ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395482&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX ROMANTIC ᴴᴰ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395481&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX COMEDY ᴴᴰ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395480&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX HORROR ᴴᴰ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=top:80/play/live.php?mac=00:1A:79:b5:a0:47&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX DRAMA ᴴᴰ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395478&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX CUNEYT ARKIN ᴴᴰ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395490&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX ILYAS SALMAN ᴴᴰ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395489&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX TARIK AKAN ᴴᴰ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395487&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX ZEKI & METIN ᴴᴰ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395486&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX SENER SEN ᴴᴰ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395485&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX YESILCAM ᴴᴰ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395484&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX YERLI ᴴᴰ
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=1395483&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-HD.png" group-title="MAC KANALLARI",BEIN SPORTS 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913460&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-HD.png" group-title="MAC KANALLARI",BEIN SPORTS 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913459&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-HD.png" group-title="MAC KANALLARI",BEIN SPORTS 1 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913457&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-HD.png" group-title="MAC KANALLARI",BEIN SPORTS 1 1080
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913446&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-HD.png" group-title="MAC KANALLARI",BEIN SPORTS 1 FHD FEED
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=top:80/play/live.php?mac=00:1A:79:b5:a0:47&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-HD.png" group-title="MAC KANALLARI",BEIN SPORTS 1 UHD ULTRA
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913448&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-1-HD.png" group-title="MAC KANALLARI",BEIN SPORTS 1
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913458&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-2.png" group-title="MAC KANALLARI",BEIN SPORTS 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913455&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-2.png" group-title="MAC KANALLARI",BEIN SPORTS 2
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913456&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORTS-2.png" group-title="MAC KANALLARI",BEIN SPORTS 2 1080
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913445&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trtcocuk.png" group-title="COCUK & DINI",TRT COCUK
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913124&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/boomerang.png" group-title="COCUK & DINI",CARTOONITO
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913123&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/nickelodeon.png" group-title="COCUK & DINI",NICKELODEON
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913122&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/nickjr.png" group-title="COCUK & DINI",NICK JR
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913121&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/disneychannel.png" group-title="COCUK & DINI",DISNEY CHANNEL
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913120&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/babytv.png" group-title="COCUK & DINI",BABY TV
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913116&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/cartoonnetwork.png" group-title="COCUK & DINI",CARTOON NETWORK
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913115&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/MINICA-GO.jpeg" group-title="COCUK & DINI",MINICA GO
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913114&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/niloya.png" group-title="COCUK & DINI",NILOYA
-http://23232.top:80/play/live.php?mac=00:1A:79:b5:a0:47&stream=913112&extension=ts
+#EXTINF:-1  tvg-name="##### ULUSAL #####" group-title="TV - |AS| TURKEY | ULUSAL",##### ULUSAL #####
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259871&extension=ts&play_token=ot0Dvtv6i5&sn2=
+#EXTINF:-1  tvg-name="TR-TRT 1 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/trt1hd.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-TRT 1 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259872&extension=ts&play_token=e06X6X5q0r&sn2=
+#EXTINF:-1  tvg-name="TR-TRT 2 UHD" tvg-logo="http://103.176.90.118/picons/logos/ASIA/TRT-2.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-TRT 2 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=1069641&extension=ts&play_token=3BIkQ1D5gA&sn2=
+#EXTINF:-1  tvg-name="TR-ATV UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/atvhd.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-ATV UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259873&extension=ts&play_token=XjQTTNeq2k&sn2=
+#EXTINF:-1  tvg-name="TR-KANAL D UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/kanald.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-KANAL D UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259876&extension=ts&play_token=E8OyclCFVY&sn2=
+#EXTINF:-1  tvg-name="TR-SHOW TV UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/showtv.jpg" group-title="TV - |AS| TURKEY | ULUSAL",TR-SHOW TV UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259877&extension=ts&play_token=xVIBT7wetI&sn2=
+#EXTINF:-1  tvg-name="TR-STAR TV UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/startvhd.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-STAR TV UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259878&extension=ts&play_token=YMBGOAlZAO&sn2=
+#EXTINF:-1  tvg-name="TR-FOX UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/foxhd.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-FOX UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259879&extension=ts&play_token=wwDJ8O4JF7&sn2=
+#EXTINF:-1  tvg-name="TR-TV 8 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/tv8.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-TV 8 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259880&extension=ts&play_token=MMHw8zWTRF&sn2=
+#EXTINF:-1  tvg-name="TR-TV 8.5 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/tv8.5.jpg" group-title="TV - |AS| TURKEY | ULUSAL",TR-TV 8.5 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259881&extension=ts&play_token=EMITlrrlHy&sn2=
+#EXTINF:-1  tvg-name="TR-KANAL 7 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/kanal7.jpg" group-title="TV - |AS| TURKEY | ULUSAL",TR-KANAL 7 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259882&extension=ts&play_token=z6fxsmB2an&sn2=
+#EXTINF:-1  tvg-name="TR-BEYAZ TV UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beyaz.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-BEYAZ TV UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259883&extension=ts&play_token=8xmLZqtrIo&sn2=
+#EXTINF:-1  tvg-name="TR-A2 FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/a2hd.jpg" group-title="TV - |AS| TURKEY | ULUSAL",TR-A2 FHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259875&extension=ts&play_token=GYp2vPu0iL&sn2=
+#EXTINF:-1  tvg-name="TR-A2 TV UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/a2hd.jpg" group-title="TV - |AS| TURKEY | ULUSAL",TR-A2 TV UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259874&extension=ts&play_token=pStn7SK6wL&sn2=
+#EXTINF:-1  tvg-name="TR-TEVE 2 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/teve2hd.jpg" group-title="TV - |AS| TURKEY | ULUSAL",TR-TEVE 2 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259885&extension=ts&play_token=oSOwi4LK1G&sn2=
+#EXTINF:-1  tvg-name="TR-360 TV" tvg-logo="http://103.176.90.118/picons-dino/logos/360tv.jpg" group-title="TV - |AS| TURKEY | ULUSAL",TR-360 TV
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259891&extension=ts&play_token=MaQMbAOZ13&sn2=
+#EXTINF:-1  tvg-name="TR-FLASH TV" tvg-logo="http://103.176.90.118/picons-dino/logos/flashtv.jpg" group-title="TV - |AS| TURKEY | ULUSAL",TR-FLASH TV
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259892&extension=ts&play_token=lQWa28ouSJ&sn2=
+#EXTINF:-1  tvg-name="TR-ATV AVRUPA" tvg-logo="http://103.176.90.118/picons-dino/logos/atvavrupa.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-ATV AVRUPA
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259889&extension=ts&play_token=fnLzk4REKG&sn2=
+#EXTINF:-1  tvg-name="TR-EURO D" tvg-logo="http://103.176.90.118/picons-dino/logos/eurod.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-EURO D
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259886&extension=ts&play_token=yW3cFIvOFr&sn2=
+#EXTINF:-1  tvg-name="TR-EURO STAR" tvg-logo="http://103.176.90.118/picons-dino/logos/eurostar.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-EURO STAR
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259887&extension=ts&play_token=7VleB49poZ&sn2=
+#EXTINF:-1  tvg-name="TR-SOZCU TV" tvg-logo="http://103.176.90.118/picons/logos/SZC-TV.jpeg" group-title="TV - |AS| TURKEY | ULUSAL",TR-SOZCU TV
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=916956&extension=ts&play_token=LXVuedINrj&sn2=
+#EXTINF:-1  tvg-name="##### HABER #####" group-title="TV - |AS| TURKEY | DIGER",##### HABER #####
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259927&extension=ts&play_token=3CVkt1N3cs&sn2=
+#EXTINF:-1  tvg-name="TR-A HABER UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/A-HABER-HD.jpeg" group-title="TV - |AS| TURKEY | DIGER",TR-A HABER UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259929&extension=ts&play_token=dziphld7DE&sn2=
+#EXTINF:-1  tvg-name="TR-HABERTURK UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/haberturk.png" group-title="TV - |AS| TURKEY | DIGER",TR-HABERTURK UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259931&extension=ts&play_token=HPgCpuzpFx&sn2=
+#EXTINF:-1  tvg-name="TR-CNN TURK UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/cnnturk.png" group-title="TV - |AS| TURKEY | DIGER",TR-CNN TURK UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259930&extension=ts&play_token=NKMwy3IkCs&sn2=
+#EXTINF:-1  tvg-name="TR-NTV UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/ntvhd.png" group-title="TV - |AS| TURKEY | DIGER",TR-NTV UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259936&extension=ts&play_token=Fx6yfMMG77&sn2=
+#EXTINF:-1  tvg-name="TR-24 TV UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/24tv.png" group-title="TV - |AS| TURKEY | DIGER",TR-24 TV UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259938&extension=ts&play_token=A2eUtyPqJQ&sn2=
+#EXTINF:-1  tvg-name="TR-ULKE TV UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/ulketv.png" group-title="TV - |AS| TURKEY | DIGER",TR-ULKE TV UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259937&extension=ts&play_token=JVpBhsikfN&sn2=
+#EXTINF:-1  tvg-name="TR-TGRT HABER UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/tgrthaber.png" group-title="TV - |AS| TURKEY | DIGER",TR-TGRT HABER UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259932&extension=ts&play_token=E00scz1ryo&sn2=
+#EXTINF:-1  tvg-name="TR-BENGUTURK" tvg-logo="http://103.176.90.118/picons-dino/logos/benguturk.jpg" group-title="TV - |AS| TURKEY | DIGER",TR-BENGUTURK
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259943&extension=ts&play_token=YvKseYXN7q&sn2=
+#EXTINF:-1  tvg-name="TR-GLOBAL HABER UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/globalhaber.png" group-title="TV - |AS| TURKEY | DIGER",TR-GLOBAL HABER UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259940&extension=ts&play_token=NQDSUG12ro&sn2=
+#EXTINF:-1  tvg-name="TR-TVNET UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/tvnethd.jpg" group-title="TV - |AS| TURKEY | DIGER",TR-TVNET UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259942&extension=ts&play_token=vR7SUQH538&sn2=
+#EXTINF:-1  tvg-name="TR-HALK TV UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/halktv.jpg" group-title="TV - |AS| TURKEY | DIGER",TR-HALK TV UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259934&extension=ts&play_token=Pgabkadlhc&sn2=
+#EXTINF:-1  tvg-name="TR-TELE 1" tvg-logo="http://103.176.90.118/picons-dino/logos/tele1.jpg" group-title="TV - |AS| TURKEY | DIGER",TR-TELE 1
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259928&extension=ts&play_token=rAyDDufkwV&sn2=
+#EXTINF:-1  tvg-name="TR-ULUSAL TV" tvg-logo="http://103.176.90.118/picons-dino/logos/ulusal.png" group-title="TV - |AS| TURKEY | DIGER",TR-ULUSAL TV
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259945&extension=ts&play_token=gdoR2Fvipo&sn2=
+#EXTINF:-1  tvg-name="TR-KANAL B" tvg-logo="http://103.176.90.118/picons-dino/logos/kanalb.jpg" group-title="TV - |AS| TURKEY | DIGER",TR-KANAL B
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259896&extension=ts&play_token=FhkVcehdV8&sn2=
+#EXTINF:-1  tvg-name="TR-TV100" tvg-logo="http://103.176.90.118/picons-dino/logos/tv100.png" group-title="TV - |AS| TURKEY | DIGER",TR-TV100
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259944&extension=ts&play_token=6VgmAoQxss&sn2=
+#EXTINF:-1  tvg-name="TR-BLOOMBERG TV" tvg-logo="http://103.176.90.118/picons-dino/logos/bloombergtv.png" group-title="TV - |AS| TURKEY | DIGER",TR-BLOOMBERG TV
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259884&extension=ts&play_token=yEsSF9cSZK&sn2=
+#EXTINF:-1  tvg-name="TR-BLOOMBERG HT UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/BLOOMBERG-HD.png" group-title="TV - |AS| TURKEY | DIGER",TR-BLOOMBERG HT UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259939&extension=ts&play_token=BlgmLiciIt&sn2=
+#EXTINF:-1  tvg-name="TR-EKOL TV" tvg-logo="http://103.176.90.118/picons/logos/logos/EKOL.png" group-title="TV - |AS| TURKEY | DIGER",TR-EKOL TV
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=1156423&extension=ts&play_token=DltO0P6ahN&sn2=
+#EXTINF:-1  tvg-name="TR-KRT TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e8/20220321200409!KRT_TV_logosu.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-KRT TV HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=744215&extension=ts&play_token=e7Ui4B7IAB&sn2=
+#EXTINF:-1  tvg-name="TR-KRT TV 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/KRTHT-TV.jpg" group-title="TV - |AS| TURKEY | ULUSAL",TR-KRT TV 4K
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=744832&extension=ts&play_token=fm2EEZNZ4H&sn2=
+#EXTINF:-1  tvg-name="TR-KANAL 24 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/kanal24.png" group-title="TV - |AS| TURKEY | DIGER",TR-KANAL 24 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259935&extension=ts&play_token=eWEf153RsH&sn2=
+#EXTINF:-1  tvg-name="TR-TRT HABER UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/trthaberhd.png" group-title="TV - |AS| TURKEY | DIGER",TR-TRT HABER UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259933&extension=ts&play_token=lIpE8OA8an&sn2=
+#EXTINF:-1  tvg-name="TR-HALK TV" tvg-logo="http://103.176.90.118/picons-dino/logos/halktv.jpg" group-title="TV - |AS| TURKEY | DIGER",TR-HALK TV
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259941&extension=ts&play_token=4uS9KeZtNb&sn2=
+#EXTINF:-1  tvg-name="TR-UZAY HABER" tvg-logo="http://103.176.90.118/picons-dino/logos/uzayhaber.jpg" group-title="TV - |AS| TURKEY | DIGER",TR-UZAY HABER
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259946&extension=ts&play_token=U2yWNx7Rds&sn2=
+#EXTINF:-1  tvg-name="##### CINEMA #####" group-title="TV - |AS| TURKEY | ULUSAL",##### CINEMA #####
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259977&extension=ts&play_token=A1lrfId6DR&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN MOVIES ACTION UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesactionhd.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN MOVIES ACTION UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259978&extension=ts&play_token=vAryVy86sp&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN MOVIES ACTION HD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesactionhd.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN MOVIES ACTION HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259979&extension=ts&play_token=ApiiIw1ays&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN MOVIES ACTION 2 HD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesaction2hd.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN MOVIES ACTION 2 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259980&extension=ts&play_token=r6QuvTVPqj&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN MOVIES FAMILY UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesfamilyhd.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN MOVIES FAMILY UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259981&extension=ts&play_token=MIc8A1uGEE&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN MOVIES FAMILY HD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesfamilyhd.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN MOVIES FAMILY HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259982&extension=ts&play_token=JFzzdWWllq&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN MOVIES PREMIERE UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviespremierehd.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN MOVIES PREMIERE UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259983&extension=ts&play_token=Uep2xnmw0k&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN MOVIES PREMIER HD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviespremierehd.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN MOVIES PREMIER HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259984&extension=ts&play_token=BI901VaO44&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN MOVIES PREMIER 2 HD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviespremiere2hd.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN MOVIES PREMIER 2 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259985&extension=ts&play_token=1sXyPSrFrg&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN MOVIES STARS UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesstars.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN MOVIES STARS UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259986&extension=ts&play_token=qBg2YEQHjk&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN MOVIES STARS HD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesstars.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN MOVIES STARS HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259987&extension=ts&play_token=BJpBZ4JSli&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN MOVIES TURK UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesturk.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN MOVIES TURK UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259988&extension=ts&play_token=lMp4T14oVh&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN MOVIES TURK HD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesturk.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN MOVIES TURK HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259989&extension=ts&play_token=TAmrqAUYbi&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SERIES COMEDY UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinseriescomedyhd.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN SERIES COMEDY UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259992&extension=ts&play_token=NoSmmfBhzt&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SERIES DRAMA UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinseriesdramahd.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN SERIES DRAMA UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259993&extension=ts&play_token=iyYxEGJkA4&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SERIES SCIFI UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinseriesscifi.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN SERIES SCIFI UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259994&extension=ts&play_token=k5Epeh0tT3&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SERIES VICE UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinseriesvice.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN SERIES VICE UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259995&extension=ts&play_token=sTkv5hEAwx&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN BOX OFFICE 1 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/ELIT-BOXOFFICE-1.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN BOX OFFICE 1 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259996&extension=ts&play_token=tObU60lAj8&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN BOX OFFICE 1 UHD+" tvg-logo="http://103.176.90.118/picons-dino/logos/ELIT-BOXOFFICE-1.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN BOX OFFICE 1 UHD+
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=259997&extension=ts&play_token=CaMVWTvuZ3&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SERIES COMEDY UHD+" tvg-logo="http://103.176.90.118/picons-dino/logos/beinseriescomedyhd.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN SERIES COMEDY UHD+
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260002&extension=ts&play_token=9B7vgPLiPl&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SERIES DRAMA UHD+" tvg-logo="http://103.176.90.118/picons-dino/logos/beinseriesdramahd.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN SERIES DRAMA UHD+
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260003&extension=ts&play_token=D77pNQ6Fbe&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SERIES SCI-FI UHD+" tvg-logo="http://103.176.90.118/picons-dino/logos/beinseriesscifi.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN SERIES SCI-FI UHD+
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260004&extension=ts&play_token=JzEaSQBbYs&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SERIES VICE UHD+" tvg-logo="http://103.176.90.118/picons-dino/logos/beinseriesvice.png" group-title="TV - |AS| TURKEY | SINEMA",TR-BEIN SERIES VICE UHD+
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260005&extension=ts&play_token=7n7dbn8Oqy&sn2=
+#EXTINF:-1  tvg-name="TR-DIZI SMART MAX" tvg-logo="http://103.176.90.118/picons-dino/logos/dizismartmax.jpg" group-title="TV - |AS| TURKEY | SINEMA",TR-DIZI SMART MAX
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260013&extension=ts&play_token=JSEKYioOJh&sn2=
+#EXTINF:-1  tvg-name="TR-DIZI SMART PREMIUM UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/dizismart.png" group-title="TV - |AS| TURKEY | SINEMA",TR-DIZI SMART PREMIUM UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260014&extension=ts&play_token=5J6uopHyCi&sn2=
+#EXTINF:-1  tvg-name="TR-ELIT SINEMA 1001" tvg-logo="http://103.176.90.118/picons-dino/logos/sinema1001.png" group-title="TV - |AS| TURKEY | SINEMA",TR-ELIT SINEMA 1001
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260015&extension=ts&play_token=Gy4xNgXzAL&sn2=
+#EXTINF:-1  tvg-name="TR-SINEMA TV2" tvg-logo="http://103.176.90.118/picons-dino/logos/sinema.png" group-title="TV - |AS| TURKEY | SINEMA",TR-SINEMA TV2
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260022&extension=ts&play_token=Br9kqIpybL&sn2=
+#EXTINF:-1  tvg-name="TR-SiNEMA YERLi" tvg-logo="http://103.176.90.118/picons-dino/logos/sinema.png" group-title="TV - |AS| TURKEY | SINEMA",TR-SiNEMA YERLi
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260023&extension=ts&play_token=YpIfyLThYp&sn2=
+#EXTINF:-1  tvg-name="TR-TREX KEMAL SUNAL" tvg-logo="http://103.176.90.118/picons-dino/logos/trex.png" group-title="TV - |AS| TURKEY | SINEMA",TR-TREX KEMAL SUNAL
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260026&extension=ts&play_token=mSqaXbb2Fb&sn2=
+#EXTINF:-1  tvg-name="TR-TREX KOMEDI UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/trex.png" group-title="TV - |AS| TURKEY | SINEMA",TR-TREX KOMEDI UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260030&extension=ts&play_token=oDkCpKoLfW&sn2=
+#EXTINF:-1  tvg-name="TR-FX UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/FX-HD.jpg" group-title="TV - |AS| TURKEY | ULUSAL",TR-FX UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260042&extension=ts&play_token=hnNr8bky2k&sn2=
+#EXTINF:-1  tvg-name="TR-METROPOL VIZYON" group-title="TV - |AS| TURKEY | SINEMA",TR-METROPOL VIZYON
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=773623&extension=ts&play_token=VuZFoESBQp&sn2=
+#EXTINF:-1  tvg-name="##### BELGESEL #####" group-title="TV - |AS| TURKEY | ULUSAL",##### BELGESEL #####
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260045&extension=ts&play_token=sJJdOzy5a3&sn2=
+#EXTINF:-1  tvg-name="TR-TRT BELGESEL UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/trtbelgeselhd.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-TRT BELGESEL UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260046&extension=ts&play_token=lNyDir0oLv&sn2=
+#EXTINF:-1  tvg-name="TR-TRT BELGESEL" tvg-logo="http://103.176.90.118/picons-dino/logos/trtbelgesel.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-TRT BELGESEL
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260047&extension=ts&play_token=yRXBBg9Cq7&sn2=
+#EXTINF:-1  tvg-name="TR-TRT BELGESEL" tvg-logo="http://103.176.90.118/picons-dino/logos/trtbelgesel.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-TRT BELGESEL
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260048&extension=ts&play_token=Y4ebJZsjQC&sn2=
+#EXTINF:-1  tvg-name="TR-ANIMAL PLANET UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/ANIMAL-PLANET-HD.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-ANIMAL PLANET UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260049&extension=ts&play_token=MCtPyGPOPa&sn2=
+#EXTINF:-1  tvg-name="TR-ANIMAL PLANET UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/ANIMAL-PLANET-HD.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-ANIMAL PLANET UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260050&extension=ts&play_token=rXukFXLZwc&sn2=
+#EXTINF:-1  tvg-name="TR-BBC EARTH" tvg-logo="http://103.176.90.118/picons-dino/logos/bbcearth.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-BBC EARTH
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260051&extension=ts&play_token=pwZfcbOko8&sn2=
+#EXTINF:-1  tvg-name="TR-BBC EARTH UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/bbcearthhd.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-BBC EARTH UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260052&extension=ts&play_token=P4bJcwDLHT&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN GURME UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beingurmehd.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-BEIN GURME UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260053&extension=ts&play_token=yACG2KplS3&sn2=
+#EXTINF:-1  tvg-name="TR-DISCOVERY IDX UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/discoveryid.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-DISCOVERY IDX UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260054&extension=ts&play_token=AeNOUFqiNf&sn2=
+#EXTINF:-1  tvg-name="TR-DISCOVERY CHANNEL" tvg-logo="http://103.176.90.118/picons-dino/logos/discoverychannel.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-DISCOVERY CHANNEL
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260055&extension=ts&play_token=5qRTkkfeBO&sn2=
+#EXTINF:-1  tvg-name="TR-DISCOVERY CHANNEL UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/discoverychannelhd.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-DISCOVERY CHANNEL UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260056&extension=ts&play_token=8rz5mOLRKi&sn2=
+#EXTINF:-1  tvg-name="TR-DISCOVERY SCIENCE UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/discoverysciencehd.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-DISCOVERY SCIENCE UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260057&extension=ts&play_token=wuny8TPBty&sn2=
+#EXTINF:-1  tvg-name="TR-DISCOVERY SCIENCE UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/discoverysciencehd.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-DISCOVERY SCIENCE UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260058&extension=ts&play_token=KoVzlX6MBS&sn2=
+#EXTINF:-1  tvg-name="TR-NATIONAL GEOGRAPHIC UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/nationalgeographichd.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-NATIONAL GEOGRAPHIC UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260059&extension=ts&play_token=zjzSL1UFEX&sn2=
+#EXTINF:-1  tvg-name="TR-NATIONAL GEO UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/natgeohd.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-NATIONAL GEO UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260060&extension=ts&play_token=cvNDgw6Wvb&sn2=
+#EXTINF:-1  tvg-name="TR-NAT GEO WILD UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/natgeowildhd.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-NAT GEO WILD UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260062&extension=ts&play_token=gHqFjeLp4I&sn2=
+#EXTINF:-1  tvg-name="TR-NOW HD" tvg-logo="http://103.176.90.118/picons/logos/TURKIYE/NOW.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-NOW HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=1184226&extension=ts&play_token=Fw4kAj2mRh&sn2=
+#EXTINF:-1  tvg-name="TR-NATGEO PEOPLE UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/natgeopeoplehd.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-NATGEO PEOPLE UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260061&extension=ts&play_token=3Qg7rW7BEJ&sn2=
+#EXTINF:-1  tvg-name="TR-YABAN TV UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/yabantv.jpg" group-title="TV - |AS| TURKEY | ULUSAL",TR-YABAN TV UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260063&extension=ts&play_token=1QfdawejBi&sn2=
+#EXTINF:-1  tvg-name="TR-24 KITCHEN UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/24kitchenhd.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-24 KITCHEN UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260064&extension=ts&play_token=276F0bk9ql&sn2=
+#EXTINF:-1  tvg-name="TR-HISTORY CHANNEL" tvg-logo="http://103.176.90.118/picons-dino/logos/historychannel.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-HISTORY CHANNEL
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260065&extension=ts&play_token=cJGFlauj57&sn2=
+#EXTINF:-1  tvg-name="TR-HISTORY VIASAT UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/viasathistory.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-HISTORY VIASAT UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260066&extension=ts&play_token=jWWPA6qVyZ&sn2=
+#EXTINF:-1  tvg-name="TR-VIASAT NATURE/HISTORY UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/viasatnaturehd_viasathistoryhd.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-VIASAT NATURE/HISTORY UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260067&extension=ts&play_token=7P06VvBOct&sn2=
+#EXTINF:-1  tvg-name="TR-IZTV HD" tvg-logo="http://103.176.90.118/picons/logos/iz-tv.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-IZTV HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=1151778&extension=ts&play_token=AqAEmppNnO&sn2=
+#EXTINF:-1  tvg-name="TR-DMAX UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/dmaxhd.png" group-title="TV - |AS| TURKEY | ULUSAL",TR-DMAX UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260068&extension=ts&play_token=ioKTZ7mo9f&sn2=
+#EXTINF:-1  tvg-name="TR-YABAN TV" tvg-logo="http://103.176.90.118/picons-dino/logos/yabantv.jpg" group-title="TV - |AS| TURKEY | ULUSAL",TR-YABAN TV
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260069&extension=ts&play_token=Q3TVh4haru&sn2=
+#EXTINF:-1  tvg-name="#####  BEIN SPORTS  #####" group-title="TV - |AS| TURKEY | SPOR",#####  BEIN SPORTS  #####
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=686362&extension=ts&play_token=V7PIc74VSn&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORTS HABER HD" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT--HABER.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORTS HABER HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=686359&extension=ts&play_token=BfbNrNyR64&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-1-NP.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT 1 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=686360&extension=ts&play_token=VusCwTqtWw&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT 2 HD" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-2-NP.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT 2 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=686363&extension=ts&play_token=tyFmLdm1xr&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT 3 HD" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-3-NP.jpg" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT 3 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=686364&extension=ts&play_token=Oyg2yet866&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT 4 HD" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-4-NP.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT 4 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=686365&extension=ts&play_token=bNLnuct0rp&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT MAX 1 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-1-MAX-HD.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT MAX 1 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=686439&extension=ts&play_token=MU4DUS96zJ&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT MAX 2 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-2-MAX-HD.jpeg" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT MAX 2 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=686503&extension=ts&play_token=HorBxOLqNJ&sn2=
+#EXTINF:-1  tvg-name="#####. EXXEN SPORTS. #####" group-title="TV - |AS| TURKEY | SPOR",#####. EXXEN SPORTS. #####
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=686505&extension=ts&play_token=Oz08tFQqvw&sn2=
+#EXTINF:-1  tvg-name="TR-EXXEN SPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TV - |AS| TURKEY | SPOR",TR-EXXEN SPORT 1 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=686504&extension=ts&play_token=6K35dNilxB&sn2=
+#EXTINF:-1  tvg-name="TR-EXXEN SPORT 2 HD" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TV - |AS| TURKEY | SPOR",TR-EXXEN SPORT 2 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=686506&extension=ts&play_token=jXcn8nKELO&sn2=
+#EXTINF:-1  tvg-name="TR-EXXEN SPORT 3 HD" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png" group-title="TV - |AS| TURKEY | SPOR",TR-EXXEN SPORT 3 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=686507&extension=ts&play_token=SZ4FRLVXZS&sn2=
+#EXTINF:-1  tvg-name="TR-EXXEN SPORT 4 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/EXXEN-SPORT.png" group-title="TV - |AS| TURKEY | SPOR",TR-EXXEN SPORT 4 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=1053274&extension=ts&play_token=Pkm3Nd3Atx&sn2=
+#EXTINF:-1  tvg-name="TR-EXXEN SPORT 5 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/EXXEN-SPORT.png" group-title="TV - |AS| TURKEY | SPOR",TR-EXXEN SPORT 5 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=1053273&extension=ts&play_token=eWTqinJ2Jw&sn2=
+#EXTINF:-1  tvg-name="TR-EXXEN SPORT 6 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/EXXEN-SPORT.png" group-title="TV - |AS| TURKEY | SPOR",TR-EXXEN SPORT 6 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=1053272&extension=ts&play_token=NddF5virkk&sn2=
+#EXTINF:-1  tvg-name="TR-EXXEN SPORT 7 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/EXXEN-SPORT.png" group-title="TV - |AS| TURKEY | SPOR",TR-EXXEN SPORT 7 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=1053271&extension=ts&play_token=hAgkX3pRU6&sn2=
+#EXTINF:-1  tvg-name="TR-EXXEN SPORT 8 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/EXXEN-SPORT.png" group-title="TV - |AS| TURKEY | SPOR",TR-EXXEN SPORT 8 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=1053270&extension=ts&play_token=yvuFnx0kPN&sn2=
+#EXTINF:-1  tvg-name="##### SPORT #####" group-title="TV - |AS| TURKEY | SPOR",##### SPORT #####
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260071&extension=ts&play_token=LtSe0I9nAv&sn2=
+#EXTINF:-1  tvg-name="TR-EXXEN SPORT 1 HD" tvg-logo="http://103.176.90.118/picons-dino/logos/exxen.png" group-title="TV - |AS| TURKEY | SPOR",TR-EXXEN SPORT 1 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=618910&extension=ts&play_token=84TYRWANzk&sn2=
+#EXTINF:-1  tvg-name="TR-EXXEN SPORT 2 HD" tvg-logo="http://103.176.90.118/picons-dino/logos/exxen.png" group-title="TV - |AS| TURKEY | SPOR",TR-EXXEN SPORT 2 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=618909&extension=ts&play_token=ij4rpAR6DA&sn2=
+#EXTINF:-1  tvg-name="TR-EXXEN SPORT 3 HD" tvg-logo="http://103.176.90.118/picons-dino/logos/exxen.png" group-title="TV - |AS| TURKEY | SPOR",TR-EXXEN SPORT 3 HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=618908&extension=ts&play_token=AxmciFUqRG&sn2=
+#EXTINF:-1  tvg-name="D-TR-EXXEN SPOR 1 FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/exxen.png" group-title="TV - |AS| TURKEY | SPOR",D-TR-EXXEN SPOR 1 FHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=618907&extension=ts&play_token=8yqE0QJopt&sn2=
+#EXTINF:-1  tvg-name="D-TR-EXXEN SPOR 2 FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/exxen.png" group-title="TV - |AS| TURKEY | SPOR",D-TR-EXXEN SPOR 2 FHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=618906&extension=ts&play_token=E4P17SmXY9&sn2=
+#EXTINF:-1  tvg-name="D-TR-EXXEN SPOR 3 FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/exxen.png" group-title="TV - |AS| TURKEY | SPOR",D-TR-EXXEN SPOR 3 FHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=618905&extension=ts&play_token=i92yKgRhgE&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT 1 FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports1hd.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT 1 FHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260072&extension=ts&play_token=Nbypr2QYdV&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT 1 UHD HEVC" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports1hd.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT 1 UHD HEVC
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260073&extension=ts&play_token=1A7si31qqu&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT 2 UHD HEVC" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports2hd.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT 2 UHD HEVC
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260074&extension=ts&play_token=5V4ZuvAa5X&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT 2 UHD+" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports2hd.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT 2 UHD+
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260075&extension=ts&play_token=XJgb3FuuxZ&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT 3 FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports3hd.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT 3 FHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260076&extension=ts&play_token=9QBalKOMIJ&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT 3 UHD HEVC" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports3hd.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT 3 UHD HEVC
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260077&extension=ts&play_token=UTh0tB87y5&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT 4 FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports4.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT 4 FHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260078&extension=ts&play_token=UT08qCLrX4&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT 4 UHD HEVC" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports4.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT 4 UHD HEVC
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260079&extension=ts&play_token=yZzlPAqiBU&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT 1 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports1hd.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT 1 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260080&extension=ts&play_token=haApZobNek&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT 2 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports2hd.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT 2 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260081&extension=ts&play_token=m5xfDs453o&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT 3 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports3.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT 3 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260082&extension=ts&play_token=ANI6GsYRLQ&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT 4 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports4.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT 4 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260083&extension=ts&play_token=c3bIYceri2&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT MAX 1 FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmax1.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT MAX 1 FHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260084&extension=ts&play_token=uwbi3IAQ2w&sn2=
+#EXTINF:-1  tvg-name="TR-BEIN SPORT MAX 2 FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmax2.png" group-title="TV - |AS| TURKEY | SPOR",TR-BEIN SPORT MAX 2 FHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260085&extension=ts&play_token=vPxASEqeHh&sn2=
+#EXTINF:-1  tvg-name="TR-SMART SPORT UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/smartspor.png" group-title="TV - |AS| TURKEY | SPOR",TR-SMART SPORT UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260087&extension=ts&play_token=pUDEoiXUmm&sn2=
+#EXTINF:-1  tvg-name="TR-SMART SPORT UHD+" tvg-logo="http://103.176.90.118/picons-dino/logos/smartspor.png" group-title="TV - |AS| TURKEY | SPOR",TR-SMART SPORT UHD+
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260086&extension=ts&play_token=JJoIw6GiGr&sn2=
+#EXTINF:-1  tvg-name="TR-SMART SPORT 2 UHD" group-title="TV - |AS| TURKEY | SPOR",TR-SMART SPORT 2 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=943222&extension=ts&play_token=NiVUZgihrp&sn2=
+#EXTINF:-1  tvg-name="TR-TIVIBU SPORT UHD" tvg-logo="http://103.176.90.118/picons/logos/USA/TIVIBUSPOR.png" group-title="TV - |AS| TURKEY | SPOR",TR-TIVIBU SPORT UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=1060514&extension=ts&play_token=6t8VOndzpN&sn2=
+#EXTINF:-1  tvg-name="TR-TIVIBU SPORT 1 UHD+" tvg-logo="http://103.176.90.118/picons-dino/logos/tivibu1.jpg" group-title="TV - |AS| TURKEY | SPOR",TR-TIVIBU SPORT 1 UHD+
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260088&extension=ts&play_token=fJ9cOtMZoD&sn2=
+#EXTINF:-1  tvg-name="TR-TIVIBU SPORT 1 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/tivibu1.jpg" group-title="TV - |AS| TURKEY | SPOR",TR-TIVIBU SPORT 1 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260089&extension=ts&play_token=676fOgVXjc&sn2=
+#EXTINF:-1  tvg-name="TR-TIVIBU SPORT 2 UHD+" tvg-logo="http://103.176.90.118/picons-dino/logos/tivibu2.jpg" group-title="TV - |AS| TURKEY | SPOR",TR-TIVIBU SPORT 2 UHD+
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260090&extension=ts&play_token=tLY4NzMNvd&sn2=
+#EXTINF:-1  tvg-name="TR-TIVIBU SPORT 2 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/tivibu2.jpg" group-title="TV - |AS| TURKEY | SPOR",TR-TIVIBU SPORT 2 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260091&extension=ts&play_token=N9KSAhVS0u&sn2=
+#EXTINF:-1  tvg-name="TR-TIVIBU SPORT 3 UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/TIVIBU-SPORT-3.png" group-title="TV - |AS| TURKEY | SPOR",TR-TIVIBU SPORT 3 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=1035121&extension=ts&play_token=NgfCbE6hAl&sn2=
+#EXTINF:-1  tvg-name="TR-TIVIBU SPORT 4 UHD" tvg-logo="http://103.176.90.118/picons/logos/USA/TIVIBUSPOR.png" group-title="TV - |AS| TURKEY | SPOR",TR-TIVIBU SPORT 4 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=1060515&extension=ts&play_token=ZbeqSU9REs&sn2=
+#EXTINF:-1  tvg-name="TR-TRT SPOR FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/trtsporhd.png" group-title="TV - |AS| TURKEY | SPOR",TR-TRT SPOR FHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260092&extension=ts&play_token=u713NFipeb&sn2=
+#EXTINF:-1  tvg-name="TR-TRT SPOR UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/trtsporhd.png" group-title="TV - |AS| TURKEY | SPOR",TR-TRT SPOR UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260093&extension=ts&play_token=HGbrI8YiiF&sn2=
+#EXTINF:-1  tvg-name="TR-TRT SPORT 2 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/trtsporhd.png" group-title="TV - |AS| TURKEY | SPOR",TR-TRT SPORT 2 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260094&extension=ts&play_token=pUODiiJhse&sn2=
+#EXTINF:-1  tvg-name="TR-A SPOR FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/A-SPOR-HD.jpeg" group-title="TV - |AS| TURKEY | SPOR",TR-A SPOR FHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260095&extension=ts&play_token=Uv6koR86x9&sn2=
+#EXTINF:-1  tvg-name="TR-A SPOR UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/A-SPOR-HD.jpeg" group-title="TV - |AS| TURKEY | SPOR",TR-A SPOR UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260096&extension=ts&play_token=fdLh1rtqZC&sn2=
+#EXTINF:-1  tvg-name="TR-EUROSPORT 1 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/eurosport1hd.png" group-title="TV - |AS| TURKEY | SPOR",TR-EUROSPORT 1 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260097&extension=ts&play_token=m14CKPQyGF&sn2=
+#EXTINF:-1  tvg-name="TR-EUROSPORT 2 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/eurosport2hd.png" group-title="TV - |AS| TURKEY | SPOR",TR-EUROSPORT 2 UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260098&extension=ts&play_token=ku4Ed92hCI&sn2=
+#EXTINF:-1  tvg-name="TR-S SPORT PLUS HD" tvg-logo="http://103.176.90.118/picons/logos/S-SPORT-PLUS.png" group-title="TV - |AS| TURKEY | SPOR",TR-S SPORT PLUS HD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=943835&extension=ts&play_token=3zoDZIsV7L&sn2=
+#EXTINF:-1  tvg-name="TR-S SPORT 1" tvg-logo="http://103.176.90.118/picons/iptvlogos/SSPORT_1.png" group-title="TV - |AS| TURKEY | SPOR",TR-S SPORT 1
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=683162&extension=ts&play_token=bO6h8UkBRV&sn2=
+#EXTINF:-1  tvg-name="TR-S SPORT 2" tvg-logo="http://103.176.90.118/picons/iptvlogos/SSPORT_1.png" group-title="TV - |AS| TURKEY | SPOR",TR-S SPORT 2
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=683163&extension=ts&play_token=2cMWyWIVE2&sn2=
+#EXTINF:-1  tvg-name="TR-GALATASARAY TV UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/GALATASARAY-TV-HD.png" group-title="TV - |AS| TURKEY | SPOR",TR-GALATASARAY TV UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260099&extension=ts&play_token=eREzY9us1l&sn2=
+#EXTINF:-1  tvg-name="TR-HABER TURK SPOR" tvg-logo="http://103.176.90.118/picons/logos/logos/HT-SPORT.png" group-title="TV - |AS| TURKEY | SPOR",TR-HABER TURK SPOR
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=1156422&extension=ts&play_token=1Fl3I93Jpl&sn2=
+#EXTINF:-1  tvg-name="TR-MELTEM TV" tvg-logo="http://103.176.90.118/picons/logos/meltemtv.png" group-title="TV - |AS| TURKEY | SPOR",TR-MELTEM TV
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=662106&extension=ts&play_token=g4P0hj2MRg&sn2=
+#EXTINF:-1  tvg-name="TR-FENERBAHÇE TV UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/fenerbahcetv.Jpeg" group-title="TV - |AS| TURKEY | SPOR",TR-FENERBAHÇE TV UHD
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260100&extension=ts&play_token=B7d4KRV6wJ&sn2=
+#EXTINF:-1  tvg-name="TR-TJK TV" tvg-logo="http://103.176.90.118/picons-dino/logos/tjktv.png" group-title="TV - |AS| TURKEY | SPOR",TR-TJK TV
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260103&extension=ts&play_token=0wIvzFEWdX&sn2=
