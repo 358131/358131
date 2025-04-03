@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/TURKIYE.png" group-title="TURKIYE",##### TURKIYE 4K / HD #####
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912483&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/TRT--4K.png" group-title="TURKIYE",TRT 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=916657&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trt1.png" group-title="TURKIYE",TRT 1 4K
@@ -35,8 +33,6 @@ http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912443&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913463&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trtturk.png" group-title="TURKIYE",TRT TURK HD
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912445&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/TURKIYE.png" group-title="AVRUPA & YEREL",##### TR AYRUPA 4K #####
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=top:80/play/live.php?mac=00:1A:79:ce:36:ee&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/kanal7avrupa.png" group-title="AVRUPA & YEREL",KANAL 7 AVRUPA 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912465&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/atvavrupa.png" group-title="AVRUPA & YEREL",ATV AVRUPA 4K
@@ -47,72 +43,36 @@ http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912463&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912462&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/showturk.png" group-title="AVRUPA & YEREL",SHOW TURK
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912461&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/TURKIYE.png" group-title="HABER KANALLARI",##### TR HABER #####
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912930&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trthaber.png" group-title="HABER KANALLARI",TRT HABER 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912929&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trthaber.png" group-title="HABER KANALLARI",TRT HABER HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912928&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/A-HABER-HD.jpeg" group-title="HABER KANALLARI",A HABER 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912927&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/A-HABER-HD.jpeg" group-title="HABER KANALLARI",A HABER HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912926&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/haberturk.png" group-title="HABER KANALLARI",HABERTURK 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912925&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/haberturk.png" group-title="HABER KANALLARI",HABER TURK HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912924&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/cnnturk.png" group-title="HABER KANALLARI",CNN TURK 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912923&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/cnnturk.png" group-title="HABER KANALLARI",CNN TURK HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912922&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/Ntv--.jpeg" group-title="HABER KANALLARI",NTV 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912921&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/Ntv--.jpeg" group-title="HABER KANALLARI",NTV HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912920&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/halktv.jpg" group-title="HABER KANALLARI",HALK TV 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912919&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/Halk.png" group-title="HABER KANALLARI",Halk TV FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=1552759&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/halktv.jpg" group-title="HABER KANALLARI",HALK TV HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912918&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/akittv.jpg" group-title="HABER KANALLARI",AKIT TV 4K
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912917&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/akittv.jpg" group-title="HABER KANALLARI",AKIT TV HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912916&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/HABER-GLOBAL.png" group-title="HABER KANALLARI",HABER GLOBAL 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912915&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/HABER-GLOBAL.png" group-title="HABER KANALLARI",HABER GLOBAL HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912914&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tv100.png" group-title="HABER KANALLARI",TV 100 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912913&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tv100.png" group-title="HABER KANALLARI",TV 100 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912912&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/krt.png" group-title="HABER KANALLARI",KRT TV 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912911&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/krt.png" group-title="HABER KANALLARI",KRT TV HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912910&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/ulketv.png" group-title="HABER KANALLARI",ULKE TV 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912909&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/ulketv.png" group-title="HABER KANALLARI",ULKE TV HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912908&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/24-HABER.png" group-title="HABER KANALLARI",24 HABER 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912907&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/24-HABER.png" group-title="HABER KANALLARI",24 HABER HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912906&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/bloomberght.png" group-title="HABER KANALLARI",BLOOMBERGHT 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912905&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tele1.jpg" group-title="HABER KANALLARI",TELE 1 HD
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912904&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tgrthaber.png" group-title="HABER KANALLARI",TGRT HABER 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912903&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tgrthaber.png" group-title="HABER KANALLARI",TGRT HABER HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912902&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tgrteu.png" group-title="HABER KANALLARI",TGRT EU
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912901&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/haberturk.png" group-title="HABER KANALLARI",TH TURKHABER HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=top:80/play/live.php?mac=00:1A:79:ce:36:ee&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/benguturk.jpg" group-title="HABER KANALLARI",BENGUTURK
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=top:80/play/live.php?mac=00:1A:79:ce:36:ee&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/ulusal.png" group-title="HABER KANALLARI",ULUSAL KANAL
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912898&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/uzayhaber.jpg" group-title="HABER KANALLARI",UZAY HABER
@@ -121,32 +81,20 @@ http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912897&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912894&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tvnet.png" group-title="HABER KANALLARI",TVNET 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912893&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/tvnet.png" group-title="HABER KANALLARI",TVNET HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912892&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/apara.jpg" group-title="HABER KANALLARI",A PARA 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912891&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/apara.jpg" group-title="HABER KANALLARI",A PARA HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912890&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/HABER-GLOBAL.png" group-title="HABER KANALLARI",GLOBAL HABER 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912889&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/HABER-GLOBAL.png" group-title="HABER KANALLARI",GLOBAL HABER HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912888&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/SZC-TV.jpeg" group-title="HABER KANALLARI",SZC TV
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=1133616&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trthaber.png" group-title="HABER KANALLARI",TRT HABER 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912887&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trthaber.png" group-title="HABER KANALLARI",TRT HABER HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=912886&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/LIDER-HABER.png" group-title="HABER KANALLARI",LIDER HABER TV
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=1526852&extension=ts
 #EXTINF:-1  tvg-logo="https://logo.protv.cc/piconsnew/ekinturktv.png" group-title="TURKIYE",EKIN TURK
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=1796073&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/EKOL.png" group-title="HABER KANALLARI",EKOL TV
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=top:80/play/live.php?mac=00:1A:79:ce:36:ee&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/EKO-TURK.png" group-title="HABER KANALLARI",EKO TURK TV
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=1552760&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/TR-COCUK.png" group-title="COCUK & DINI",##### TR COCUK #####
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913125&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trtcocuk.png" group-title="COCUK & DINI",TRT COCUK 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913124&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/boomerang.png" group-title="COCUK & DINI",CARTOONITO 4K
@@ -157,42 +105,14 @@ http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913122&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913121&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/disneychannel.png" group-title="COCUK & DINI",DISNEY CHANNEL 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913120&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/disneyjr.png" group-title="COCUK & DINI",DISNEY JR 4K
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913119&extension=ts
-#EXTINF:-1  group-title="COCUK & DINI",KUKULI
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=top:80/play/live.php?mac=00:1A:79:ce:36:ee&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/babytv.png" group-title="COCUK & DINI",BABY TV 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913116&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/cartoonnetwork.png" group-title="COCUK & DINI",CARTOON NETWORK 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913115&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/MINICA-GO.jpeg" group-title="COCUK & DINI",MINICA GO 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913114&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/MINICA-COCUK.png" group-title="COCUK & DINI",MINIKA COCUK 4K
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=top:80/play/live.php?mac=00:1A:79:ce:36:ee&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/niloya.png" group-title="COCUK & DINI",NILOYA 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913112&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/TR-DINI-KANALLARI.png" group-title="COCUK & DINI",##### TR DINI KANALLARI #####
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913111&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/semerkant.jpg" group-title="COCUK & DINI",SEMERKAND TV 4K
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913110&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trtdiyanet.png" group-title="COCUK & DINI",TRT DIYANET
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913109&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TOM-VE-JERYY.png" group-title="COCUK & DINI",TOM VE JERYY
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913224&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/dosttv.jpeg" group-title="COCUK & DINI",DOST TV
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=top:80/play/live.php?mac=00:1A:79:ce:36:ee&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/lalegul.png" group-title="COCUK & DINI",LALEGUL TV
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913107&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/KABE-TV.jpeg" group-title="COCUK & DINI",KABE TV
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913106&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/saudisunnah.png" group-title="COCUK & DINI",SAUDI SUNNAH
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913105&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/meltemtv.png" group-title="COCUK & DINI",MELTEM TV
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913104&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/FM-TV.jpeg" group-title="COCUK & DINI",FM TV
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913103&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/TR-BELGESEL.png" group-title="BELGESEL KANALLARI",##### TR BELGESEL #####
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=top:80/play/live.php?mac=00:1A:79:ce:36:ee&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trtbelgesel.png" group-title="BELGESEL KANALLARI",TRT BELGESEL 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913191&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/trtbelgesel.png" group-title="BELGESEL KANALLARI",TRT BELGESEL HD
@@ -253,8 +173,6 @@ http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913162&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913161&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/lovenature.png" group-title="BELGESEL KANALLARI",LOVE NATURE 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913160&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/logos/TR-SINEMADIZI.png" group-title="SINEMA KANALLARI",##### TR SINEMA/DIZI #####
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913334&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-MOVIES-TURK.png" group-title="SINEMA KANALLARI",BEIN MOVIES TURK HD
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913333&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/beinmoviesfamily.png" group-title="SINEMA KANALLARI",BEIN MOVIES FAMILY HD
@@ -275,8 +193,6 @@ http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913325&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913326&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/beinseriesscifi.png" group-title="SINEMA KANALLARI",BEIN SERIES 3 HD
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913323&extension=ts
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/beinseriescomedy.png" group-title="SINEMA KANALLARI",BEIN SERIES 4 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=913324&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-BOX-OFFICE-1.png" group-title="SINEMA KANALLARI",BEIN BOX OFFICE 1 HD
 http://23232.top:80/play/live.php?mac=00:1A:79:ce:36:ee&stream=1175357&extension=ts
 #EXTINF:-1  tvg-logo="http://103.176.90.118/picons/logos/BEIN-BOX-OFFICE-2.png" group-title="SINEMA KANALLARI",BEIN BOX OFFICE 2 HD
