@@ -1,58 +1,30 @@
 #EXTM3U
-#EXTINF:-1,TRT 4K
+#EXTINF:-1,TRT 4Kk
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520382&extension=ts
 #EXTINF:-1,TRT 1 FHD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520381&extension=ts
-#EXTINF:-1,TRT 1 HD
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520380&extension=ts
-#EXTINF:-1,TRT 2 4K
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520379&extension=ts
-#EXTINF:-1,TRT 2 HD
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520378&extension=ts
 #EXTINF:-1,ATV 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520377&extension=ts
-#EXTINF:-1,ATV HD
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520376&extension=ts
-#EXTINF:-1,ATV EU
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520375&extension=ts
 #EXTINF:-1,A2 TR
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520374&extension=ts
 #EXTINF:-1,KANAL D 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520373&extension=ts
-#EXTINF:-1,KANAL D HD
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520372&extension=ts
 #EXTINF:-1,STAR TV HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520371&extension=ts
-#EXTINF:-1,STAR TV EU
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520370&extension=ts
-#EXTINF:-1,STAR TV 4K
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520369&extension=ts
 #EXTINF:-1,SHOW TV 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520368&extension=ts
-#EXTINF:-1,SHOW TV HD
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520367&extension=ts
 #EXTINF:-1,SHOW TV EU
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520366&extension=ts
 #EXTINF:-1,SHOW MAX
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520365&extension=ts
 #EXTINF:-1,TV 8 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520364&extension=ts
-#EXTINF:-1,TV 8 HD
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520363&extension=ts
-#EXTINF:-1,TV 8 EU
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520362&extension=ts
-#EXTINF:-1,TV8 5 4K
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520361&extension=ts
 #EXTINF:-1,TV8.5 HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520360&extension=ts
 #EXTINF:-1,FOX TV 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520359&extension=ts
-#EXTINF:-1,FOX TV HD
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520358&extension=ts
 #EXTINF:-1,BEYAZ TV 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520357&extension=ts
-#EXTINF:-1,BEYAZ TV HD
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520356&extension=ts
 #EXTINF:-1,TEVE 2 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520355&extension=ts
 #EXTINF:-1,EURO D
@@ -63,58 +35,22 @@ http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520350&exten
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520349&extension=ts
 #EXTINF:-1,KANAL 7 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520348&extension=ts
-#EXTINF:-1,KANAL 7 HD
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520347&extension=ts
-#EXTINF:-1,KANAL 7 EU
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520346&extension=ts
-#EXTINF:-1,KANAL AVRUPA SAT
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520345&extension=ts
-#EXTINF:-1,CINE 1 SAT
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520310&extension=ts
-#EXTINF:-1,EURO D SAT
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520299&extension=ts
-#EXTINF:-1,EUROSTAR SAT
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520298&extension=ts
-#EXTINF:-1,TELE 1 SAT
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520246&extension=ts
-#EXTINF:-1,TEVE2 SAT
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520244&extension=ts
-#EXTINF:-1,TGRT EU SAT
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520243&extension=ts
-#EXTINF:-1,24 SAT
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520238&extension=ts
-#EXTINF:-1,TV 1 SAT
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520229&extension=ts
-#EXTINF:-1,TV 8 INT SAT
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520225&extension=ts
 #EXTINF:-1,A HABER 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520215&extension=ts
-#EXTINF:-1,A HABER SAT
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520214&extension=ts
 #EXTINF:-1,TRT HABER HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520213&extension=ts
 #EXTINF:-1,TGRT HABER
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520212&extension=ts
-#EXTINF:-1,TGRT HABER SAT
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520211&extension=ts
-#EXTINF:-1,HABER GLOBAL SAT
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520210&extension=ts
-#EXTINF:-1,HABERTURK SAT
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520209&extension=ts
 #EXTINF:-1,TRT TURK HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520208&extension=ts
 #EXTINF:-1,NTV 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520207&extension=ts
 #EXTINF:-1,CNN TURK HD
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520206&extension=ts
-#EXTINF:-1,CNN TÜRK SAT
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520205&extension=ts
 #EXTINF:-1,360 4K
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520204&extension=ts
 #EXTINF:-1,HALK TV
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520203&extension=ts
-#EXTINF:-1,HALK SAT
-http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520202&extension=ts
 #EXTINF:-1,TGRT BELGESEL
 http://4kforyou.pro:2052/play/live.php?mac=00:1A:79:ba:f4:b5&stream=520201&extension=ts
 #EXTINF:-1,TRT DIYANET
