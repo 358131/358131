@@ -140,8 +140,6 @@ http://xu.port360.xyz:8080/play/HnfCrfcbNSIsx96vtMRn4QclK3UuchF4AL1HYUUBCrs1gSbD
 #EXTINF:-1 ,TR: BEIN SPORTS 1 FHD HQ
 http://tgr25.pro:8080/live/recep09/09recep/52860.ts
 #EXTINF:-1  tvg-logo="https://i.hizliresim.com/4vv01zy.png",beIN Sports 1 [ Yedek 2 ]
-#EXTVLCOPT:http-referrer=http://roadsports.rf.gd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 http://client.newsborntvs.info/live/KreshnikDahri/bRjguwZe2/51323.m3u8
 #EXTINF:-1 ,TR: BEIN SPORTS 1 FEED (MAC ZAMANI)
 http://tgr25.pro:8080/live/recep09/09recep/211.ts
@@ -159,19 +157,19 @@ http://tgr25.pro:8080/live/recep09/09recep/255800.ts
 http://stream.tvcdn.net/spor/fb-tv.m3u8
 #EXTINF:-1  tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png",TJK TV
 http://stream.tvcdn.net/spor/tjk-tv.m3u8
-#EXTINF:-1  tvg-name="TBMM TV" tvg-logo="http://assets.tvcdn.net/370c4e6f-8d30-400c-b298-c6a37b19e5dd.png" group-title="Haber",TBMM TV
+#EXTINF:-1  tvg-name="TBMM TV" tvg-logo="http://assets.tvcdn.net/370c4e6f-8d30-400c-b298-c6a37b19e5dd.png",TBMM TV
 http://stream.tvcdn.net/haber/tbmm-tv.m3u8
-#EXTINF:-1  tvg-name="DHA Canlı 1" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="Haber",DHA Canlı 1
+#EXTINF:-1  tvg-name="DHA Canlı 1" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png",DHA Canlı 1
 http://stream.tvcdn.net/haber/dha-canli-1.m3u8
-#EXTINF:-1  tvg-name="DHA Canlı 2" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="Haber",DHA Canlı 2
+#EXTINF:-1  tvg-name="DHA Canlı 2" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png",DHA Canlı 2
 http://stream.tvcdn.net/haber/dha-canli-2.m3u8
-#EXTINF:-1  tvg-name="Çiftçi TV" tvg-id="CiftciTV.tr" tvg-logo="http://assets.tvcdn.net/0ddba95e-9ad0-4d8a-9527-b562e173da80.png" group-title="Belgesel",Çiftçi TV
+#EXTINF:-1  tvg-name="Çiftçi TV" tvg-id="CiftciTV.tr" tvg-logo="http://assets.tvcdn.net/0ddba95e-9ad0-4d8a-9527-b562e173da80.png",Çiftçi TV
 http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
-#EXTINF:-1  tvg-name="Tarım TV" tvg-id="TarimTV.tr" tvg-logo="http://assets.tvcdn.net/2038e897-1bbf-4744-8028-975e32561396.png" group-title="Belgesel",Tarım TV
+#EXTINF:-1  tvg-name="Tarım TV" tvg-id="TarimTV.tr" tvg-logo="http://assets.tvcdn.net/2038e897-1bbf-4744-8028-975e32561396.png",Tarım TV
 http://stream.tvcdn.net/belgesel/tarim-tv.m3u8
-#EXTINF:-1  tvg-name="Köy TV" tvg-id="KoyTV.tr" tvg-logo="http://assets.tvcdn.net/6014fb29-bf4c-4e83-8982-949179e6bd8e.png" group-title="Belgesel",Köy TV
+#EXTINF:-1  tvg-name="Köy TV" tvg-id="KoyTV.tr" tvg-logo="http://assets.tvcdn.net/6014fb29-bf4c-4e83-8982-949179e6bd8e.png",Köy TV
 http://stream.tvcdn.net/belgesel/koy-tv.m3u8
-#EXTINF:-1  tvg-name="Toprak TV" tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png" group-title="Belgesel",Toprak TV
+#EXTINF:-1  tvg-name="Toprak TV" tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png",Toprak TV
 http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
-#EXTINF:-1  tvg-name="TRT Çocuk" tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk&Eğitim",TRT Çocuk
+#EXTINF:-1  tvg-name="TRT Çocuk" tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png",TRT Çocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
