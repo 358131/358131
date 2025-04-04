@@ -48,7 +48,7 @@ https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:-1  tvg-name="Show TV" tvg-id="Show TV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png",Show TV
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:-1  tvg-name="Now TV" tvg-id="NOW.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",Now TV
-#http://116.202.238.88/FOXTV_TR/index.m3u8
+http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1  tvg-name="TV8" tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png",TV8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1  tvg-name="A2" tvg-id="a2.tr" tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png",A2
