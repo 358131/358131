@@ -39,34 +39,38 @@ http://89.33.14.39:25461/play/live.php?mac=00:1A:79:50:B9:EF&stream=3039&extensi
 http://89.33.14.39:25461/play/live.php?mac=00:1A:79:50:B9:EF&stream=3038&extension=ts
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT.1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
-#EXTINF:-1  tvg-name="atv" tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png",atv
-https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:-1  tvg-name="Kanal D" tvg-id="Kanal D.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png",Kanal D
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
-#EXTINF:-1  tvg-name="Now TV" tvg-id="NOW.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",Now TV
-#http://116.202.238.88/FOXTV_TR/index.m3u8
-#EXTINF:-1  tvg-name="Show TV" tvg-id="Show TV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png",Show TV
-http://stream.tvcdn.net/ulusal/show-tv.m3u8
-#EXTINF:-1  tvg-name="Beyaz TV" tvg-id="Beyaz TV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png",Beyaz TV
-http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
-#EXTINF:-1  tvg-name="Kanal 7" tvg-id="Kanal.7.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png",Kanal 7
-http://stream.tvcdn.net/ulusal/kanal-7.m3u8
-#EXTINF:-1  tvg-name="TV8" tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png",TV8
-http://stream.tvcdn.net/ulusal/tv8.m3u8
-#EXTINF:-1  tvg-name="TV8 5" tvg-id="TV 8 5.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png",TV8 5
-http://stream.tvcdn.net/eglence/tv8-5.m3u8
 #EXTINF:-1  tvg-name="Star TV" tvg-id="Star.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png",Star TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
+#EXTINF:-1  tvg-name="atv" tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png",atv
+https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
+#EXTINF:-1  tvg-name="Show TV" tvg-id="Show TV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png",Show TV
+http://stream.tvcdn.net/ulusal/show-tv.m3u8
+#EXTINF:-1  tvg-name="Now TV" tvg-id="NOW.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",Now TV
+#http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1  tvg-name="TV8" tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png",TV8
+http://stream.tvcdn.net/ulusal/tv8.m3u8
+#EXTINF:-1  tvg-name="A2" tvg-id="a2.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png",A2
+https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
+#EXTINF:-1  tvg-name="Kanal 7" tvg-id="Kanal.7.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png",Kanal 7
+http://stream.tvcdn.net/ulusal/kanal-7.m3u8
+#EXTINF:-1  tvg-name="Beyaz TV" tvg-id="Beyaz TV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png",Beyaz TV
+http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+#EXTINF:-1  tvg-name="TV8 5" tvg-id="TV 8 5.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png",TV8 5
+http://stream.tvcdn.net/eglence/tv8-5.m3u8
+#EXTINF:-1  tvg-name="Show Türk" tvg-id="Show TV.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png",Show Türk
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
 #EXTINF:-1  tvg-name="360 TV" tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png",360 TV
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
 #EXTINF:-1  tvg-name="Euro D" tvg-id="Euro D.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png",Euro D
 http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
-#EXTINF:-1  tvg-name="TGRT HABER" tvg-id="TGRT Haber.tr" tvg-logo="http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png",TGRT HABER
-https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
-#EXTINF:-1  tvg-name="Show Türk" tvg-id="Show TV.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png",Show Türk
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
+#EXTINF:-1  tvg-name="teve2" tvg-id="teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png",teve2
+http://stream.tvcdn.net/eglence/teve2.m3u8
 #EXTINF:-1  tvg-name="Kanal 7 Avrupa" tvg-id="Kanal7Avrupa.tr" tvg-logo="http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png",Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1  tvg-name="TGRT HABER" tvg-id="TGRT Haber.tr" tvg-logo="http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png",TGRT HABER
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1  tvg-name="TRT Haber" tvg-id="TRT Haber.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png",TRT Haber
 http://stream.tvcdn.net/haber/trt-haber.m3u8
 #EXTINF:-1  tvg-name="Habertürk" tvg-id="Haber Turk.tr" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png",Habertürk
@@ -97,10 +101,6 @@ http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
 #EXTINF:-1  tvg-name="CNBC-e" tvg-id="CNBC-E.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png",CNBC-e
 http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
-#EXTINF:-1  tvg-name="TRT 2" tvg-id="trt 2.tr" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png",TRT 2
-http://stream.tvcdn.net/eglence/trt-2.m3u8
-#EXTINF:-1  tvg-name="teve2" tvg-id="teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png",teve2
-http://stream.tvcdn.net/eglence/teve2.m3u8
 #EXTINF:-1  tvg-name="Show Max" tvg-id="ShowMax.tr" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png",Show Max
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:-1  tvg-name="TRT Spor" tvg-id="TRT Spor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png",TRT Spor
