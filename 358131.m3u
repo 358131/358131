@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/sht
 #EXTINF:-1  tvg-name="360 TV" tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1  tvg-name="Euro D" tvg-id="Euro D.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png",Euro D
-http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
+http://185.234.111.229:8000/play/a01w
 #EXTINF:-1  tvg-name="teve2" tvg-id="teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png",teve2
 http://stream.tvcdn.net/eglence/teve2.m3u8
 #EXTINF:-1  tvg-name="Kanal 7 Avrupa" tvg-id="Kanal7Avrupa.tr" tvg-logo="http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png",Kanal 7 Avrupa
