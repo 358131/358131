@@ -62,7 +62,7 @@ http://stream.tvcdn.net/eglence/tv8-5.m3u8
 #EXTINF:-1  tvg-name="Show Türk" tvg-id="Show TV.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png",Show Türk
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
 #EXTINF:-1  tvg-name="360 TV" tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png",360 TV
-http://stream.tvcdn.net/ulusal/360-tv.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1  tvg-name="Euro D" tvg-id="Euro D.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png",Euro D
 http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
 #EXTINF:-1  tvg-name="teve2" tvg-id="teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png",teve2
