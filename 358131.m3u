@@ -95,7 +95,7 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 #EXTINF:-1  tvg-name="Ekotürk" tvg-id="Ekol TV.tr" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png",Ekotürk
 https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
-#EXTINF:-1 tvg-name="Ekol TV.tr" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
+#EXTINF:-1 tvg-name="Ekoturk.tr" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1  tvg-name="CNBC-e" tvg-id="CNBC-E.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png",CNBC-e
 http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
