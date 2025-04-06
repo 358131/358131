@@ -135,6 +135,8 @@ http://stream.tvcdn.net/eglence/tlc.m3u8
 http://stream.tvcdn.net/eglence/tv-4.m3u8
 #EXTINF:-1  tvg-name="TGRT Belgesel" tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png",TGRT Belgesel
 http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
+#EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/trex.png" group-title="SINEMA",TREX KEMAL SUNAL
+http://alternativeviewpro.com:80/play/live.php?mac=00:1A:79:73:b3:3d&stream=260026&extension=ts&play_token=mSqaXbb2Fb&sn2=
 #EXTINF:-1  tvg-logo="https://i.hizliresim.com/4vv01zy.png",beIN Sports 1
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
 #EXTINF:-1  tvg-logo="https://i.hizliresim.com/4vv01zy.png",BEIN SPORTS 1 FHD
