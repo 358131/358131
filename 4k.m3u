@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1  group-title="ULUSAL",TEST
+#EXTINF:-1,TEST
 http://to-jest-link.cc:80/play/live.php?mac=00:1A:79:2D:5F:1B&stream=912456&extension=ts&play_token=OAnjHpwidd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTINF:-1  tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesactionhd.png" group-title="SINEMA",TEST1
+#EXTINF:-1,TEST1
 http://to-jest-link.cc:80/play/live.php?mac=00:1A:79:2D:5F:1B&stream=912456&extension=ts
 #EXTVLCOPT:http-user-agent=Wink/1.31.1
