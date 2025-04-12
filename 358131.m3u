@@ -97,6 +97,8 @@ http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
 #EXTINF:-1 tvg-name="Ekoturk.tr" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:-1  tvg-name="Kanal 24" tvg-id="Haber_Kanal24" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed" group-title="Haber",Kanal 24
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1  tvg-name="CNBC-e" tvg-id="CNBC-E.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png",CNBC-e
 http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
 #EXTINF:-1  tvg-name="Show Max" tvg-id="ShowMax.tr" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png",Show Max
