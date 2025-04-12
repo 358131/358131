@@ -136,7 +136,7 @@ http://stream.tvcdn.net/eglence/tlc.m3u8
 #EXTINF:-1  tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png",TV 4
 http://stream.tvcdn.net/eglence/tv-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL" tvg-logo="http://103.176.90.118/picons-dino/logos/trex.png",KEMAL SUNAL
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/121568.ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:7e:76:e9&stream=913209&extension=ts&play_token=EBd2ZQgZkd
 #EXTINF:-1  tvg-name="TGRT Belgesel" tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png",TGRT Belgesel
 http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
 #EXTINF:-1  tvg-logo="https://i.hizliresim.com/4vv01zy.png",beIN Sports 1
