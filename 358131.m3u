@@ -1,42 +1,42 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
 #EXTINF:-1  tvg-name="SINEMA" tvg-id="Sinema Tv.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-tv-768x104.png",SINEMA
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913322&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913322&extension=ts
 #EXTINF:-1  tvg-name="SINEMA 2" tvg-id="Sinema Tv 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-2-tv-768x117.png",SINEMA 2
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913321&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913321&extension=ts
 #EXTINF:-1  tvg-name="SINEMA AKSİYON" tvg-id="Sinema Tv Aksiyon.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-768x70.png",SINEMA AKSİYON
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913314&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913314&extension=ts
 #EXTINF:-1  tvg-name="SINEMA AKSİYON 2" tvg-id="Sinema Tv Aksiyon 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-2.png",SINEMA AKSİYON 2
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913313&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913313&extension=ts
 #EXTINF:-1  tvg-name="SINEMA AILE" tvg-id="Sinema Tv Aile.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png",SINEMA AILE
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913318&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913318&extension=ts
 #EXTINF:-1  tvg-name="SINEMA AILE 2" tvg-id="Sinema Tv Aile 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aile.png",SINEMA AILE 2
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913317&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913317&extension=ts
 #EXTINF:-1  tvg-name="SINEMA KOMEDI" tvg-id="Sinema Tv Comedy.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png",SINEMA KOMEDI
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913316&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913316&extension=ts
 #EXTINF:-1  tvg-name="SINEMA KOMEDI 2" tvg-id="Sinema Tv Comedy 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komedi.png",SINEMA KOMEDI 2
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913315&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913315&extension=ts
 #EXTINF:-1  tvg-name="SINEMA 1001" tvg-id="Sinema Tv 1001.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1001-768x94.png",SINEMA 1001
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913312&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913312&extension=ts
 #EXTINF:-1  tvg-name="SINEMA 1002" tvg-id="Sinema Tv 1002.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1002.png",SINEMA 1002
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913311&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913311&extension=ts
 #EXTINF:-1  tvg-name="SINEMA YERLI" tvg-id="Sinema.Yerli.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema_yerli.png",SINEMA YERLI
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913320&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913320&extension=ts
 #EXTINF:-1  tvg-name="SINEMA YERLI 2" tvg-id="Sinema.Yerli.2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-yerli-2.png",SINEMA YERLI 2
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913319&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913319&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Action" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png",beIN Movies Action
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913330&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913330&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Action 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-2-logo.png",beIN Movies Action 2
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913329&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913329&extension=ts
 #EXTINF:-1  tvg-name="beIN Series 1" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-1-logo.png?rkt=DfS6Tgv6Hjr93k3",beIN Series 1
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913325&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913325&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Premiere" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3",beIN Movies Premiere
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913328&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913328&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Premiere 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-premiere-logo-2.png",beIN Movies Premiere 2
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913327&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913327&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Stars" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-stars-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3",beIN Movies Stars
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913331&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913331&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Turk" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png?rkt=DfS6Tgv6Hjr93k3",beIN Movies Turk
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913333&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913333&extension=ts
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT.1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-name="Kanal D" tvg-id="Kanal D.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png",Kanal D
@@ -104,7 +104,7 @@ http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
 #EXTINF:-1  tvg-name="Show Max" tvg-id="ShowMax.tr" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png",Show Max
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:-1  tvg-name="Ulusal Kanal" tvg-id="Ulusal TV.tr" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png",Ulusal Kanal
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=912898&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=912898&extension=ts
 #EXTINF:-1  tvg-name="Bengütürk TV" tvg-id="Benguturk TV.tr" tvg-logo="http://assets.tvcdn.net/a8fd43de-872a-4e58-9f07-ff22d21a6c24.png",Bengütürk TV
 http://stream.tvcdn.net/haber/benguturk-tv.m3u8
 #EXTINF:-1  tvg-name="TRT Spor" tvg-id="TRT Spor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png",TRT Spor
@@ -138,7 +138,7 @@ http://stream.tvcdn.net/eglence/tlc.m3u8
 #EXTINF:-1  tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png",TV 4
 http://stream.tvcdn.net/eglence/tv-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL" tvg-logo="http://103.176.90.118/picons-dino/logos/trex.png",KEMAL SUNAL
-http://uhd3.one:80/play/live.php?mac=00:1A:79:74:7F:B3&stream=913209&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:e6:18:04&stream=913209&extension=ts
 #EXTINF:-1  tvg-name="TGRT Belgesel" tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png",TGRT Belgesel
 http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
 #EXTINF:-1  tvg-logo="https://i.hizliresim.com/4vv01zy.png",beIN Sports 1
