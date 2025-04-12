@@ -157,12 +157,6 @@ http://tgr25.pro:8080/live/recep09/09recep/103633.ts
 http://tgr25.pro:8080/live/recep09/09recep/103632.ts
 #EXTINF:-1 ,TR: BEIN SPORTS 1 HD (MAC ZAMANI)*
 http://tgr25.pro:8080/live/recep09/09recep/255800.ts
-#EXTINF:-1  tvg-name="FB TV" tvg-id="FBTV.tr" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png",FB TV
-http://stream.tvcdn.net/spor/fb-tv.m3u8
-#EXTINF:-1  tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png",TJK TV
-http://stream.tvcdn.net/spor/tjk-tv.m3u8
-#EXTINF:-1  tvg-name="TBMM TV" tvg-logo="http://assets.tvcdn.net/370c4e6f-8d30-400c-b298-c6a37b19e5dd.png",TBMM TV
-http://stream.tvcdn.net/haber/tbmm-tv.m3u8
 #EXTINF:-1  tvg-name="DHA Canlı 1" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png",DHA Canlı 1
 http://stream.tvcdn.net/haber/dha-canli-1.m3u8
 #EXTINF:-1  tvg-name="DHA Canlı 2" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png",DHA Canlı 2
