@@ -121,7 +121,7 @@ http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-name="Nat Geo Wild" tvg-id="National Geographic WILD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png",NAT GEO WiLD
 https://tv.prectv5.sbs/live/natgeowild.m3u8
-#EXTINF:-1  tvg-name="Nat Geo Wild" tvg-id="National Geographic WILD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png",NAT GEO WiLD - YEDEK
+#EXTINF:-1  tvg-name="Nat Geo Wild" tvg-id="National Geographic WILD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png",NAT GEO WiLD YEDEK
 http://89.33.14.39:25461/play/live.php?mac=00:1A:79:50:B9:EF&stream=2903&extension=ts
 #EXTINF:-1  tvg-name="Yaban TV" tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png",Yaban TV
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
