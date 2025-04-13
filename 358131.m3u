@@ -143,10 +143,10 @@ http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
 #EXTINF:-1  tvg-logo="https://i.hizliresim.com/4vv01zy.png",BEIN SPORTS 1 FHD
 http://xu.port360.xyz:8080/play/HnfCrfcbNSIsx96vtMRn4QclK3UuchF4AL1HYUUBCrs1gSbDJOLV6syAPnM6KRZY/ts
-#EXTINF:-1,TR: BEIN SPORTS 4K HQ
-http://tgr25.pro:8080/live/recep09/09recep/216.ts
 #EXTINF:-1 ,TR: BEIN SPORTS 1 FHD HQ
 http://tgr25.pro:8080/live/recep09/09recep/52860.ts
+#EXTINF:-1,TR: BEIN SPORTS 4K HQ
+http://tgr25.pro:8080/live/recep09/09recep/216.ts
 #EXTINF:-1  tvg-logo="https://i.hizliresim.com/4vv01zy.png",beIN Sports 1 [ Yedek 2 ]
 http://client.newsborntvs.info/live/KreshnikDahri/bRjguwZe2/51323.m3u8
 #EXTINF:-1,TR: BEIN SPORTS 1 HD
