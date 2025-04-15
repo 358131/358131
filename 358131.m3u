@@ -93,9 +93,9 @@ https://tele1-live.ercdn.net/tele1/tele1.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1  tvg-name="Bloomberg HT" tvg-id="Bloomberg HT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png",Bloomberg HT
 http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
-#EXTINF:-1  tvg-name="Ekotürk" tvg-id="Ekol TV.tr" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png",Ekotürk
+#EXTINF:-1  tvg-name="Ekotürk" tvg-id="Ekoturk.tr" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png",Ekotürk
 http://185.234.111.229:8000/play/a00w
-#EXTINF:-1 tvg-name="Ekoturk.tr" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
+#EXTINF:-1 tvg-name="EKOL TV" tvg-id="Ekol TV.tr" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1  tvg-name="CNBC-e" tvg-id="CNBC-E.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png",CNBC-e
 http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
