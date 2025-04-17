@@ -56,7 +56,7 @@ https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
 #EXTINF:-1  tvg-name="Kanal 7" tvg-id="Kanal 7.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png",Kanal 7
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 #EXTINF:-1  tvg-name="Beyaz TV" tvg-id="Beyaz TV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png",Beyaz TV
-http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1  tvg-name="TV8 5" tvg-id="TV 8,5.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png",TV8 5
 http://stream.tvcdn.net/eglence/tv8-5.m3u8
 #EXTINF:-1  tvg-name="Show Türk" tvg-id="Show TV.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png",Show Türk
