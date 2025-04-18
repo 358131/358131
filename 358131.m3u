@@ -44,7 +44,7 @@ https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1  tvg-name="Star TV" tvg-id="Star.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png",Star TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
 #EXTINF:-1  tvg-name="atv" tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png",atv
-https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
+http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1  tvg-name="Show TV" tvg-id="Show TV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1  tvg-name="Now TV" tvg-id="NOW.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",Now TV
@@ -139,6 +139,8 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 http://oceanstream.me:80/play/live.php?mac=00:1A:79:74:aa:81&stream=913209&extension=ts
 #EXTINF:-1  tvg-name="TGRT Belgesel" tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png",TGRT Belgesel
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+#EXTINF:-1  tvg-name="NBA TV" tvg-id="NBA Sport.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png",NBA TV
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10019
 #EXTINF:-1  tvg-logo="https://i.hizliresim.com/4vv01zy.png",beIN Sports 1
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
 #EXTINF:-1  tvg-logo="https://i.hizliresim.com/4vv01zy.png",BEIN SPORTS 1 FHD
