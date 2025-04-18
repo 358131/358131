@@ -130,11 +130,11 @@ http://tgr25.pro:8080/live/recep09/09recep/104521.ts
 #EXTINF:-1  tvg-name="Discovery.tr" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1",DISCOVERY CHANNEL
 http://tgr25.pro:8080/live/recep09/09recep/186391.ts
 #EXTINF:-1  tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png",DMAX
-http://stream.tvcdn.net/eglence/dmax.m3u8
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1  tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png",TLC
-http://stream.tvcdn.net/eglence/tlc.m3u8
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1  tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png",TV 4
-http://stream.tvcdn.net/eglence/tv-4.m3u8
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL" tvg-logo="http://103.176.90.118/picons-dino/logos/trex.png",KEMAL SUNAL
 http://oceanstream.me:80/play/live.php?mac=00:1A:79:74:aa:81&stream=913209&extension=ts
 #EXTINF:-1  tvg-name="TGRT Belgesel" tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png",TGRT Belgesel
