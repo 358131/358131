@@ -146,9 +146,9 @@ http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
 #EXTINF:-1,BEIN SPORTS 1 MAC 1
 http://oceanstream.me:80/play/live.php?mac=00:1A:79:74:aa:81&stream=913457&extension=ts
 #EXTINF:-1,BEIN SPORTS 1 MAC 2
-http://uhd3.one:80/play/live.php?mac=00:1A:79:7e:76:e9&stream=913459&extension=ts
-#EXTINF:-1,BEIN SPORTS 1 MAC 3
 http://194.76.0.140:80/play/live.php?mac=00:1A:79:74:08:78&stream=423479&extension=ts
+#EXTINF:-1,BEIN SPORTS 1 MAC 3
+http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913459&extension=ts
 #EXTINF:-1,BEIN SPORTS 1 FHD HQ
 http://tgr25.pro:8080/live/recep09/09recep/52860.ts
 #EXTINF:-1,BEIN SPORTS 4K HQ
