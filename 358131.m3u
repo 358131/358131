@@ -24,19 +24,19 @@ http://oceanstream.me:80/play/live.php?mac=00:1A:79:74:aa:81&stream=913320&exten
 #EXTINF:-1  tvg-name="SINEMA YERLI 2" tvg-id="Sinema.Yerli.2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-yerli-2.png",SINEMA YERLI 2
 http://oceanstream.me:80/play/live.php?mac=00:1A:79:74:aa:81&stream=913319&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Action" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png",beIN Movies Action
-http://uhd3.one:80/play/live.php?mac=00:1A:79:7e:76:e9&stream=913330&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913330&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Action 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-2-logo.png",beIN Movies Action 2
-http://uhd3.one:80/play/live.php?mac=00:1A:79:7e:76:e9&stream=913329&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913329&extension=ts
 #EXTINF:-1  tvg-name="beIN Series 1" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-1-logo.png?rkt=DfS6Tgv6Hjr93k3",beIN Series 1
-http://uhd3.one:80/play/live.php?mac=00:1A:79:7e:76:e9&stream=913325&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913325&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Premiere" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3",beIN Movies Premiere
-http://uhd3.one:80/play/live.php?mac=00:1A:79:7e:76:e9&stream=913328&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913328&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Premiere 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-premiere-logo-2.png",beIN Movies Premiere 2
-http://uhd3.one:80/play/live.php?mac=00:1A:79:7e:76:e9&stream=913327&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913327&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Stars" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-stars-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3",beIN Movies Stars
-http://uhd3.one:80/play/live.php?mac=00:1A:79:7e:76:e9&stream=913331&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913331&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Turk" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png?rkt=DfS6Tgv6Hjr93k3",beIN Movies Turk
-http://uhd3.one:80/play/live.php?mac=00:1A:79:7e:76:e9&stream=913333&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913333&extension=ts
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT 1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-name="Kanal D" tvg-id="Kanal D.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png",Kanal D
