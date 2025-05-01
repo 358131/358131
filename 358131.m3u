@@ -114,13 +114,13 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1  tvg-name="Sports TV" tvg-id="Sports Tv.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1  tvg-name="beIN Sports Haber" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png",beIN Sports Haber
-http://194.76.0.140:80/play/live.php?mac=00:1A:79:74:08:78&stream=2067&extension=ts
+http://line.myox.me:80/play/live.php?mac=00:1A:79:E7:50:21&stream=913440&extension=ts
 #EXTINF:-1  tvg-name="Tivibu Spor" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png",Tivibu Spor
 https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
 #EXTINF:-1  tvg-name="TRT Belgesel.tr" tvg-id="TRT.Belgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-name="Nat Geo Wild" tvg-id="National Geographic WILD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png",NAT GEO WiLD
-http://194.76.0.140:80/play/live.php?mac=00:1A:79:74:08:78&stream=1889&extension=ts
+http://line.myox.me:80/play/live.php?mac=00:1A:79:E7:50:21&stream=913189&extension=ts
 #EXTINF:-1  tvg-name="Nat Geo Wild" tvg-id="National Geographic WILD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png",NAT GEO WiLD YEDEK
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1  tvg-name="Yaban TV" tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png",Yaban TV
@@ -140,13 +140,11 @@ http://oceanstream.me:80/play/live.php?mac=00:1A:79:e0:c2:53&stream=913209&exten
 #EXTINF:-1  tvg-name="TGRT Belgesel" tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png",TGRT Belgesel
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1  tvg-name="NBA TV" tvg-id="NBA Sport.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png",NBA TV
-http://194.76.0.140:80/play/live.php?mac=00:1A:79:74:08:78&stream=145714&extension=ts
-#EXTINF:-1  tvg-logo="https://i.hizliresim.com/4vv01zy.png",beIN Sports 1
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
+http://line.myox.me:80/play/live.php?mac=00:1A:79:E7:50:21&stream=yox.me:80/play/live.php?mac=00:1A:79:E7:50:21&extension=ts&play_token=XHZkqCq6Wu
 #EXTINF:-1,BEIN SPORTS 1 MAC 1
 http://oceanstream.me:80/play/live.php?mac=00:1A:79:e0:c2:53&stream=913457&extension=ts
 #EXTINF:-1,BEIN SPORTS 1 MAC 2
-http://194.76.0.140:80/play/live.php?mac=00:1A:79:74:08:78&stream=423479&extension=ts
+http://line.myox.me:80/play/live.php?mac=00:1A:79:E7:50:21&stream=913459&extension=ts
 #EXTINF:-1,BEIN SPORTS 1 MAC 3
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913459&extension=ts
 #EXTINF:-1,BEIN SPORTS 1 FHD HQ
