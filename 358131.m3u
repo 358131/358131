@@ -114,10 +114,10 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1  tvg-name="Sports TV" tvg-id="Sports Tv.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1  tvg-name="beIN Sports Haber" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png",beIN Sports Haber
-http://line.myox.me:80/play/live.php?mac=00:1A:79:E7:50:21&stream=913440&extension=ts
+http://line.myox.me:80/play/live.php?mac=00:1A:79:BD:41:4F&stream=913440&extension=ts
 #EXTINF:-1  tvg-name="Tivibu Spor" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png",Tivibu Spor
 https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
-#EXTINF:-1  tvg-name="TRT Belgesel.tr" tvg-id="TRT.Belgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png",TRT BELGESEL
+#EXTINF:-1  tvg-name="TRT Belgesel.tr" tvg-id="TRT.Belgesel.tr" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-belgesel-televizyon-kanali.0baaa5a.png",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-name="Nat Geo Wild" tvg-id="National Geographic WILD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png",NAT GEO WiLD
 http://line.myox.me:80/play/live.php?mac=00:1A:79:BD:41:4F&stream=913189&extension=ts
