@@ -142,10 +142,12 @@ https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1  tvg-name="NBA TV" tvg-id="NBA Sport.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png",NBA TV
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913368&extension=ts
 #EXTINF:-1,BEIN SPORTS 1 MAC 1
-http://line.myox.me:80/play/live.php?mac=00:1A:79:E7:50:21&stream=913459&extension=ts
-#EXTINF:-1,BEIN SPORTS 1 MAC 2
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913459&extension=ts
+#EXTINF:-1,BEIN SPORTS 1 MAC 2
+http://line.myox.me:80/play/live.php?mac=00:1A:79:BD:41:4F&stream=913459&extension=ts
 #EXTINF:-1,BEIN SPORTS 1 MAC 3
+http://line.myox.me:80/play/live.php?mac=00:1A:79:0D:F0:61&stream=913459&extension=ts
+#EXTINF:-1,BEIN SPORTS 1 MAC 4
 http://oceanstream.me:80/play/live.php?mac=00:1A:79:a2:98:dd&stream=913457&extension=ts
 #EXTINF:-1,BEIN SPORTS 1 FHD HQ
 http://tgr25.pro:8080/live/recep09/09recep/52860.ts
