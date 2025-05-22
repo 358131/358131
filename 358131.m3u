@@ -96,7 +96,7 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1  tvg-name="Bloomberg HT" tvg-id="Bloomberg HT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1  tvg-name="Ekotürk" tvg-id="Ekoturk.tr" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png",Ekotürk
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=1552760&extension=ts
+https://tinyurl.com/bdzkcxb3
 #EXTINF:-1 tvg-name="EKOL TV" tvg-id="Ekol TV.tr" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1  tvg-name="CNBC-e" tvg-id="CNBC-E.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png",CNBC-e
@@ -127,6 +127,8 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913189&extension=ts
 #EXTINF:-1  tvg-name="Yaban TV" tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png",Yaban TV
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
+#EXTINF:-1  tvg-name="Doğa Sevgisi" tvg-id="Love Nature.tr" tvg-logo="https://yt3.googleusercontent.com/H3otdAx8EryD1cOq9EJyweBjLai0dZZtFY3mBEVn4sHxDO7JexucPsp19HwCTnrUe42c4C1_aTQ=s160-c-k-c0x00ffffff-no-rj",Doğa Sevgisi
+https://tv1.arectv30.sbs/live/lovenature.m3u8
 #EXTINF:-1  tvg-name="National Geographic.tr" tvg-id="National Geographic.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",NAT GEO HD
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1  tvg-name="Discovery.tr" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1",DISCOVERY CHANNEL
