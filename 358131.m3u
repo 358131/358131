@@ -127,7 +127,7 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913189&extension=ts
 #EXTINF:-1  tvg-name="Yaban TV" tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png",Yaban TV
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
-#EXTINF:-1  tvg-name="Doğa Sevgisi" tvg-id="Love Nature.tr" tvg-logo="https://yt3.googleusercontent.com/H3otdAx8EryD1cOq9EJyweBjLai0dZZtFY3mBEVn4sHxDO7JexucPsp19HwCTnrUe42c4C1_aTQ=s160-c-k-c0x00ffffff-no-rj",Doğa Sevgisi
+#EXTINF:-1  tvg-name="Doğa Sevgisi" tvg-id="Love Nature.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Love_Nature_%282025%29.svg/revision/latest?cb=20250206095703",Doğa Sevgisi
 https://tv1.arectv30.sbs/live/lovenature.m3u8
 #EXTINF:-1  tvg-name="National Geographic.tr" tvg-id="National Geographic.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",NAT GEO HD
 https://saran-live.ercdn.net/natgeohd/index.m3u8
