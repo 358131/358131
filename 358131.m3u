@@ -135,7 +135,7 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1  tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL" tvg-logo="http://103.176.90.118/picons-dino/logos/trex.png",KEMAL SUNAL
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2023/07/02/thumbs_b_c_d0016ff7fe0413204939e2bb8cf61913.jpg?v=134948",KEMAL SUNAL
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913209&extension=ts
 #EXTINF:-1  tvg-name="TGRT Belgesel" tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png",TGRT Belgesel
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
@@ -147,8 +147,6 @@ http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913459&extension=t
 http://line.myox.me:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913459&extension=ts
 #EXTINF:-1,BEIN SPORTS 1 MAC 3
 http://line.myox.me:80/play/live.php?mac=00:1A:79:0D:F0:61&stream=913459&extension=ts
-#EXTINF:-1,BEIN SPORTS 1 MAC 4
-http://oceanstream.me:80/play/live.php?mac=00:1A:79:a2:98:dd&stream=913457&extension=ts
 #EXTINF:-1,BEIN SPORTS 1 FHD HQ
 http://tgr25.pro:8080/live/recep09/09recep/52860.ts
 #EXTINF:-1,BEIN SPORTS 4K HQ
