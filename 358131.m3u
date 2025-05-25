@@ -97,8 +97,8 @@ https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 https://tinyurl.com/bdzkcxb3
 #EXTINF:-1 tvg-name="EKOL TV" tvg-id="Ekol TV.tr" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:-1  tvg-name="CNN TURK" tvg-id="CNN Turk.tr" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",CNN TURK
-http://162.212.179.33:80/dvrfl05/gin-cnn-turk/playlist.m3u8
+#EXTINF:-1  tvg-name="CNN TURK" tvg-id="CNN Turk.tr" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TURK
+https://b.fulltvizle.com/cnn/index.m3u8
 #EXTINF:-1  tvg-name="TVnet" tvg-id="TV Net.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tvnet.png/800px-Tvnet.png",TVnet
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1  tvg-name="CNBC-e" tvg-id="CNBC-E.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png",CNBC-e
