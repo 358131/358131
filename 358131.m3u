@@ -109,6 +109,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shm
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=912898&extension=ts
 #EXTINF:-1  tvg-name="Bengütürk TV" tvg-id="Benguturk TV.tr" tvg-logo="http://assets.tvcdn.net/a8fd43de-872a-4e58-9f07-ff22d21a6c24.png",Bengütürk TV
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
+#EXTINF:-1 tvg-name="A Para" tvg-id="A Para.tr" tvg-logo="https://i.ibb.co/20jG5Pnx/GjHnq0c.png",A Para
+http://185.234.111.229:8000/play/a01l
 #EXTINF:-1  tvg-name="TRT Spor" tvg-id="TRT Spor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png",TRT Spor
 https://trt.daioncdn.net/trtspor/master_720p.m3u8?app=web
 #EXTINF:-1  tvg-name="TRT Spor Yıldız" tvg-id="TRT Spor Yıldız.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png",TRT Spor Yıldız
