@@ -23,6 +23,8 @@ http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913311&extension=t
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913320&extension=ts
 #EXTINF:-1  tvg-name="SINEMA YERLI 2" tvg-id="Sinema.Yerli.2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-yerli-2.png",SINEMA YERLI 2
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913319&extension=ts
+#EXTINF:-1 tvg-id="FX.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/330px-FX_International_logo.svg.png",FX
+https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1  tvg-name="beIN Movies Action" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png",beIN Movies Action
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913330&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Action 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-2-logo.png",beIN Movies Action 2
