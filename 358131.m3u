@@ -40,9 +40,9 @@ http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913331&extension=t
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913333&extension=ts
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT 1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
-#EXTINF:-1  tvg-name="Kanal D" tvg-id="Kanal D.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png",Kanal D
+#EXTINF:-1  tvg-name="Kanal D" tvg-id="KANAL D.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF:-1  tvg-name="Star TV" tvg-id="Star.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png",Star TV
+#EXTINF:-1  tvg-name="Star TV" tvg-id="STAR TV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png",Star TV
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1  tvg-name="atv" tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png",atv
 http://89.187.191.41/ATV-HD-TR/video.m3u8
@@ -113,7 +113,7 @@ http://a3fc2fc5.rossteleccom.net/iptv/8T2MH6W8ZDP8PZXZ4RMX7P6Q/6931/index.m3u8
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 tvg-name="A Para" tvg-id="A Para.tr" tvg-logo="https://i.ibb.co/20jG5Pnx/GjHnq0c.png",A Para
 http://5.144.1.235:29981/stream/channelid/1822321754?profile=pass
-#EXTINF:-1  tvg-name="TRT Spor" tvg-id="TRT SPOR.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png",TRT Spor
+#EXTINF:-1  tvg-name="TRT Spor" tvg-id="TRT SPOR YILDIZ.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png",TRT Spor
 https://trt.daioncdn.net/trtspor/master_720p.m3u8?app=web
 #EXTINF:-1  tvg-name="TRT Spor Yıldız" tvg-id="TRT Spor Yıldız.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png",TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
