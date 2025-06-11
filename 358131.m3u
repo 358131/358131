@@ -73,7 +73,7 @@ https://tinyurl.com/yy236z5j
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1  tvg-name="TGRT HABER" tvg-id="TGRT HABER.tr" tvg-logo="http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
-#EXTINF:-1  tvg-name="TRT Haber" tvg-id="TRT Haber.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png",TRT Haber
+#EXTINF:-1  tvg-name="TRT Haber" tvg-id="TRT HABER.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-name="Habertürk" tvg-id="HABERTURK.tr" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png",Habertürk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
