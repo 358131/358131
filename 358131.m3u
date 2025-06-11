@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey1.xml"
-#EXTINF:-1  tvg-name="SINEMA" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-tv-768x104.png",SINEMA
+#EXTINF:-1  tvg-name="SINEMA" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-tv-768x104.png",SINEMA.
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913322&extension=ts
 #EXTINF:-1  tvg-name="SINEMA 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-2-tv-768x117.png",SINEMA 2
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913321&extension=ts
