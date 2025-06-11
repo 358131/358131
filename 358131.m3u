@@ -1,30 +1,24 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml"
-#EXTINF:-1  tvg-name="SINEMA" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-tv-768x104.png",SINEMA.
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913322&extension=ts
-#EXTINF:-1  tvg-name="SINEMA 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-2-tv-768x117.png",SINEMA 2
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913321&extension=ts
-#EXTINF:-1  tvg-name="SINEMA AKSİYON" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-768x70.png",SINEMA AKSİYON
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913314&extension=ts
-#EXTINF:-1  tvg-name="SINEMA AKSİYON 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-2.png",SINEMA AKSİYON 2
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913313&extension=ts
-#EXTINF:-1  tvg-name="SINEMA AILE" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png",SINEMA AILE
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913318&extension=ts
-#EXTINF:-1  tvg-name="SINEMA AILE 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aile.png",SINEMA AILE 2
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913317&extension=ts
-#EXTINF:-1  tvg-name="SINEMA KOMEDI" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png",SINEMA KOMEDI
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913316&extension=ts
+#EXTINF:-1  tvg-name="SINEMA" tvg-id="SİNEMA TV HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-tv-768x104.png",SINEMA
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:42:2E:35&stream=89835&extension=ts
+#EXTINF:-1  tvg-name="SINEMA 2" tvg-id="SİNEMA TV 2 HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-2-tv-768x117.png",SINEMA 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:42:2E:35&stream=89836&extension=ts
+#EXTINF:-1  tvg-name="SINEMA AKSİYON" tvg-id="SİNEMA TV AKSİYON HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-768x70.png",SINEMA AKSİYON
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:42:2E:35&stream=89839&extension=ts
+#EXTINF:-1  tvg-name="SINEMA AKSİYON 2" tvg-id="SİNEMA AKSİYON 2 HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-2.png",SINEMA AKSİYON 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:42:2E:35&stream=170405&extension=ts
+#EXTINF:-1  tvg-name="SINEMA KOMEDI" tvg-id="SİNEMA KOMEDİ HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png",SINEMA KOMEDI
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:42:2E:35&stream=170407&extension=ts
 #EXTINF:-1  tvg-name="SINEMA KOMEDI 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komedi.png",SINEMA KOMEDI 2
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913315&extension=ts
-#EXTINF:-1  tvg-name="SINEMA 1001" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1001-768x94.png",SINEMA 1001
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913312&extension=ts
-#EXTINF:-1  tvg-name="SINEMA 1002" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1002.png",SINEMA 1002
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913311&extension=ts
-#EXTINF:-1  tvg-name="SINEMA YERLI" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema_yerli.png",SINEMA YERLI
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913320&extension=ts
-#EXTINF:-1  tvg-name="SINEMA YERLI 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-yerli-2.png",SINEMA YERLI 2
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913319&extension=ts
-#EXTINF:-1  tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/330px-FX_International_logo.svg.png",FX
-https://saran-live.ercdn.net/fx/index.m3u8
+#EXTINF:-1  tvg-name="SINEMA 1001" tvg-id="SİNEMA TV 1001 HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1001-768x94.png",SINEMA 1001
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:42:2E:35&stream=89837&extension=ts
+#EXTINF:-1  tvg-name="SINEMA 1002" tvg-id="SİNEMA 1002 HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1002.png",SINEMA 1002
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:42:2E:35&stream=89834&extension=ts
+#EXTINF:-1  tvg-name="SINEMA YERLI" tvg-id="SİNEMA YERLİ HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema_yerli.png",SINEMA YERLI
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:42:2E:35&stream=170408&extension=ts
+#EXTINF:-1  tvg-name="SINEMA YERLI 2" tvg-id="SİNEMA YERLİ 2 HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-yerli-2.png",SINEMA YERLI 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:42:2E:35&stream=170406&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Action" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png",beIN Movies Action
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913330&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Action 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-2-logo.png",beIN Movies Action 2
@@ -37,6 +31,12 @@ http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913327&extension=t
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913331&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Turk" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png?rkt=DfS6Tgv6Hjr93k3",beIN Movies Turk
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913333&extension=ts
+#EXTINF:-1  tvg-name="" tvg-logo="",Moviesmart Classic
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:42:2E:35&stream=2918&extension=ts
+#EXTINF:-1  tvg-name="" tvg-logo="",Yerli Komedi 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:42:2E:35&stream=184263&extension=ts
+#EXTINF:-1  tvg-name="" tvg-logo="",Yerli komedi 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:42:2E:35&stream=184266&extension=ts
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT1 HD.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png",TRT1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
 #EXTINF:-1  tvg-name="Kanal D" tvg-id="KANAL D HD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png",Kanal D
@@ -59,15 +59,15 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1  tvg-name="TV8 5" tvg-id="TV8,5 HD.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png",TV8 5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1  tvg-name="Show Türk" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png",Show Türk
+#EXTINF:-1  tvg-name="Show Türk" tvg-id="SHOW TV HD.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png",Show Türk
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showturk.m3u8
 #EXTINF:-1  tvg-name="360 TV" tvg-id="360 HD.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1  tvg-name="Euro D" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png",Euro D
+#EXTINF:-1  tvg-name="Euro D" tvg-id="KANAL D HD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:-1  tvg-name="teve2" tvg-id="TEVE2 HD.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png",teve2
 #https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
-#EXTINF:-1  tvg-name="Kanal 7 Avrupa" tvg-logo="http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png",Kanal 7 Avrupa
+#EXTINF:-1  tvg-name="Kanal 7 Avrupa" tvg-id="KANAL 7 HD.tr" tvg-logo="http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png",Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1  tvg-name="TGRT HABER" tvg-id="TGRT HABER HD.tr" tvg-logo="http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
