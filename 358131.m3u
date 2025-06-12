@@ -59,8 +59,8 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1  tvg-name="TV8 5" tvg-id="TV8,5 HD.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png",TV8 5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1  tvg-name="Show Türk" tvg-id="SHOW TV HD.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png",Show Türk
-https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showturk.m3u8
+#EXTINF:-1  tvg-name="TV 4" tvg-id="TV 4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1  tvg-name="360 TV" tvg-id="360 HD.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1  tvg-name="Euro D" tvg-id="KANAL D HD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png",Euro D
@@ -70,6 +70,8 @@ https://tinyurl.com/yy236z5j
 #https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1  tvg-name="Kanal 7 Avrupa" tvg-id="KANAL 7 HD.tr" tvg-logo="http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png",Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1  tvg-name="Show Türk" tvg-id="SHOW TV HD.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png",Show Türk
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showturk.m3u8
 #EXTINF:-1  tvg-name="TGRT HABER" tvg-id="TGRT HABER HD.tr" tvg-logo="http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1  tvg-name="TRT Haber" tvg-id="TRT HABER HD.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png",TRT Haber
@@ -140,8 +142,6 @@ http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/6861/index.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1  tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:-1  tvg-name="TV 4" tvg-id="TV 4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png",TV 4
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1  tvg-name="KEMAL SUNAL" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2023/07/02/thumbs_b_c_d0016ff7fe0413204939e2bb8cf61913.jpg?v=134948",KEMAL SUNAL
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913209&extension=ts
 #EXTINF:-1  tvg-name="TGRT Belgesel" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png",TGRT Belgesel
