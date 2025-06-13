@@ -67,7 +67,6 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:-1  tvg-name="teve2" tvg-id="TEVE2 HD.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png",teve2
 https://tinyurl.com/yy236z5j
-#https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1  tvg-name="Kanal 7 Avrupa" tvg-id="KANAL 7 HD.tr" tvg-logo="http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png",Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1  tvg-name="Show Türk" tvg-id="SHOW TV HD.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png",Show Türk
