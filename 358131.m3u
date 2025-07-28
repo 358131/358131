@@ -138,11 +138,9 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1  tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1  tvg-name="KEMAL SUNAL" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2023/07/02/thumbs_b_c_d0016ff7fe0413204939e2bb8cf61913.jpg?v=134948",KEMAL SUNAL
-http://185.110.188.246:8080/proxy/hls/manifest.m3u8?api_password=Yourpassword&d=http%3A%2F%2Fm.devbox.tv%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A36%3A7F%3A3F%26stream%3D185937%26extension%3Dts
+https://tinyurl.com/4dbfjmmy
 #EXTINF:-1  tvg-name="KEMAL SUNAL" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2023/07/02/thumbs_b_c_d0016ff7fe0413204939e2bb8cf61913.jpg?v=134948",KEMAL SUNAL 2
-http://185.110.188.246:8080/proxy/hls/manifest.m3u8?api_password=Yourpassword&d=http%3A%2F%2Fm.devbox.tv%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A36%3A7F%3A3F%26stream%3D186762%26extension%3Dts
-#EXTINF:-1  tvg-name="KEMAL SUNAL" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2023/07/02/thumbs_b_c_d0016ff7fe0413204939e2bb8cf61913.jpg?v=134948",KEMAL SUNAL 3
-http://185.110.188.246:8080/proxy/hls/manifest.m3u8?api_password=Yourpassword&d=http%3A%2F%2Fm.devbox.tv%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A36%3A7F%3A3F%26stream%3D186763%26extension%3Dts
+https://tinyurl.com/5n6ju84c
 #EXTINF:-1  tvg-name="TGRT Belgesel" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png",TGRT Belgesel
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1  tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png",NBA TV
@@ -175,5 +173,3 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=12013&.m3u8
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12274&.m3u8
 #EXTINF:-1  tvg-name="TRT Çocuk" tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1  , arka sokaklar
-https://kanaldvod.duhnet.tv/hls/Q/6F/as_717_bolum/as_717_bolum.smil/hlssubplaylist-ovbnGvek_oacnOx7.m3u8?&app=com.kanald&min=0&max=1250
