@@ -137,6 +137,8 @@ http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9992
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1  tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:-1  tvg-name="TİVİ6" tvg-id="TİVİ6.tr" tvg-logo="https://tivi6.com.tr/wp-content/uploads/2025/03/logo_448x200-01.png",TİVİ6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1  tvg-name="KEMAL SUNAL" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2023/07/02/thumbs_b_c_d0016ff7fe0413204939e2bb8cf61913.jpg?v=134948",KEMAL SUNAL
 https://tinyurl.com/kemal-sunal-358131
 #EXTINF:-1  tvg-name="KEMAL SUNAL" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2023/07/02/thumbs_b_c_d0016ff7fe0413204939e2bb8cf61913.jpg?v=134948",KEMAL SUNAL 2
