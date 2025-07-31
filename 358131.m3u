@@ -161,6 +161,16 @@ http://tgr25.pro:8080/live/recep09/09recep/211.ts
 http://tgr25.pro:8080/live/recep09/09recep/262993.ts
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 FEED FHD* (YEDEK)" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 FEED FHD* (YEDEK)
 http://tgr25.pro:8080/live/recep09/09recep/103631.ts
+#EXTINF:-1 ,S Sport 1
+https://lively1.cf4-86.workers.dev/static/ss11.m3u8
+#EXTINF:-1 ,S Sport 2
+https://lively1.cf4-86.workers.dev/static/ss2.m3u8
+#EXTINF:-1 ,S Sport +
+https://lively1.cf4-86.workers.dev/static/pl1.m3u8
+#EXTINF:-1 ,S Sport + 2
+https://lively1.cf4-86.workers.dev/static/pl2.m3u8
+#EXTINF:-1 ,S Sport + 3
+https://lively1.cf4-86.workers.dev/static/pl3.m3u8
 #EXTINF:-1  tvg-name="DHA Canlı 1" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png",DHA Canlı 1
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist.m3u8
 #EXTINF:-1  tvg-name="DHA Canlı 2" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png",DHA Canlı 2
