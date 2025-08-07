@@ -125,8 +125,6 @@ https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1  tvg-name="Sports TV" tvg-id="SPORTS TV HD.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1  tvg-name="Tivibu Spor" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png",Tivibu Spor
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=12843.m3u8
 #EXTINF:-1  tvg-name="TRT Belgesel.tr" tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-belgesel-televizyon-kanali.0baaa5a.png",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-name="Nat Geo Wild" tvg-id="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png",NAT GEO WiLD
