@@ -48,6 +48,7 @@ https://raw.githubusercontent.com/exfair/tv/refs/heads/main/code/atv.m3u8
 #EXTINF:-1  tvg-name="Show TV" tvg-id="SHOW TV HD.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1  tvg-name="Now TV" tvg-id="NOW.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",Now TV
+http://176.65.146.123:6002/play/a01j/index.m3u8
 http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1  tvg-name="TV8" tvg-id="TV8 HD.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png",TV8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
@@ -64,6 +65,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1  tvg-name="360 TV" tvg-id="360 HD.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1  tvg-name="Euro D" tvg-id="KANAL D HD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png",Euro D
+http://185.234.111.229:8000/play/a01w
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:-1  tvg-name="Kanal 7 Avrupa" tvg-id="KANAL 7 HD.tr" tvg-logo="http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png",Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
@@ -153,14 +155,10 @@ http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913459&extension=t
 http://line.myox.me:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913459&extension=ts
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 3
 http://line.myox.me:80/play/live.php?mac=00:1A:79:0D:F0:61&stream=913459&extension=ts
-#EXTINF:-1  tvg-name="BEIN SPORTS 1 FHD HQ" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 FHD HQ
-http://tgr25.pro:8080/live/recep09/09recep/52860.ts
-#EXTINF:-1  tvg-name="BEIN SPORTS 1 FEED (MAC ZAMANI)" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 FEED (MAC ZAMANI)
-http://tgr25.pro:8080/live/recep09/09recep/211.ts
-#EXTINF:-1  tvg-name="BEIN SPORTS 1 FHD 50 FPS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 FHD 50 FPS
-http://tgr25.pro:8080/live/recep09/09recep/262993.ts
-#EXTINF:-1  tvg-name="BEIN SPORTS 1 FEED FHD* (YEDEK)" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 FEED FHD* (YEDEK)
-http://tgr25.pro:8080/live/recep09/09recep/103631.ts
+#EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 4K
+https://tinyurl.com/bein-4k-358131
+#EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1
+https://tinyurl.com/bein-strm-358131
 #EXTINF:-1  tvg-name="DHA Canlı 1" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png",DHA Canlı 1
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist.m3u8
 #EXTINF:-1  tvg-name="DHA Canlı 2" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png",DHA Canlı 2
