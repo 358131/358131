@@ -119,7 +119,7 @@ https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor&dfp_paln=
 #EXTINF:-1  tvg-name="TRT Spor Yıldız" tvg-id="TRT SPOR YILDIZ.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png",TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master_1080.m3u8
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1  tvg-name="HT Spor" tvg-id="HT SPOR.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ht-spor-buyuk.webp/275px-Ht-spor-buyuk.webp.png",HT Spor
+#EXTINF:-1  tvg-name="HT Spor" tvg-id="HT SPOR.tr" tvg-logo="https://i.hizliresim.com/m67fu0t.png",HT Spor
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 #EXTINF:-1  tvg-name="A Spor" tvg-id="A SPOR HD.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
