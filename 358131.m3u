@@ -151,14 +151,14 @@ http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913368&extension=t
 https://tinyurl.com/bein-zirve-358131
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 -
 https://tinyurl.com/bein-mobile-358131
+#EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 ++
+https://tinyurl.com/bein-strm-358131
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 1
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913459&extension=ts
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 2" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 2
 http://line.myox.me:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913459&extension=ts
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 3
 http://line.myox.me:80/play/live.php?mac=00:1A:79:0D:F0:61&stream=913459&extension=ts
-#EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1
-https://tinyurl.com/bein-strm-358131
 #EXTINF:-1  tvg-name="DHA Canlı 1" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png",DHA Canlı 1
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist.m3u8
 #EXTINF:-1  tvg-name="DHA Canlı 2" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png",DHA Canlı 2
