@@ -147,12 +147,10 @@ https://tinyurl.com/kemal-sunal-358131
 https://tinyurl.com/kemal-sunal-2-358131
 #EXTINF:-1  tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png",NBA TV
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913368&extension=ts
-#EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 +
-https://tinyurl.com/bein-mobile-358131
-#EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 -
-https://tinyurl.com/bein-zirve-358131
-#EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 --
-https://tinyurl.com/bein-strm-358131
+#EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 FHD
+https://tinyurl.com/bein-govd-358131
+#EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1
+https://tinyurl.com/bein-h265-358131
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 1
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913459&extension=ts
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 2" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 2
