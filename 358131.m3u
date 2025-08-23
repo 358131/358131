@@ -22,15 +22,15 @@ http://m.devbox.tv:80/play/live.php?mac=00:1A:79:D1:38:5F&stream=170406&extensio
 #EXTINF:-1  tvg-name="beIN Movies Action" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png",beIN Movies Action
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913330&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Action 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-2-logo.png",beIN Movies Action 2
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913329&extension=ts
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:D1:38:5F&stream=3046&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Premiere" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3",beIN Movies Premiere
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913328&extension=ts
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:D1:38:5F&stream=89829&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Premiere 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-premiere-logo-2.png",beIN Movies Premiere 2
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913327&extension=ts
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:D1:38:5F&stream=3041&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Stars" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-stars-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3",beIN Movies Stars
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913331&extension=ts
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:D1:38:5F&stream=3039&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Turk" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png?rkt=DfS6Tgv6Hjr93k3",beIN Movies Turk
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913333&extension=ts
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:D1:38:5F&stream=3038&extension=ts
 #EXTINF:-1  tvg-name="" tvg-logo="",Yerli Komedi 1
 http://m.devbox.tv:80/play/live.php?mac=00:1A:79:D1:38:5F&stream=184263&extension=ts
 #EXTINF:-1  tvg-name="" tvg-logo="",Yerli Komedi 2
