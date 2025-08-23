@@ -31,12 +31,12 @@ http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913327&extension=t
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913331&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Turk" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png?rkt=DfS6Tgv6Hjr93k3",beIN Movies Turk
 http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913333&extension=ts
-#EXTINF:-1  tvg-name="" tvg-logo="",Moviesmart Classic
-http://185.110.188.246:8080/proxy/hls/manifest.m3u8?api_password=Yourpassword&d=http%3A%2F%2Fm.devbox.tv%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A36%3A7F%3A3F%26stream%3D2918%26extension%3Dts
 #EXTINF:-1  tvg-name="" tvg-logo="",Yerli Komedi 1
-http://185.110.188.246:8080/proxy/hls/manifest.m3u8?api_password=Yourpassword&d=http%3A%2F%2Fm.devbox.tv%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A36%3A7F%3A3F%26stream%3D184263%26extension%3Dts
-#EXTINF:-1  tvg-name="" tvg-logo="",Yerli komedi 2
-http://185.110.188.246:8080/proxy/hls/manifest.m3u8?api_password=Yourpassword&d=http%3A%2F%2Fm.devbox.tv%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A36%3A7F%3A3F%26stream%3D184266%26extension%3Dts
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:D1:38:5F&stream=184263&extension=ts
+#EXTINF:-1  tvg-name="" tvg-logo="",Yerli Komedi 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:D1:38:5F&stream=184266&extension=ts
+#EXTINF:-1  tvg-name="" tvg-logo="",Yerli Komedi 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:D1:38:5F&stream=184267&extension=ts
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT1 HD.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png",TRT1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
 #EXTINF:-1  tvg-name="Kanal D" tvg-id="KANAL D HD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png",Kanal D
