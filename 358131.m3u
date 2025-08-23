@@ -31,11 +31,11 @@ http://m.devbox.tv:80/play/live.php?mac=00:1A:79:D1:38:5F&stream=3041&extension=
 http://m.devbox.tv:80/play/live.php?mac=00:1A:79:D1:38:5F&stream=3039&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Turk" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png?rkt=DfS6Tgv6Hjr93k3",beIN Movies Turk
 http://m.devbox.tv:80/play/live.php?mac=00:1A:79:D1:38:5F&stream=3038&extension=ts
-#EXTINF:-1  tvg-name="" tvg-logo="",Yerli Komedi 1
+#EXTINF:-1  tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kCe0OALPDnnZi2ryi0nq4Y6VbSf3jCoXPxjOt4NCV9zg",Yerli Komedi 1
 http://m.devbox.tv:80/play/live.php?mac=00:1A:79:D1:38:5F&stream=184263&extension=ts
-#EXTINF:-1  tvg-name="" tvg-logo="",Yerli Komedi 2
+#EXTINF:-1  tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kCe0OALPDnnZi2ryi0nq4Y6VbSf3jCoXPxjOt4NCV9zg",Yerli Komedi 2
 http://m.devbox.tv:80/play/live.php?mac=00:1A:79:D1:38:5F&stream=184266&extension=ts
-#EXTINF:-1  tvg-name="" tvg-logo="",Yerli Komedi 3
+#EXTINF:-1  tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kCe0OALPDnnZi2ryi0nq4Y6VbSf3jCoXPxjOt4NCV9zg",Yerli Komedi 3
 http://m.devbox.tv:80/play/live.php?mac=00:1A:79:D1:38:5F&stream=184267&extension=ts
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT1 HD.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png",TRT1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
