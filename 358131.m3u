@@ -150,7 +150,7 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1  tvg-name="Bengütürk TV" tvg-id="BENGÜTÜRK.tr" tvg-logo="http://assets.tvcdn.net/a8fd43de-872a-4e58-9f07-ff22d21a6c24.png",Bengütürk TV
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1  tvg-name="A Para" tvg-id="A PARA HD.tr" tvg-logo="https://i.ibb.co/20jG5Pnx/GjHnq0c.png",A Para
-http://185.234.111.229:8000/play/a01l
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=_XCYkvWM3jGKlyfnlt22Vw&e=1757045162
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 FHD
 https://tinyurl.com/bein-govd-358131
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1
