@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/exfair/tv/refs/heads/main/code/atv.m3u8
 #EXTINF:-1  tvg-name="Show TV" tvg-id="SHOW TV HD.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1  tvg-name="Now TV" tvg-id="NOW.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",Now TV
-http://176.65.146.123:6002/play/a01j/index.m3u8
+https://raw.githubusercontent.com/683YBBDEa9A4LdYk/nowtv/refs/heads/main/nowtv.m3u8?token=GHSAT0AAAAAADLGKJ4UDUJWLSWEYC4V72MQ2GVAOHA
 http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1  tvg-name="TV8" tvg-id="TV8 HD.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
