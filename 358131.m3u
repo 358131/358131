@@ -51,6 +51,8 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1  tvg-name="Now TV" tvg-id="NOW.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",Now TV
 https://bf6f0f7f-2f6e-47e2-85a4-eeb2bde7d901-00-3cb0lwe0tzitx.janeway.replit.dev/nowtv
 http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1  tvg-name="Now TV" tvg-id="NOW.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",Now TV 2
+https://3b0cdd36-cd66-4e09-bcca-3dbfecc5fe10-00-1iebikkieiqu9.janeway.replit.dev/nowtv
 #EXTINF:-1  tvg-name="TV8" tvg-id="TV8 HD.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
