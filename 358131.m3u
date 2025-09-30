@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shm
 #EXTINF:-1  tvg-name="Sözcü TV" tvg-id="SÖZCÜ TV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png",Sözcü TV
 https://tinyurl.com/SozcuMTv
 #EXTINF:-1  tvg-name="Tele 1" tvg-id="TELE1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png",Tele 1
-https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+https://tinyurl.com/tele1-yt
 #EXTINF:-1  tvg-name="Halk TV" tvg-id="HALK TV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1  tvg-name="CNBC-e" tvg-id="CNBC-E.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png",CNBC-e
