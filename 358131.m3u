@@ -156,12 +156,14 @@ http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913459&extension=t
 http://line.myox.me:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913459&extension=ts
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 3
 http://line.myox.me:80/play/live.php?mac=00:1A:79:0D:F0:61&stream=913459&extension=ts
-#EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 4
+#EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 4" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 4
 http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:0D:A1:7A&stream=913446&extension=ts&play_token=dt0Z5IESQ7
-#EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 5
-http://58315-mobile.oot-mx.me/play/live.php?mac=00:1A:79:48:64:BC&stream=913446&extension=ts
-#EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 6
+#EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 5" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 5
+http://58315-mobile.oot-mx.me/play/live.php?mac=00:1A:79:48:64:BC&stream=913459&extension=ts
+#EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 6" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 6
 http://uhd3.one/play/live.php?mac=00:1A:79:3B:D9:C4&stream=913446&extension=ts
+#EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 7" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 7
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:7B:04&stream=401091&extension=ts
 #EXTINF:-1  tvg-name="DHA Canlı 1" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png",DHA Canlı 1
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist.m3u8
 #EXTINF:-1  tvg-name="DHA Canlı 2" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png",DHA Canlı 2
