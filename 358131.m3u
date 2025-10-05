@@ -151,11 +151,11 @@ https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1  tvg-name="A Para" tvg-id="A PARA HD.tr" tvg-logo="https://i.ibb.co/20jG5Pnx/GjHnq0c.png",A Para
 https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=_XCYkvWM3jGKlyfnlt22Vw&e=1757045162
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 1
-http://uhd3.one:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913459&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:D1:D0:57&stream=913459&extension=ts
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 2" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 2
-http://line.myox.me:80/play/live.php?mac=00:1A:79:c1:ee:ad&stream=913459&extension=ts
+http://line.myox.me:80/play/live.php?mac=00:1A:79:BD:41:4F&stream=913459&extension=ts
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 3
-http://line.myox.me:80/play/live.php?mac=00:1A:79:0D:F0:61&stream=913459&extension=ts
+http://line.myox.me:80/play/live.php?mac=00:1A:79:DA:72:67&stream=913459&extension=ts
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 4" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 4
 http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:0D:A1:7A&stream=913446&extension=ts&play_token=dt0Z5IESQ7
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 5" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 5
