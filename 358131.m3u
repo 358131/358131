@@ -153,7 +153,7 @@ https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=_XCYkvWM3jGKlyfnlt22Vw&e=17
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 1
 http://uhd3.one:80/play/live.php?mac=00:1A:79:D1:D0:57&stream=913459&extension=ts
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 2" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 2
-http://line.myox.me:80/play/live.php?mac=00:1A:79:BD:41:4F&stream=913459&extension=ts
+http://line.myox.me:80/play/live.php?mac=00:1A:79:10:C9:58&stream=913459&extension=ts
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 3
 http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:46:DD:64&stream=913447&extension=ts
 #EXTINF:-1  tvg-name="BEIN SPORTS 1 MAC 4" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_.png",BEIN SPORTS 1 MAC 4
