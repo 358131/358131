@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shm
 #EXTINF:-1  tvg-name="Sözcü TV" tvg-id="SÖZCÜ TV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png",Sözcü TV
 https://tinyurl.com/SozcuMTv
 #EXTINF:-1  tvg-name="Tele 1" tvg-id="TELE1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png",Tele 1
-https://tinyurl.com/tele1-yt
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1  tvg-name="Halk TV" tvg-id="HALK TV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1  tvg-name="CNBC-e" tvg-id="CNBC-E.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png",CNBC-e
@@ -111,9 +111,9 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1  tvg-name="TİVİ6" tvg-id="TİVİ6.tr" tvg-logo="https://tivi6.com.tr/wp-content/uploads/2025/03/logo_448x200-01.png",TİVİ6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1  tvg-name="KEMAL SUNAL" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2023/07/02/thumbs_b_c_d0016ff7fe0413204939e2bb8cf61913.jpg?v=134948",KEMAL SUNAL
-http://tinyurl.com/2x3mk6ts
+https://tinyurl.com/KemalSunalim
 #EXTINF:-1  tvg-name="YEŞİLÇAM ARZU FİLM 7/24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE",YEŞİLÇAM ARZU FİLM
-https://tinyurl.com/25uyan6z
+https://tinyurl.com/yesilcamm
 #EXTINF:-1  tvg-name="KEMAL SUNAL" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2023/07/02/thumbs_b_c_d0016ff7fe0413204939e2bb8cf61913.jpg?v=134948",KEMAL SUNAL GÜLŞAH FİLM
 https://tinyurl.com/kemal-sunal-1
 #EXTINF:-1  tvg-name="TGRT HABER" tvg-id="TGRT HABER HD.tr" tvg-logo="http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png",TGRT HABER
