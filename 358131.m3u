@@ -10,7 +10,7 @@ http://m.devbox.tv:80/play/live.php?mac=00:1A:79:B4:2F:B6&stream=170405&extensio
 #EXTINF:-1  tvg-name="SINEMA KOMEDI" tvg-id="SİNEMA KOMEDİ HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png",SINEMA KOMEDI
 http://m.devbox.tv:80/play/live.php?mac=00:1A:79:B4:2F:B6&stream=170407&extension=ts
 #EXTINF:-1  tvg-name="SINEMA KOMEDI 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komedi.png",SINEMA KOMEDI 2
-http://uhd3.one:80/play/live.php?mac=00:1A:79:6E:5C:0E&stream=913315&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:92:0F:5F&stream=913315&extension=ts
 #EXTINF:-1  tvg-name="SINEMA 1001" tvg-id="SİNEMA TV 1001 HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1001-768x94.png",SINEMA 1001
 http://m.devbox.tv:80/play/live.php?mac=00:1A:79:B4:2F:B6&stream=89837&extension=ts
 #EXTINF:-1  tvg-name="SINEMA 1002" tvg-id="SİNEMA 1002 HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1002.png",SINEMA 1002
@@ -20,7 +20,7 @@ http://m.devbox.tv:80/play/live.php?mac=00:1A:79:B4:2F:B6&stream=170408&extensio
 #EXTINF:-1  tvg-name="SINEMA YERLI 2" tvg-id="SİNEMA YERLİ 2 HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-yerli-2.png",SINEMA YERLI 2
 http://m.devbox.tv:80/play/live.php?mac=00:1A:79:B4:2F:B6&stream=170406&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Action" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png",beIN Movies Action
-http://uhd3.one:80/play/live.php?mac=00:1A:79:6E:5C:0E&stream=913330&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:92:0F:5F&stream=913330&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Action 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-2-logo.png",beIN Movies Action 2
 http://m.devbox.tv:80/play/live.php?mac=00:1A:79:B4:2F:B6&stream=3046&extension=ts
 #EXTINF:-1  tvg-name="beIN Movies Premiere" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3",beIN Movies Premiere
@@ -143,7 +143,7 @@ https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1  tvg-name="Bloomberg HT" tvg-id="BLOOMBERG HT HD.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1  tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png",NBA TV
-http://uhd3.one:80/play/live.php?mac=00:1A:79:6E:5C:0E&stream=913368&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:92:0F:5F&stream=913368&extension=ts
 #EXTINF:-1  tvg-name="Sports TV" tvg-id="SPORTS TV HD.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1  tvg-name="Bengütürk TV" tvg-id="BENGÜTÜRK.tr" tvg-logo="http://assets.tvcdn.net/a8fd43de-872a-4e58-9f07-ff22d21a6c24.png",Bengütürk TV
