@@ -40,24 +40,23 @@ http://m.devbox.tv:80/play/live.php?mac=00:1A:79:B4:2F:B6&stream=184267&extensio
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT1 HD.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png",TRT1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
 #EXTINF:-1  tvg-name="Kanal D" tvg-id="KANAL D HD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3&ppid=
 #EXTINF:-1  tvg-name="Star TV" tvg-id="STAR TV HD.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png",Star TV
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1  tvg-name="atv" tvg-id="ATV HD.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png",atv
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 https://raw.githubusercontent.com/exfair/tv/refs/heads/main/code/atv.m3u8
 #EXTINF:-1  tvg-name="Show TV" tvg-id="SHOW TV HD.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png",Show TV
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1&ppid=
 #EXTINF:-1  tvg-name="Now TV" tvg-id="NOW.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",Now TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1  tvg-name="TV8" tvg-id="TV8 HD.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png",TV8
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7u18th7e256z&app=
 #EXTINF:-1  tvg-name="A2" tvg-id="A2 HD.tr" tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png",A2
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1  tvg-name="teve2" tvg-id="TEVE2 HD.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png",teve2
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ppid=
 #EXTINF:-1  tvg-name="Kanal 7" tvg-id="KANAL 7 HD.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1  tvg-name="Beyaz TV" tvg-id="BEYAZ TV HD.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png",Beyaz TV
@@ -73,7 +72,7 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1  tvg-name="Show Türk" tvg-id="SHOW TV HD.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png",Show Türk
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showturk.m3u8
 #EXTINF:-1  tvg-name="TV8 5" tvg-id="TV8,5 HD.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png",TV8 5
-https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3&ppid=
 #EXTINF:-1  tvg-name="Show Max" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png",Show Max
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:-1  tvg-name="Sözcü TV" tvg-id="SÖZCÜ TV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png",Sözcü TV
@@ -91,7 +90,7 @@ https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor&dfp_paln=
 https://tv-trtspor2.medya.trt.com.tr/master_1080.m3u8
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-name="HT Spor" tvg-id="HT SPOR.tr" tvg-logo="https://i.hizliresim.com/m67fu0t.png",HT Spor
-https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
+https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?app=web&ppid=
 #EXTINF:-1  tvg-name="A Spor" tvg-id="A SPOR HD.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1  tvg-name="TRT Belgesel.tr" tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-belgesel-televizyon-kanali.0baaa5a.png",TRT BELGESEL
@@ -105,17 +104,15 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1  tvg-name="Discovery.tr" tvg-id="DISCOVERY CHANNEL HD.tr" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1",DISCOVERY CHANNEL
 http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:46:DD:64&stream=913182&extension=ts
 #EXTINF:-1  tvg-name="DMAX" tvg-id="DMAX HD.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7
 #EXTINF:-1  tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png",TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 #EXTINF:-1  tvg-name="TİVİ6" tvg-id="TİVİ6.tr" tvg-logo="https://tivi6.com.tr/wp-content/uploads/2025/03/logo_448x200-01.png",TİVİ6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1  tvg-name="KEMAL SUNAL" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2023/07/02/thumbs_b_c_d0016ff7fe0413204939e2bb8cf61913.jpg?v=134948",KEMAL SUNAL
 https://tinyurl.com/KemalSunalim
 #EXTINF:-1  tvg-name="YEŞİLÇAM ARZU FİLM 7/24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE",YEŞİLÇAM ARZU FİLM
 https://tinyurl.com/yesilcamm
-#EXTINF:-1  tvg-name="KEMAL SUNAL" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2023/07/02/thumbs_b_c_d0016ff7fe0413204939e2bb8cf61913.jpg?v=134948",KEMAL SUNAL GÜLŞAH FİLM
-https://tinyurl.com/kemal-sunal-1
 #EXTINF:-1  tvg-name="TGRT HABER" tvg-id="TGRT HABER HD.tr" tvg-logo="http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1  tvg-name="TRT Haber" tvg-id="TRT HABER HD.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png",TRT Haber
