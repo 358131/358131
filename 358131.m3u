@@ -38,7 +38,7 @@ http://m.devbox.tv:80/play/live.php?mac=00:1A:79:B4:2F:B6&stream=184266&extensio
 #EXTINF:-1  tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kCe0OALPDnnZi2ryi0nq4Y6VbSf3jCoXPxjOt4NCV9zg",Yerli Komedi 3
 http://m.devbox.tv:80/play/live.php?mac=00:1A:79:B4:2F:B6&stream=184267&extension=ts
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT1 HD.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png",TRT1
-https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web&ppid=3b4bc9c5fa0916c872d6068b61a87350
 #EXTINF:-1  tvg-name="Kanal D" tvg-id="KANAL D HD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3&ppid=
 #EXTINF:-1  tvg-name="Star TV" tvg-id="STAR TV HD.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png",Star TV
